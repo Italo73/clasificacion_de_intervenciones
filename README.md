@@ -8,6 +8,8 @@ En el contexto de las metodologías ágiles, la comunicación efectiva es fundam
 
 El sistema utiliza modelos de aprendizaje automático entrenados con un dataset artificial para identificar la naturaleza de cada intervención, aportando una estructura clara a la comunicación en los equipos ágiles.
 
+En la carpeta myapp/ se encuentra el Jupyter notebook "Entrenamiento.ipynb". Al ejecutarlo, se crearán las visualizaciones correspondientes de los gráficos, para luego ser mostradas en la interfaz gráfica desarrollada con Django.
+
 ## Instalación
 
 1. Clona el repositorio en tu máquina local:
@@ -18,19 +20,23 @@ El sistema utiliza modelos de aprendizaje automático entrenados con un dataset 
 
 2. Crea un entorno virtual y actívalo:
 
-python -m venv venv
-source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
 
 3. Instala las dependencias:
+   
+   ```bash
+   pip install -r requerimientos.txt
 
-pip install -r requerimientos.txt
-
-4. Realiza las migraciones de la base de datos:
-
-python manage.py migrate
+5. Realiza las migraciones de la base de datos:
+   
+   ```bash
+   python manage.py migrate
 
 5. Inicia el servidor de desarrollo:
 
-python manage.py runserver
+   ```bash
+   python manage.py runserver
 
 6. Abre tu navegador y accede a http://127.0.0.1:8000 para ver la aplicación en funcionamiento.
