@@ -1,0 +1,322 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:00.14",
+			"end_time": "00:00:10.92",
+			"text": " Yo como administrador de salas necesito gestionar la informaci\u00f3n de la asignaci\u00f3n de salas y laboratorios a las asignaturas para evitar traslaves y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:15.63",
+			"end_time": "00:00:17.96",
+			"text": "Sigue siendo lo mismo pr\u00e1cticamente."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:18.01",
+			"end_time": "00:00:21.39",
+			"text": "Porque el sistema como tal es para la inscripci\u00f3n de las asignaturas de alumnos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:21.60",
+			"end_time": "00:00:22.42",
+			"text": "Entonces, \u00bfcu\u00e1l es el problema?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:22.44",
+			"end_time": "00:00:27.05",
+			"text": "Es que no se manejan los datos directamente de la sala ni de la asignatura."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:27.60",
+			"end_time": "00:00:29.62",
+			"text": "Entonces, vamos a tener que tirar dos m\u00f3dulos a la vez."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:50.56",
+			"end_time": "00:00:59.10",
+			"text": " Por el contexto del sistema, como solo se manejan las inscripciones de los estudiantes, no se tienen en realidad dominios sobre los datos de la asignatura como tal, ni de la sala."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:59.85",
+			"end_time": "00:01:05.29",
+			"text": " Por lo tanto, nosotros tendr\u00edamos que crear un m\u00f3dulo aparte que pueda manejar esas dos o integrar los m\u00f3dulos que ya est\u00e1n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:05.85",
+			"end_time": "00:01:09.37",
+			"text": "Y eso en realidad hay que ver c\u00f3mo se va relacionando la informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:09.64",
+			"end_time": "00:01:12.78",
+			"text": "Porque solamente controlamos lo de la asignatura, la adquisici\u00f3n de asignatura."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:13.18",
+			"end_time": "00:01:15.20",
+			"text": "Nada m\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:15.50",
+			"end_time": "00:01:18.15",
+			"text": "Como yo complement\u00e9"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:18.18",
+			"end_time": "00:01:21.18",
+			"text": "Bueno, el sistema s\u00ed est\u00e1 como ya montado, por as\u00ed decirlo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:21.31",
+			"end_time": "00:01:24.01",
+			"text": "Y lo \u00fanico que faltar\u00eda ser\u00eda integrar los m\u00f3dulos que est\u00e1n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:24.56",
+			"end_time": "00:01:28.73",
+			"text": "Y quiz\u00e1 entender un poquito la estructura de los datos que se est\u00e1n trabajando y todo eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:30.04",
+			"end_time": "00:01:42.56",
+			"text": " y tratar de canalizar la informaci\u00f3n desde AppTui, que ser\u00eda el dispositivo m\u00f3vil por as\u00ed decirlo, hasta el contenedor de inscripciones para poder manejar la informaci\u00f3n, entonces no ser\u00eda como tanto... tanta complejidad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:42.59",
+			"end_time": "00:01:44.95",
+			"text": "\u00bfQu\u00e9 opinan ustedes?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:45.00",
+			"end_time": "00:01:58.04",
+			"text": "Yo opino que tampoco requiere tanta complejidad porque hasta ahora esto ya est\u00e1 hecho y el m\u00f3dulo que hay que montar no encuentro que requiera tanto... yo creo que va a ser m\u00e1s costoso intentar entender la informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:58.79",
+			"end_time": "00:02:04.45",
+			"text": " Y lo que hay por detr\u00e1s, el c\u00f3digo, todo eso es la implementaci\u00f3n del c\u00f3digo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:04.51",
+			"end_time": "00:02:06.45",
+			"text": "Igual depende de la necesidad de cada ramo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:07.53",
+			"end_time": "00:02:10.71",
+			"text": "No cualquier ramo lo haya de entregar un laboratorio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:10.78",
+			"end_time": "00:02:12.28",
+			"text": "Habr\u00eda que evaluar eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:12.68",
+			"end_time": "00:02:19.40",
+			"text": "Habr\u00eda que ver si las secciones tambi\u00e9n se est\u00e1n trabajando dentro del tema de la asignatura."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:20.03",
+			"end_time": "00:02:26.96",
+			"text": "De hecho, de cierta manera, yo creo que podr\u00eda llegar hasta el grado 4."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:27.88",
+			"end_time": "00:02:33.15",
+			"text": " Si es que a lo mejor los datos como tal son... Las relaciones que hay son demasiado complejos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:33.31",
+			"end_time": "00:02:41.96",
+			"text": "Por lo mejor si hay ciertas entidades para el lavatorio, ciertas entidades para la sala, eso despu\u00e9s para hacer el cruce de informaci\u00f3n y asignar la asignatura va a ser m\u00e1s complejo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:42.75",
+			"end_time": "00:02:46.11",
+			"text": "Llegar y relacionarlo por la parte del modo de datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:46.49",
+			"end_time": "00:02:52.12",
+			"text": "Si bien la integraci\u00f3n va a ser sencilla, digamos, a lo mejor la estructura de los datos, las relaciones, eso nos va a complicar m\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:52.99",
+			"end_time": "00:02:53.61",
+			"text": "Porque ya est\u00e1 hecha."
+		},
+		{
+			"speaker": "SPEAKER_03 ",
+			"start_time": "00:02:53.94",
+			"end_time": "00:02:54.05",
+			"text": "S\u00ed, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:56.88",
+			"end_time": "00:03:02.90",
+			"text": " S\u00ed, porque el \u00e1rea de frontend es f\u00e1cil de poder visualizarlo, pero la l\u00f3gica por detr\u00e1s puede que lleve un poquito m\u00e1s de tiempo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:04.66",
+			"end_time": "00:03:06.84",
+			"text": "Ser\u00eda entenderlo y, \u00bfah?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:08.53",
+			"end_time": "00:03:22.00",
+			"text": "Y no s\u00e9, igual se podr\u00eda crear una cosa aparte, un modelo aparte del tema ese de la inscripci\u00f3n, porque al final como son hartas asignaciones, si lo veis desde base de datos , SQL y todo eso, est\u00e1 en la parte donde ten\u00e9is que meter las dos cosas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:23.47",
+			"end_time": "00:03:26.09",
+			"text": " Y ya deber\u00eda ver si la consistencia es lo mismo o no."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:26.12",
+			"end_time": "00:03:35.18",
+			"text": "A lo mejor tomamos mucha informaci\u00f3n en ese... Entonces yo creo que por la parte de integraci\u00f3n como de software, no creo que sea muy complejo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:35.24",
+			"end_time": "00:03:36.78",
+			"text": "Ahora podemos tener complicaciones con los datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:37.15",
+			"end_time": "00:03:40.68",
+			"text": "Yo creo que ese ser\u00eda como el \u00fanico dificultad que tendr\u00edamos en el desarrollo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:40.80",
+			"end_time": "00:03:41.28",
+			"text": "S\u00ed, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03 ",
+			"start_time": "00:03:41.50",
+			"end_time": "00:03:43.93",
+			"text": "Yo creo que s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:45.69",
+			"end_time": "00:03:48.08",
+			"text": "Y entender el c\u00f3digo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:48.12",
+			"end_time": "00:03:49.90",
+			"text": "Y entender el c\u00f3digo tambi\u00e9n es importante."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:50.30",
+			"end_time": "00:03:52.25",
+			"text": "Y el entendimiento del c\u00f3digo es lo m\u00e1s terrible."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:52.43",
+			"end_time": "00:03:53.00",
+			"text": "S\u00ed, en realidad s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:53.96",
+			"end_time": "00:03:59.00",
+			"text": " Creo que software ser\u00eda f\u00e1cil si es que no hay nada, pero si hay algo hecho, creo que ah\u00ed a lo mejor podr\u00eda aumentar los recursos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:59.37",
+			"end_time": "00:04:00.53",
+			"text": "Y m\u00e1s si es un practicante."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:00.68",
+			"end_time": "00:04:05.94",
+			"text": "O est\u00e1 mal implementado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:05.96",
+			"end_time": "00:04:07.28",
+			"text": "Entonces, \u00bfel 3?"
+		},
+		{
+			"speaker": "SPEAKER_03 ",
+			"start_time": "00:04:07.50",
+			"end_time": "00:04:09.84",
+			"text": "S\u00ed, el 3."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:10.87",
+			"end_time": "00:04:11.75",
+			"text": "Estamos de acuerdo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:11.78",
+			"end_time": "00:04:12.78",
+			"text": "Estamos todos de acuerdo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:14.25",
+			"end_time": "00:04:15.43",
+			"text": "\u00bfY el acaso?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:15.53",
+			"end_time": "00:04:16.69",
+			"text": "\u00bfEstamos de acuerdo?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:17.43",
+			"end_time": "00:04:19.00",
+			"text": "S\u00ed."
+		}
+	]
+}

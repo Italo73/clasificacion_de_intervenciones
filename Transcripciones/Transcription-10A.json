@@ -1,0 +1,544 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:56.99",
+			"end_time": "00:00:59.04",
+			"text": " Yo creo que ahora cada uno habla."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:59.53",
+			"end_time": "00:01:00.18",
+			"text": "Vamos por partes."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:00.21",
+			"end_time": "00:01:05.35",
+			"text": "Habla uno, dice lo que piensa y debatimos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:06.14",
+			"end_time": "00:01:07.98",
+			"text": "Parte t\u00fa, que terminas t\u00fa."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:16.20",
+			"end_time": "00:01:19.20",
+			"text": " Un tema que esto despu\u00e9s tiene, debe ser despu\u00e9s de otra iteraci\u00f3n, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:19.90",
+			"end_time": "00:01:23.75",
+			"text": "Dice, yo como estudiante necesito ver mi horario semanal para conocer en qu\u00e9 horario iba a irse ac\u00e1."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:23.90",
+			"end_time": "00:01:26.31",
+			"text": "No, dos iteraciones despu\u00e9s de los otros."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:26.76",
+			"end_time": "00:01:32.82",
+			"text": "O sea, por lo que yo entend\u00ed, esta es una historia de usuario, no tenemos que asumir que el otro est\u00e1 hecho o no est\u00e1 hecho."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:33.06",
+			"end_time": "00:01:40.18",
+			"text": "O sea, nosotros tenemos que asumir que est\u00e1n los cuatro contenedores, o sea, nosotros en realidad estamos trabajando en consulta asignatura, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:47.37",
+			"end_time": "00:01:49.10",
+			"text": " O sea, tenemos que ver que..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:49.37",
+			"end_time": "00:01:51.70",
+			"text": "Vamos dando cada uno lo que piensa."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:53.73",
+			"end_time": "00:02:05.46",
+			"text": "O sea, si vemos como estudiante, necesito ver... O sea, lo primero que tenemos que saber es que si el estudiante tiene que estar inscrito, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:06.12",
+			"end_time": "00:02:13.59",
+			"text": "Tiene que estar inscrito, tener el servicio de inscripci\u00f3n y... Y bueno, depende de las tres, porque..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:14.86",
+			"end_time": "00:02:25.40",
+			"text": " Entonces yo creo que igual... Me deja como dudoso."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:25.41",
+			"end_time": "00:02:25.96",
+			"text": "Me deja dudoso todav\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:25.97",
+			"end_time": "00:02:35.06",
+			"text": "Y a m\u00ed, por lo que me parece, yo igual entiendo de que si un estudiante inscribe, ya necesita saber su horario."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:35.08",
+			"end_time": "00:02:40.59",
+			"text": "O sea, porque ya te deber\u00edan asignar una vez que t\u00fa te inscrib\u00eds al ramo, cierta asignatura."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:41.03",
+			"end_time": "00:02:41.84",
+			"text": "Entonces tal vez..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:42.96",
+			"end_time": "00:03:00.93",
+			"text": " Puede que solo para eso ocupemos las dos primeras... O sea, en realidad es muy similar a la anterior porque igual necesitamos preguntar, pero como el tema es que necesitamos el horario espec\u00edfico, yo creo que eso ya se puede saber una vez se inscriba el ramo, considerando obviamente que ya est\u00e1n dispuestos los profesores y todo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:01.36",
+			"end_time": "00:03:03.37",
+			"text": "S\u00ed, justamente tenemos que ver eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:04.28",
+			"end_time": "00:03:09.34",
+			"text": "Ahora el tema, a nivel de complejidad, yo creo que esto tambi\u00e9n es..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:11.09",
+			"end_time": "00:03:14.31",
+			"text": " Es muy similar al otro porque estamos ocupando los tres contenedores en realidad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:14.34",
+			"end_time": "00:03:16.56",
+			"text": "O sea, las tres APIs."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:17.12",
+			"end_time": "00:03:17.84",
+			"text": "Depende de esas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:18.34",
+			"end_time": "00:03:19.43",
+			"text": "Depende s\u00ed o s\u00ed de esas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:19.49",
+			"end_time": "00:03:25.43",
+			"text": "Ahora... Sigue t\u00fa, sigamos poniendo la vuelta."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:26.34",
+			"end_time": "00:03:27.59",
+			"text": "Vamos pensando por mientras."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:34.78",
+			"end_time": "00:03:39.81",
+			"text": "O sea, considerando que lo verdad es que por lo profesional ya est\u00e1n listos y que los dos contenedores que..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:40.84",
+			"end_time": "00:03:47.02",
+			"text": " la inscripci\u00f3n de servidor y la inscripci\u00f3n app ya est\u00e1n funcionando 100%?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:48.36",
+			"end_time": "00:04:00.37",
+			"text": "O sea, si asumimos eso, o sea, se asume que, yo creo que nosotros deber\u00edamos asumir que en el momento que se va a inscribir el ramo, ya hay un profesor designado para el ramo y hay un horario designado para el mismo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:00.99",
+			"end_time": "00:04:07.50",
+			"text": "Yo creo que eso tenemos que, o sea, lo que tenemos que hacer aqu\u00ed es que tenemos que pensar como que en el mejor caso, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:08.71",
+			"end_time": "00:04:09.99",
+			"text": "O sea, no necesariamente."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:11.84",
+			"end_time": "00:04:26.60",
+			"text": " Yo creo que, bueno, lo primero que tenemos que ver es que eso yo creo que es externo, porque no tiene que ver con el sistema, porque esto lo deber\u00eda inscribir, por ejemplo, los decanos y cada escuela deber\u00eda dar, no s\u00e9, yo tengo tales profesores que van a dar tal ramo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:26.62",
+			"end_time": "00:04:31.93",
+			"text": "O sea, ya en el momento que el estudiante se va a inscribir, ya deber\u00eda estar todo eso dispuesto."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:33.94",
+			"end_time": "00:04:38.44",
+			"text": "Entonces, si fuera ese el caso, es recolectar la informaci\u00f3n, pero a\u00fan as\u00ed..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:40.30",
+			"end_time": "00:04:52.64",
+			"text": " considerando que son dos semanas para el desarrollo, yo creo que igual se va a necesitar tiempo y para hacer la iteraci\u00f3n yo creo que tambi\u00e9n ser\u00eda entre tres o cuatro."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:55.61",
+			"end_time": "00:05:05.69",
+			"text": "No s\u00e9, sigamos pensando hasta que lleguemos al consenso bien."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:07.54",
+			"end_time": "00:05:14.24",
+			"text": " Si tomamos en cuenta el mejor caso, deber\u00eda llegar a un caso sencillo, considero yo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:14.69",
+			"end_time": "00:05:20.89",
+			"text": "En el mejor caso de que est\u00e9 todo funcionando, como estaba encargada la mantenci\u00f3n, no ocurra ning\u00fan error en estos tres."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:23.18",
+			"end_time": "00:05:28.31",
+			"text": "Yo considero que debe ser algo sencillo de implementar teniendo en cuenta solamente el mejor caso."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:38.50",
+			"end_time": "00:05:45.41",
+			"text": " O sea, mira, mi punto de vista igual, en el mejor caso, como dice mi compa\u00f1ero, yo creo que es que esto es sencillo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:45.67",
+			"end_time": "00:06:00.50",
+			"text": "Se podr\u00eda hacer f\u00e1cilmente si es que tenemos toda la facilidad de que tanto como se inscribi\u00f3 de buena manera el estudiante, si es que la coordinaci\u00f3n con los profesores y los horarios tambi\u00e9n establecidos, tanto con los laboratorios y todo eso, se puede dar que eso puede generarse f\u00e1cilmente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:01.04",
+			"end_time": "00:06:04.04",
+			"text": "Pero imag\u00ednate en el caso de que tengamos el problema de que"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:05.68",
+			"end_time": "00:06:09.31",
+			"text": " tenga problemas de inscripci\u00f3n un estudiante o, por ejemplo, un profesor cambia su horario."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:09.47",
+			"end_time": "00:06:23.36",
+			"text": "Yo creo que eso dentro de todo igual lo deber\u00edamos tener en consideraci\u00f3n porque si ponemos, por ejemplo, sencillo significa que podemos agregar por lo menos otra historia que sea similar a esa dentro de la iteraci\u00f3n, que la iteraci\u00f3n tenemos que considerar que es de dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:24.69",
+			"end_time": "00:06:25.01",
+			"text": "\u00bfCachai?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:25.06",
+			"end_time": "00:06:29.98",
+			"text": "O sea, claro, considerando ese caso que funcione todo bien ser\u00eda como un get nom\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:30.16",
+			"end_time": "00:06:31.60",
+			"text": "O sea, recolectar los datos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:32.37",
+			"end_time": "00:06:34.33",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:34.39",
+			"end_time": "00:06:34.62",
+			"text": "Ahora"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:35.43",
+			"end_time": "00:06:47.61",
+			"text": " Yo creo que esto tiene que ver m\u00e1s de la parte con el backend, porque directamente tiene que requerir todos los datos de horarios, las salas, etc."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:47.67",
+			"end_time": "00:06:50.12",
+			"text": "Los tiene que requerir a la parte del backend."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:50.49",
+			"end_time": "00:06:51.41",
+			"text": "Son queries en realidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:53.00",
+			"end_time": "00:06:58.87",
+			"text": "Yo creo que aqu\u00ed el tema de la base de datos ser\u00eda como el ingreso de la informaci\u00f3n ya no ser\u00eda parte de nosotros."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:59.11",
+			"end_time": "00:07:03.64",
+			"text": "O sea, nosotros tenemos que estar encargados de que est\u00e9 funcionando correctamente la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:04.08",
+			"end_time": "00:07:08.32",
+			"text": " O sea, nosotros nos dicen que nosotros estamos a cargo de la parte de asignaturas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:08.56",
+			"end_time": "00:07:13.06",
+			"text": "S\u00ed, pues eso ya ser\u00eda parte de la academia, es la inscripci\u00f3n de estudiantes y todo eso."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:13.68",
+			"end_time": "00:07:25.11",
+			"text": "Entonces nosotros solo nos encargamos de que est\u00e9 funcionando correctamente y bueno, a trav\u00e9s de toda esa deducci\u00f3n que hice yo creo que podr\u00edamos decir que es sencillo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:25.12",
+			"end_time": "00:07:25.85",
+			"text": "Me quedo con esto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:26.08",
+			"end_time": "00:07:28.85",
+			"text": "S\u00ed, pues considerando que todo el horario ya est\u00e1 dentro."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:29.31",
+			"end_time": "00:07:31.88",
+			"text": "Considerando que hay que tomar en cuenta sobre esa historia de usuario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:32.04",
+			"end_time": "00:07:32.14",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:33.12",
+			"end_time": "00:07:34.06",
+			"text": " Yo me quedo con el 3."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:34.10",
+			"end_time": "00:07:44.75",
+			"text": "Pienso que se podr\u00eda agregar una historia de menor dificultad, pero... O sea, considerando que es poco tiempo, una iteraci\u00f3n de dos semanas para desarrollar una funcionalidad, yo creo que ser\u00eda la 3."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:46.92",
+			"end_time": "00:07:48.13",
+			"text": "Votemos entonces."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:48.99",
+			"end_time": "00:07:51.18",
+			"text": "Entonces quedamos con la 2."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:51.25",
+			"end_time": "00:07:59.02",
+			"text": "\u00bfC\u00f3mo ser\u00e1 mejor quedarnos con la m\u00e1s baja?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:59.05",
+			"end_time": "00:07:59.29",
+			"text": "\u00bfPor qu\u00e9?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:00.56",
+			"end_time": "00:08:01.11",
+			"text": "\u00bfCon la m\u00e1s baja o...?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:02.88",
+			"end_time": "00:08:03.35",
+			"text": " \u00bfQu\u00e9 decir?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:03.37",
+			"end_time": "00:08:03.41",
+			"text": "\u00bfLa 1?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:04.49",
+			"end_time": "00:08:06.23",
+			"text": "No, la m\u00e1s..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:06.49",
+			"end_time": "00:08:07.73",
+			"text": "\u00bfLa m\u00e1s alta o la m\u00e1s baja?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:07.75",
+			"end_time": "00:08:08.88",
+			"text": "La m\u00e1s alta."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:08.91",
+			"end_time": "00:08:09.32",
+			"text": "\u00bfPor qu\u00e9?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:11.68",
+			"end_time": "00:08:16.87",
+			"text": "O sea, como equipo yo pienso que tambi\u00e9n deber\u00edamos tener la consideraci\u00f3n de imprevistos siempre."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:16.88",
+			"end_time": "00:08:23.18",
+			"text": "Si no se puede arreglar despu\u00e9s por tener un tiempo extra."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:23.43",
+			"end_time": "00:08:26.24",
+			"text": "Es que ten\u00e9s que considerar que estamos trabajando en desarrollo \u00e1gil."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:27.04",
+			"end_time": "00:08:29.80",
+			"text": "O sea, si t\u00fa ves que el proyecto va de buena manera, t\u00fa ten\u00e9s que estimar"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:30.92",
+			"end_time": "00:08:37.29",
+			"text": " cu\u00e1nto te puedes demorar, pero si dentro de la iteraci\u00f3n veis que el problema lo pudiste solucionar relativamente f\u00e1cil, entonces pod\u00edas agregar m\u00e1s cosas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:37.89",
+			"end_time": "00:08:39.07",
+			"text": "Yo me quedar\u00eda con la 3 igual."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:41.65",
+			"end_time": "00:08:42.78",
+			"text": "Diciendo que es una pista."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:44.37",
+			"end_time": "00:08:50.23",
+			"text": "Que no es 100% seguro de que los dos contenedores est\u00e9n 100% a funcionar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:50.90",
+			"end_time": "00:08:51.33",
+			"text": "La 3, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:53.38",
+			"end_time": "00:08:55.28",
+			"text": "Vale, entonces nos quedamos, \u00bfc\u00f3mo es con la 3?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:55.80",
+			"end_time": "00:08:56.19",
+			"text": "Por medio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:58.16",
+			"end_time": "00:08:58.61",
+			"text": "Ya, votemos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:58.85",
+			"end_time": "00:08:59.21",
+			"text": "Votemos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:01.75",
+			"end_time": "00:09:01.88",
+			"text": " Ya."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:01.92",
+			"end_time": "00:09:07.75",
+			"text": "Elegimos la opci\u00f3n 3, que ser\u00eda dificultad media."
+		}
+	]
+}

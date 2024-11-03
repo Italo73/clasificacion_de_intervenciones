@@ -1,0 +1,568 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:05.92",
+			"end_time": "00:00:17.73",
+			"text": " Historia de usuario B. Yo, como administrador de salas, necesito gestionar la informaci\u00f3n, la designaci\u00f3n de salas y laboratorios a las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:17.75",
+			"end_time": "00:00:26.03",
+			"text": "Yo, como administrador de salas, necesito gestionar la informaci\u00f3n, la designaci\u00f3n de salas y laboratorios a las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:17.56",
+			"end_time": "00:02:20.27",
+			"text": " Un problema que ya se tiene presente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:23.65",
+			"end_time": "00:02:26.84",
+			"text": "Creo que yo ya tengo mi..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:26.88",
+			"end_time": "00:02:27.25",
+			"text": "Yo mas o menos igual."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:27.87",
+			"end_time": "00:02:28.12",
+			"text": "\u00bfTambi\u00e9n?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:28.75",
+			"end_time": "00:02:29.21",
+			"text": "Casi, casi."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:29.62",
+			"end_time": "00:02:31.41",
+			"text": "Ya, d\u00e9jame... d\u00e9jame contemplar esto."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:36.31",
+			"end_time": "00:02:58.31",
+			"text": " ya yo estoy \u00bfestamos todos entonces?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:58.37",
+			"end_time": "00:03:01.37",
+			"text": "\u00bfest\u00e1n listos?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:01.50",
+			"end_time": "00:03:04.03",
+			"text": "la de tres levantamos la mano con el n\u00famero uno, dos"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:06.25",
+			"end_time": "00:03:06.53",
+			"text": " Tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:08.31",
+			"end_time": "00:03:08.46",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:08.69",
+			"end_time": "00:03:12.37",
+			"text": "Tres."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:12.62",
+			"end_time": "00:03:19.55",
+			"text": "Yo digo, ejemplo, si vamos a entrar a Fundemate, uno sabemos cu\u00e1ntos inscritos se incluyeron en la carrera."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:20.71",
+			"end_time": "00:03:26.31",
+			"text": "Y sabemos cu\u00e1nta gente, por base de datos, se echaron al ramo Fundemate, digamos, como ejemplo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:26.49",
+			"end_time": "00:03:30.56",
+			"text": "Entonces ya tenemos una cantidad de alumnos que se echaron, una cantidad de alumnos que ya est\u00e1n ingresando."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:30.59",
+			"end_time": "00:03:33.33",
+			"text": "Y ya tenemos que saber cu\u00e1nta gente va a entrar."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:34.12",
+			"end_time": "00:03:37.63",
+			"text": " poder obtener un margen de estimaci\u00f3n de un poco m\u00e1s para se\u00f1alarlas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:37.71",
+			"end_time": "00:03:48.65",
+			"text": "Entonces, siempre van a tener una cantidad promedio por los anteriores que quedan guardados y por los ramos que se est\u00e1n pasando, porque siempre los ramos te piden la gente que pre-requisito tu requisito."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:48.65",
+			"end_time": "00:03:59.38",
+			"text": "Entonces, como de funda de un ramo que te pide otro y 50 pasaron, podemos decir que 50 van a tomar el pr\u00f3ximo ramo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:00.31",
+			"end_time": "00:04:00.71",
+			"text": "A lo otro que..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:01.68",
+			"end_time": "00:04:07.71",
+			"text": " tienen como atrasados, da un margen de 20, entonces siempre va a tener como la cantidad de gente que va a estar ingresando a los ramos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:08.97",
+			"end_time": "00:04:13.15",
+			"text": "Entonces nunca vamos a saber o tenemos 200 personas de repente."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:13.56",
+			"end_time": "00:04:13.81",
+			"text": "\u00bfC\u00f3mo?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:14.97",
+			"end_time": "00:04:18.43",
+			"text": "Siempre se va a saber porque siempre hay un registro de la gente que anda entrando o la gente que qued\u00f3 registro."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:19.39",
+			"end_time": "00:04:20.55",
+			"text": "Est\u00e1 ac\u00e1 en el ramo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:20.82",
+			"end_time": "00:04:23.02",
+			"text": "Pero el problema son las salas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:23.31",
+			"end_time": "00:04:25.91",
+			"text": "Creo que deber\u00edamos dejar que... Ah, verdad."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:26.00",
+			"end_time": "00:04:26.75",
+			"text": "Tienen que hacer el contraste."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:26.79",
+			"end_time": "00:04:30.17",
+			"text": "Yo creo que es imposible en dos semanas porque..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:31.43",
+			"end_time": "00:04:47.04",
+			"text": " Ten\u00eds que relacionar, es como lo que t\u00fa dec\u00eds, va a haber mucho arroyo en eso, porque no hay topes de horario por alumnos que van atrasados, por los que no se congelaron, entonces es como mucha la variaci\u00f3n de estudiantes que vaya a tener."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:48.07",
+			"end_time": "00:04:55.64",
+			"text": "Y ten\u00eds que relacionar la cantidad de personas que caen en una sala, los que..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:56.66",
+			"end_time": "00:05:04.58",
+			"text": " los que son de primer a\u00f1o, que siempre les dan como prioridad, es como un tema complicado de hacer en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:04.62",
+			"end_time": "00:05:06.76",
+			"text": "Es imposible."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:06.97",
+			"end_time": "00:05:08.31",
+			"text": "Yo tengo consulta."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:08.50",
+			"end_time": "00:05:08.85",
+			"text": "\u00bfPor qu\u00e9?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:10.17",
+			"end_time": "00:05:20.67",
+			"text": "Mira, lo que entend\u00ed yo de lo que se necesita en el sector de usuario es tener un lugar donde el administrador puede reasignar salas o asignar salas de distintos cursos a distintos lados."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:22.57",
+			"end_time": "00:05:43.62",
+			"text": " deja ver entre l\u00edneas que la forma m\u00e1s creo que todos pensamos lo mismo que la forma m\u00e1s c\u00f3moda de eso es que te d\u00e9 alerta entonces yo estoy en el portal y me va a decir esta sala tiene m\u00e1s alumnos de los que puede recibir esta sala est\u00e1 asignada a dos cursos a la vez entonces a m\u00ed me tiene que que igual son altos como m\u00f3dulos y altas comprobaciones que tendr\u00eda que hacer el sistema s\u00ed \u00bfme echai?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:43.68",
+			"end_time": "00:05:44.90",
+			"text": "s\u00ed por eso por dos semanas"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:45.68",
+			"end_time": "00:05:47.30",
+			"text": "Claro igual son altas cosas por eso yo dec\u00eda..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:47.68",
+			"end_time": "00:05:52.30",
+			"text": "Pero ya pueden que dos semanas posteriormente estar\u00eda de prevecha"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:53.48",
+			"end_time": "00:05:55.36",
+			"text": " No de parte de esta, o de otra parte de esa realidad, entonces."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:55.39",
+			"end_time": "00:05:59.43",
+			"text": "Pero puede que no, pues puede estar de cero tambi\u00e9n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:59.45",
+			"end_time": "00:06:02.68",
+			"text": "Claro, no, si la idea es que sea de cero, se supone."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:03.01",
+			"end_time": "00:06:15.99",
+			"text": "Pero ojo, que no solamente hay que hacer la parte de atr\u00e1s, que es como toda la onda l\u00f3gica, porque el sistema puede estar de forma as\u00ed, con un algoritmo s\u00faper malo, estar revisando, ya, t\u00fa pongo esta sala, esta sala, esta sala, y ponerle reglas de prioridad, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:16.06",
+			"end_time": "00:06:23.06",
+			"text": "Pero todo eso requiere un trabajo l\u00f3gico, de sentarnos a decir cu\u00e1les son las reglas de prioridad, despu\u00e9s decir cu\u00e1les son las"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:24.07",
+			"end_time": "00:06:49.94",
+			"text": " tengo las reglas de prioridad las asign\u00f3 voy a tener problemas y inevitablemente cu\u00e1les son las reglas para resolver esos problemas despu\u00e9s de eso yo se lo entrego a\u00fan con problemas probablemente el administrador y el administrador va a ver la realidad y la realidad quiz\u00e1 la sala 300 y algo en el sistema dice que est\u00e1 funcional la est\u00e1n arreglando eso va a generar harto drama entonces igual \u00e9l tambi\u00e9n tiene que tener un front donde f\u00e1cilmente pueda tomar el curso del pasado claro"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:52.11",
+			"end_time": "00:06:53.79",
+			"text": " Yo creo que es complejo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:54.88",
+			"end_time": "00:06:58.91",
+			"text": "Yo le digo que es complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:58.93",
+			"end_time": "00:07:03.07",
+			"text": "El puro front va a ser complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:04.10",
+			"end_time": "00:07:08.68",
+			"text": "Y el back va a tener caleta de regla."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:09.18",
+			"end_time": "00:07:14.81",
+			"text": "Y quiz\u00e1 lo podemos desarrollar pero adem\u00e1s hay que probarlo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:14.94",
+			"end_time": "00:07:17.02",
+			"text": "De hecho a nivel de software yo creo que podr\u00eda funcionar."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:17.26",
+			"end_time": "00:07:18.37",
+			"text": "Es complicado pero puede funcionar."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:18.75",
+			"end_time": "00:07:21.88",
+			"text": "Pero a nivel real no s\u00e9 si sea tan viable."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:22.32",
+			"end_time": "00:07:27.80",
+			"text": " Porque siempre hay problemas de sala, siempre hay problemas, como dec\u00eds t\u00fa, como que una sala est\u00e1 mala o la est\u00e1n arreglando."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:27.92",
+			"end_time": "00:07:32.27",
+			"text": "Claro, por eso el administrador tiene que tener como el poder de sobreescribir lo que diga la m\u00e1quina."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:34.07",
+			"end_time": "00:07:36.12",
+			"text": "Viendo eso... \u00bfRebotamos?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:36.14",
+			"end_time": "00:07:37.47",
+			"text": "Rebotamos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:37.85",
+			"end_time": "00:07:39.64",
+			"text": "Ya, \u00bftodos tienen una idea de lo que es eso?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:45.82",
+			"end_time": "00:07:46.45",
+			"text": "Uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:48.58",
+			"end_time": "00:07:51.56",
+			"text": " Claro, conversi\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:51.61",
+			"end_time": "00:07:53.68",
+			"text": "\u00bfPor qu\u00e9 no lo vamos a hacer en dos semanas?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:53.75",
+			"end_time": "00:07:58.93",
+			"text": "Yo creo que no es imposible, \u00bfcachai?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:58.94",
+			"end_time": "00:07:59.73",
+			"text": "Es complejo hacerlo en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:59.76",
+			"end_time": "00:08:01.08",
+			"text": "O sea, tendr\u00eda que ser as\u00ed full intenso."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:01.23",
+			"end_time": "00:08:06.68",
+			"text": "Mira, si requiere el sprint, adem\u00e1s de hacer un proceso de cuba, yo creo que es imposible."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:07.18",
+			"end_time": "00:08:11.30",
+			"text": "Pero si solamente es desarrollarlo, yo creo que s\u00ed se puede hacer en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:12.10",
+			"end_time": "00:08:17.72",
+			"text": "Probablemente con como... Pero as\u00ed como t\u00fa dec\u00eds que no sea tan..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:18.94",
+			"end_time": "00:08:19.68",
+			"text": " O sea, que no vea tantos detalles."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:20.52",
+			"end_time": "00:08:24.48",
+			"text": "Yo dir\u00eda que en mi cabeza lo tengo de la siguiente manera."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:24.74",
+			"end_time": "00:08:26.68",
+			"text": "Primero, definiendo las reglas de prelaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:27.50",
+			"end_time": "00:08:35.74",
+			"text": "Despu\u00e9s, describiendo las reglas de resoluci\u00f3n de conflicto, pod\u00e9is asignar las salas de manera semiautom\u00e1tica."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:36.57",
+			"end_time": "00:08:40.12",
+			"text": "Eso no es tan complejo desde el punto de vista de los datos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:40.71",
+			"end_time": "00:08:41.11",
+			"text": "\u00bfCachai?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:41.90",
+			"end_time": "00:08:47.85",
+			"text": "Y despu\u00e9s, teniendo esas salas asignadas, tenemos que hacer todos los endpoints del backend, \u00bfcachai?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:48.72",
+			"end_time": "00:08:51.07",
+			"text": " en los que el frontend pueda cambiar esa informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:51.17",
+			"end_time": "00:08:52.00",
+			"text": "Y esos s\u00ed son hartos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:52.71",
+			"end_time": "00:08:57.90",
+			"text": "Entonces, yo creo que el tiempo para desarrollar esas reglas de preglaci\u00f3n no es tan largo, porque no es un algoritmo complejo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:58.28",
+			"end_time": "00:08:59.71",
+			"text": "Es m\u00e1s como, si pasa esto, pasa esto."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:59.76",
+			"end_time": "00:09:00.73",
+			"text": "Si pasa esto, pasa esto."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:01.16",
+			"end_time": "00:09:03.08",
+			"text": "Y lo vamos poniendo por orden de complejidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:04.10",
+			"end_time": "00:09:11.41",
+			"text": "Pero, al final, lo que m\u00e1s complejo va a ser un front, donde vaya a cambiar todas las caracter\u00edsticas de sala, de esta cuesti\u00f3n, y que te calcen."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:11.44",
+			"end_time": "00:09:13.99",
+			"text": "Y que el sistema te deje, \u00bfcachai?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:15.73",
+			"end_time": "00:09:22.11",
+			"text": " Por eso creo que se puede, pero si adem\u00e1s tenemos que validarlo, sentarnos a hacer unit test, yo creo que es imposible."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:22.95",
+			"end_time": "00:09:23.42",
+			"text": "\u00bfQu\u00e9 piensas?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:23.64",
+			"end_time": "00:09:23.97",
+			"text": "\u00bfVotamos?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:24.28",
+			"end_time": "00:09:24.88",
+			"text": "Ya, votemos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:24.95",
+			"end_time": "00:09:27.38",
+			"text": "Uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:31.22",
+			"end_time": "00:09:33.00",
+			"text": "Ya, yo estoy de acuerdo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:33.12",
+			"end_time": "00:09:34.08",
+			"text": "S\u00ed, estamos de acuerdo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:34.12",
+			"end_time": "00:09:34.82",
+			"text": "Definitivamente entre 4 y 5."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:34.86",
+			"end_time": "00:09:35.03",
+			"text": "Listo."
+		}
+	]
+}

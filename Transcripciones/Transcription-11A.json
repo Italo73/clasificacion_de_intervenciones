@@ -1,0 +1,550 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:05.78",
+			"end_time": "00:00:16.44",
+			"text": " Dice, historia de usuario A. Yo como estudiante necesito ver mi horario semanal para conocer qu\u00e9 horario de sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:20.96",
+			"end_time": "00:00:30.12",
+			"text": "En el backend tendr\u00eda que estar la sala, que ya est\u00e1."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:35.28",
+			"end_time": "00:00:38.04",
+			"text": " Entonces, dentro del backend eso ser\u00eda algo sencillo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:39.54",
+			"end_time": "00:00:41.72",
+			"text": "Pero no s\u00e9 c\u00f3mo les resultar\u00eda a ustedes."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:09.90",
+			"end_time": "00:01:37.23",
+			"text": " En la parte del frontend dir\u00eda que tampoco ser\u00eda complicado porque es m\u00e1s que nada tener por as\u00ed decirlo tanto el horario como las salas bien ordenadas con tal de que el alumno tenga facilidad a la hora de ver su horario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:40.54",
+			"end_time": "00:01:45.98",
+			"text": " entonces en cuanto a la experiencia de usuario ser\u00eda el"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:07.48",
+			"end_time": "00:02:24.28",
+			"text": " todo se podr\u00eda hacer mientras no haya alg\u00fan choque o algo as\u00ed, porque cuando al haber un tope de dos horarios juntos, entonces yo creo que, claro, podr\u00eda llegar a ser incluso medio complicado, que se puede desarrollar la historia de usuario, la interacci\u00f3n, siempre y cuando no haya ning\u00fan inconveniente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:25.15",
+			"end_time": "00:02:27.38",
+			"text": "Eso tanto como en la persistencia de datos, \u00bfc\u00f3mo ser\u00eda?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:27.40",
+			"end_time": "00:02:37.18",
+			"text": "Yo pienso que ser\u00eda como una tarea almacenada, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:38.86",
+			"end_time": "00:02:45.00",
+			"text": " y c\u00f3mo ser\u00eda haciendo las consultas, vi\u00e9ndolo desde ese punto de vista."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:46.13",
+			"end_time": "00:02:49.50",
+			"text": "Claro que no haya dos ramos, el mismo alumno con dos veces con el mismo ramo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:49.53",
+			"end_time": "00:02:52.47",
+			"text": "Claro, como estar\u00eda estructurada quiz\u00e1s la base de datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:55.30",
+			"end_time": "00:03:08.06",
+			"text": "Pero si es que solo se necesita para hacer consultas sobre, sobre la, igual aqu\u00ed vi\u00e9ndolo as\u00ed solo desde el punto de vista como,"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:08.87",
+			"end_time": "00:03:16.74",
+			"text": " de los ramos, se ve como una base de datos que no deber\u00eda tener tantas tablas, quiz\u00e1s, no deber\u00eda tener tanto..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:17.17",
+			"end_time": "00:03:25.34",
+			"text": "S\u00ed, pero habr\u00edan alumnos con choques de horario donde se hace, o sea, ser\u00eda algo complicado de hacer para evitar los choques de horario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:28.49",
+			"end_time": "00:03:33.51",
+			"text": "S\u00ed, porque al final el problema de armar un horario es un problema en..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:33.99",
+			"end_time": "00:03:34.31",
+			"text": "En el pejar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:34.76",
+			"end_time": "00:03:35.74",
+			"text": "S\u00ed, en el pejar de eso."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:36.30",
+			"end_time": "00:03:40.91",
+			"text": " como no se puede hacer como autom\u00e1tico, tiene que haber una persona ah\u00ed haciendo el horario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:41.81",
+			"end_time": "00:03:52.31",
+			"text": "Pero asumiendo, claro, que el horario ya est\u00e1 listo y solo necesitamos ver el estudiante, el estudiante necesita ver el horario semanal, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:54.00",
+			"end_time": "00:03:58.31",
+			"text": "\u00bfY c\u00f3mo se hace esto para saber el horario de la sala?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:58.53",
+			"end_time": "00:04:05.53",
+			"text": "La sala tiene en cierto momento, cierta hora, cierta asignatura que se est\u00e1 dando ah\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:06.53",
+			"end_time": "00:04:17.18",
+			"text": " Y los estudiantes saben qu\u00e9 asignatura dependiendo de cu\u00e1ndo la inscribieron."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:18.27",
+			"end_time": "00:04:23.27",
+			"text": "Entonces podr\u00eda ser complicado debido a que, o sea, se puede hacer mientras no haya ning\u00fan inconveniente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:24.19",
+			"end_time": "00:04:31.95",
+			"text": "Viendo el inconveniente ser\u00eda el choque de horario o alg\u00fan error, as\u00ed como dos profes en la misma sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:32.06",
+			"end_time": "00:04:35.30",
+			"text": "O los que tengan el ramo en distintas sesiones."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:36.68",
+			"end_time": "00:04:45.79",
+			"text": " Tambi\u00e9n porque puede, por ejemplo, tener los dos ramos, digo, pueden tener dos secciones del mismo ramo en la misma sala pero en distinto horario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:46.61",
+			"end_time": "00:04:49.82",
+			"text": "S\u00ed, o que de repente cambie el profe y tenga que cambiar la sala."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:53.68",
+			"end_time": "00:04:56.30",
+			"text": "O sea, esto es dentro de las dos semanas que nos dicen."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:56.55",
+			"end_time": "00:04:59.14",
+			"text": " En dos semanas no ser\u00eda posible."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:59.17",
+			"end_time": "00:05:03.62",
+			"text": "En dos semanas yo creo que podr\u00eda ser, pero ser\u00eda complicado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:04.08",
+			"end_time": "00:05:06.18",
+			"text": "Como siempre al inicio del semestre."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:06.22",
+			"end_time": "00:05:14.80",
+			"text": "Es como designarle una informaci\u00f3n exacta a cada alumno sobre la sala de cada una de sus asignaturas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:15.69",
+			"end_time": "00:05:17.82",
+			"text": "Eso piensan que ser\u00eda como..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:19.44",
+			"end_time": "00:05:22.81",
+			"text": " problem\u00e1tico dar una respuesta exacta al problema?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:22.87",
+			"end_time": "00:05:27.11",
+			"text": "S\u00ed, ser\u00eda complicado, pero se puede desarrollar mientras no haya ning\u00fan inconveniente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:27.17",
+			"end_time": "00:05:30.93",
+			"text": "Ser\u00eda algo complicado, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:31.57",
+			"end_time": "00:05:33.30",
+			"text": "Se podr\u00eda solucionar como parcialmente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:34.56",
+			"end_time": "00:05:39.95",
+			"text": "O sea, en teor\u00eda se podr\u00eda hacer todo bien, pero, claro, podr\u00edan surgir inconvenientes."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:40.13",
+			"end_time": "00:05:41.72",
+			"text": "Como inevitable que ocurran..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:42.33",
+			"end_time": "00:05:45.12",
+			"text": "S\u00ed, pero se pueden arreglar..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:46.33",
+			"end_time": "00:05:47.82",
+			"text": "O sea, por eso, no es inevitable..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:48.99",
+			"end_time": "00:05:51.97",
+			"text": " En el escenario ideal, en dos semanas esto se puede hacer."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:54.02",
+			"end_time": "00:05:56.76",
+			"text": "Pero en caso de que ocurra una tragedia..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:57.92",
+			"end_time": "00:06:02.76",
+			"text": "\u00bfDe dos carreras diferentes tienen la misma sala asignada al mismo lado?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:02.94",
+			"end_time": "00:06:05.25",
+			"text": "No."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:05.36",
+			"end_time": "00:06:09.06",
+			"text": "O tambi\u00e9n que se le ocurra un cambio de horario a \u00faltima hora."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:11.18",
+			"end_time": "00:06:16.45",
+			"text": "Claro, esto se aplica como... No entiendo, \u00bfa toda la facultad?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:17.75",
+			"end_time": "00:06:19.83",
+			"text": " O en general, una universidad."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:19.92",
+			"end_time": "00:06:20.45",
+			"text": "\u00bfA la Aptui?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:20.68",
+			"end_time": "00:06:22.45",
+			"text": "\u00bfCualquiera que tenga acceso a la Aptui?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:22.49",
+			"end_time": "00:06:31.32",
+			"text": "Por ejemplo, dentro de la facultad, habiendo una serie de carreras, ocupando una misma sala, unas cantidades de salas, \u00bfcu\u00e1ntas habr\u00e1n?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:31.38",
+			"end_time": "00:06:33.70",
+			"text": "\u00bfUnas 10 por piso?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:34.68",
+			"end_time": "00:06:39.66",
+			"text": "Pero... Que ah\u00ed ya te estoy viendo mucho por las ramas, porque..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:40.25",
+			"end_time": "00:06:42.06",
+			"text": " \u00bfCu\u00e1ntas facultades de la UV?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:42.12",
+			"end_time": "00:06:49.94",
+			"text": "No, pero al final, de lo que yo entiendo aqu\u00ed es que el backend ya est\u00e1 armado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:50.20",
+			"end_time": "00:06:52.61",
+			"text": "O sea, t\u00e9cnicamente esto ya est\u00e1 resuelto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:52.62",
+			"end_time": "00:06:58.57",
+			"text": "Necesitamos hacer que el usuario pueda hacer la consulta en consulta de asignaturas y le muestre su horario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:00.68",
+			"end_time": "00:07:03.54",
+			"text": "Yo creo que ser\u00eda complicado, pero no es posible."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:04.10",
+			"end_time": "00:07:07.66",
+			"text": "El problema que yo ahora estoy pensando es la sala o laboratorio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:07.86",
+			"end_time": "00:07:08.12",
+			"text": "Porque..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:11.87",
+			"end_time": "00:07:24.86",
+			"text": " c\u00f3mo saber qu\u00e9 facultad esa sala si hay un cambio a \u00faltima hora ser\u00eda como lo m\u00e1s complicado entonces ser\u00eda, estamos entre complicado y imposible"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:27.37",
+			"end_time": "00:07:40.06",
+			"text": "Complicado dice, el equipo no puede desarrollar la historia de usuario de la interacci\u00f3n no pueden agregarse otras historias otras historias como otras consultas, otros requerimientos"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:41.29",
+			"end_time": "00:07:42.60",
+			"text": " Claro, o sea, yo me refiero..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:44.00",
+			"end_time": "00:07:46.50",
+			"text": " Claro, o sea, yo me refiero... Otro requerimiento a nuestra implementaci\u00f3n de eso."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:47.50",
+			"end_time": "00:07:48.68",
+			"text": "Del horario, claro."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:48.68",
+			"end_time": "00:07:55.19",
+			"text": "Si le agreg\u00e1is, por ejemplo, a no s\u00e9 qu\u00e9 otra cosa se le puede agregar al que los estudiantes tengan..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:55.68",
+			"end_time": "00:08:03.49",
+			"text": "Al requerimiento de necesitar ese horario puede ser... No s\u00e9, quiz\u00e1 el nombre del profesor."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:03.82",
+			"end_time": "00:08:05.56",
+			"text": "No s\u00e9 si sirve eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:05.64",
+			"end_time": "00:08:05.81",
+			"text": "Eh..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:07.08",
+			"end_time": "00:08:08.66",
+			"text": " Informaci\u00f3n sobre el profesor o..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:09.00",
+			"end_time": "00:08:12.36",
+			"text": "No, la historia de usuario se refiere de la sala y el horario."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:12.48",
+			"end_time": "00:08:22.81",
+			"text": "Ya, por eso, por ejemplo, si quisi\u00e9ramos agregar una historia adicional con otro reglamento a la implementaci\u00f3n de esto, se podr\u00eda entregar informaci\u00f3n sobre el profesor."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:22.83",
+			"end_time": "00:08:23.69",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:23.81",
+			"end_time": "00:08:30.55",
+			"text": "Sin que se desv\u00ede tanto la soluci\u00f3n que se propone."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:31.02",
+			"end_time": "00:08:34.52",
+			"text": "Tambi\u00e9n habr\u00eda que poner..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:36.77",
+			"end_time": "00:08:40.95",
+			"text": " Si nos vamos por esa rama, tambi\u00e9n la facultad en la que se da... Bueno, hay cierta informaci\u00f3n que se podr\u00eda ir agregando."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:41.47",
+			"end_time": "00:08:45.95",
+			"text": "Bueno, hay cierta informaci\u00f3n que se podr\u00eda ir agregando."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:46.54",
+			"end_time": "00:08:53.75",
+			"text": "Por ejemplo, el querer saber cu\u00e1l es el nombre del profesor del ramo, igual algo recurrente que uno a veces se pregunta."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:54.83",
+			"end_time": "00:08:58.78",
+			"text": "Entonces t\u00fa dices que podr\u00eda ser medio, en vez de complicado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:59.69",
+			"end_time": "00:09:04.50",
+			"text": "Son las historias, claro, de menor complejidad, pienso que... De ese tipo, a ese nivel de..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:05.49",
+			"end_time": "00:09:06.57",
+			"text": " informaci\u00f3n se podr\u00eda llevar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:06.83",
+			"end_time": "00:09:08.19",
+			"text": "Pero cuando no haya ning\u00fan inconveniente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:08.23",
+			"end_time": "00:09:09.66",
+			"text": "Y entonces, \u00bfmedio o complicado?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:10.25",
+			"end_time": "00:09:18.83",
+			"text": "Yo voto por... Yo me voy por el lado del complicado, porque igual hay muchas... Como hab\u00edan dicho, hay muchas cosas que pueden ocurrir."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:20.50",
+			"end_time": "00:09:22.35",
+			"text": "Entonces, \u00bfcomplicado?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:22.62",
+			"end_time": "00:09:23.09",
+			"text": "\u00bfComplicado?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:23.45",
+			"end_time": "00:09:23.83",
+			"text": "\u00bfComplicado?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:23.85",
+			"end_time": "00:09:24.66",
+			"text": "Complicado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:25.33",
+			"end_time": "00:09:28.52",
+			"text": "Entonces, por consenso, \u00bfcomplicado?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:29.40",
+			"end_time": "00:09:29.73",
+			"text": "Complicado."
+		}
+	]
+}

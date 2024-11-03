@@ -1,0 +1,424 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:04.08",
+			"end_time": "00:00:22.12",
+			"text": " Historia de usuario C. Como profesor necesito ver mi horario semanal para conocer en qu\u00e9 horario y sala o laboratorio debo dictar mis clases y no tener haslapes con otras asignaturas que dicto."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:22.51",
+			"end_time": "00:00:23.98",
+			"text": "En esencia es como..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:24.11",
+			"end_time": "00:00:27.28",
+			"text": "Es lo mismo del anterior pero cambia el contexto de usuario."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:27.53",
+			"end_time": "00:00:32.50",
+			"text": "En vez de como yo puedo revisar la informaci\u00f3n como..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:34.32",
+			"end_time": "00:00:38.06",
+			"text": " como mantenimiento para ver en qu\u00e9 momento puedo limpiar la sala, por ejemplo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:38.42",
+			"end_time": "00:00:46.81",
+			"text": "Es como... Yo como profesor tengo que saber en d\u00f3nde y en qu\u00e9 momento tengo que hacer mis clases."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:47.28",
+			"end_time": "00:00:50.64",
+			"text": "Y que no me choque, y no me choque con otras naturas que est\u00e9n ah\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:50.68",
+			"end_time": "00:00:58.52",
+			"text": "Yo creo que tras la fe no va a que choque una asignatura, va a que no se demore entre cambios de asignatura."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:59.57",
+			"end_time": "00:01:03.35",
+			"text": " en que clase y clase no llegue a casa."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:03.63",
+			"end_time": "00:01:06.54",
+			"text": "Si no ser\u00eda como interrumpir."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:06.67",
+			"end_time": "00:01:08.14",
+			"text": "Para m\u00ed es casi lo mismo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:08.39",
+			"end_time": "00:01:16.40",
+			"text": "Yo tambi\u00e9n lo dejar\u00eda en medio porque la diferencia es que en la anterior ten\u00eda como un perfil de usuario que pod\u00eda acceder a todo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:16.92",
+			"end_time": "00:01:18.26",
+			"text": "Este solo va a poder ver sus clases."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:18.51",
+			"end_time": "00:01:26.32",
+			"text": "Entonces, ac\u00e1 tendr\u00edamos que hacer un filtro por usuario que permita que este usuario en concreto, que es tipo de profesor, pueda ver sus clases y nada."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:27.32",
+			"end_time": "00:01:27.89",
+			"text": "Porque al final la..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:28.78",
+			"end_time": "00:01:34.43",
+			"text": " \u00c9l lo que necesita es verlo, no necesita que lo organicemos, eso ya deber\u00eda estar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:34.92",
+			"end_time": "00:01:37.98",
+			"text": "Solo ser\u00eda el servicio de asignatura, las consultas de asignatura, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:38.29",
+			"end_time": "00:01:42.75",
+			"text": "O sea, no est\u00e1 pidiendo que organicemos, est\u00e1 pidiendo que \u00e9l lo quiera ver."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:43.12",
+			"end_time": "00:01:46.48",
+			"text": "Entonces la organizaci\u00f3n ya est\u00e1 y lo que hay que juzgar es que..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:47.12",
+			"end_time": "00:01:48.48",
+			"text": "Cuando te demoras en aplicar la consulta."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:49.15",
+			"end_time": "00:01:52.09",
+			"text": "Ser\u00eda el tiempo de la consulta y gestionar su perfil."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:52.15",
+			"end_time": "00:01:52.87",
+			"text": "En dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:55.29",
+			"end_time": "00:02:00.95",
+			"text": " Yo dir\u00eda que est\u00e1 m\u00e1s f\u00e1cil porque ya no tendr\u00eda tanto drama con la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:00.98",
+			"end_time": "00:02:12.44",
+			"text": "En ese caso, si es como lo planteas t\u00fa de y ya est\u00e1 todo listo y simplemente quiero verlo, sencillo, muy sencillo, porque el tema de que solamente necesito ver, no necesito modificar."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:12.81",
+			"end_time": "00:02:14.00",
+			"text": "Si ten\u00e9is la aplicaci\u00f3n y los datos..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:14.87",
+			"end_time": "00:02:22.13",
+			"text": " Ac\u00e1 lo que te falta es decir ya, este usuario es de perfil profesor y puede ver como profesor son las cosas que tiene asociadas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:22.19",
+			"end_time": "00:02:24.15",
+			"text": "Entonces falta ese trozo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:24.80",
+			"end_time": "00:02:27.97",
+			"text": "Como les dec\u00eda, la anterior ten\u00eda m\u00e1s vistas porque ten\u00eda m\u00e1s consultas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:28.24",
+			"end_time": "00:02:32.74",
+			"text": "Esta ser\u00eda un cuarto y una consulta."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:32.78",
+			"end_time": "00:02:34.87",
+			"text": "No s\u00e9 si es muy sencillo, pero quiz\u00e1s s\u00ed es sencillo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:34.88",
+			"end_time": "00:02:40.25",
+			"text": "Esto ser\u00eda lo mismo que la anterior, pero un filtro extra."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:40.38",
+			"end_time": "00:02:41.84",
+			"text": "Ya est\u00e1 todo estructurado, todo listo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:42.56",
+			"end_time": "00:02:55.12",
+			"text": " Es, como digo, muy sencillo, sencillo por un tema de que ya es simplemente ver y ya tenemos incluso, si ya est\u00e1 a\u00f1adido, por ejemplo, el caso anterior, ya tenemos como esta base."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:55.34",
+			"end_time": "00:02:58.21",
+			"text": "As\u00ed que se puede incluso hacer un poco m\u00e1s sencillo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:58.53",
+			"end_time": "00:02:59.78",
+			"text": "Y se limita la vista, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:59.81",
+			"end_time": "00:03:00.18",
+			"text": "Exacto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:00.72",
+			"end_time": "00:03:09.15",
+			"text": "Yo dir\u00eda sencillo por el tema de aplicarle al menos una historia similar podr\u00eda darse a la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:09.58",
+			"end_time": "00:03:13.12",
+			"text": " Digamos, por la disponibilidad en caso de error o cualquier cosa."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:13.34",
+			"end_time": "00:03:17.34",
+			"text": "O incluso agregar objeta caracter\u00edstica al mismo tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:17.77",
+			"end_time": "00:03:22.49",
+			"text": "Por roles, por lo menos en backend no es complicado hacer un filtro as\u00ed y ya est\u00e1 casi siempre optimizado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:22.56",
+			"end_time": "00:03:26.21",
+			"text": "En el front la lista es limitante porque a la final ya est\u00e1 la otra."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:26.74",
+			"end_time": "00:03:30.40",
+			"text": "Ac\u00e1 en el front es simplemente reutilizar c\u00f3digo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:30.59",
+			"end_time": "00:03:32.03",
+			"text": "Y yo soy todav\u00eda de ese modelo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:33.25",
+			"end_time": "00:03:37.21",
+			"text": "O sea, en el front, donde m\u00e1s hab\u00edan problemas en el front, no."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:39.44",
+			"end_time": "00:03:42.96",
+			"text": " Se enfoca en c\u00f3mo es la experiencia del usuario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:43.00",
+			"end_time": "00:03:44.31",
+			"text": "La experiencia del usuario se le aplica..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:44.40",
+			"end_time": "00:03:49.71",
+			"text": "Ustedes dos tendr\u00edan la mayor cantidad de problemas porque van a hacer la opci\u00f3n y el profe va a decir, ay, no me gusta."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:49.74",
+			"end_time": "00:03:50.02",
+			"text": "No me gusta."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:50.03",
+			"end_time": "00:03:51.50",
+			"text": "Y van a tener que llegar a acuerdo con los profes."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:51.59",
+			"end_time": "00:03:53.28",
+			"text": "Eso no me gusta tanto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:53.30",
+			"end_time": "00:03:59.51",
+			"text": "La cosa es que si ya tenemos la vista anterior, ejemplo, ya tenemos como una base de c\u00f3mo saber y si ya le gusta al otro..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:00.19",
+			"end_time": "00:04:03.91",
+			"text": "Si fueran consecuentes, la anterior ser\u00eda media y esta ser\u00eda..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:04.99",
+			"end_time": "00:04:08.56",
+			"text": " Muy sencillo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:09.06",
+			"end_time": "00:04:24.14",
+			"text": "Por eso es como mucho de reutilizar c\u00f3digo y a lo mucho ser\u00e1 como llegar a un acuerdo con profesorio o con el que vaya a usarlo al fin y al cabo para saber si, digamos, dimensiones de pantalla o cualquier cosa para que se vea bien el dato."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:25.08",
+			"end_time": "00:04:27.44",
+			"text": "Al final es como son dos semanas para aplicar la funcionalidad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:27.47",
+			"end_time": "00:04:28.58",
+			"text": "Hay tiempo de sobra."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:29.66",
+			"end_time": "00:04:40.76",
+			"text": " Es que s\u00ed, porque al menos creo que \u00e9l y yo ya estamos m\u00e1s o menos as\u00ed como que ya con todo lo de la otra, como que ya tenemos todo, ustedes todos ser\u00edan como los que m\u00e1s tendr\u00edan."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:41.20",
+			"end_time": "00:04:55.01",
+			"text": "Es que ser\u00eda como si ustedes tienen digamos una complejidad, nosotros no es tan diferente, la verdad esa complejidad por el tema de que es m\u00e1s un tema de organizar para que quede bonito y que oiga cosas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:56.25",
+			"end_time": "00:05:03.19",
+			"text": " Aparte no, nos dicen que tiene que quedar s\u00faper bonito, nos dicen que tiene que generarse la accesibilidad."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:03.22",
+			"end_time": "00:05:04.48",
+			"text": "Por eso la funcionalidad ya la tienen hecha."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:04.81",
+			"end_time": "00:05:08.83",
+			"text": "Literal, es nosotros ver si queda bonito o no, pero eso ya no es lo mismo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:09.75",
+			"end_time": "00:05:10.57",
+			"text": "En dos semanas se hace."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:14.62",
+			"end_time": "00:05:15.61",
+			"text": "O sea, m\u00e1s que sea bonito."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:15.62",
+			"end_time": "00:05:17.67",
+			"text": "Pero s\u00ed, yo creo que se hace."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:17.68",
+			"end_time": "00:05:18.94",
+			"text": "Que sea c\u00f3modo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:18.99",
+			"end_time": "00:05:20.61",
+			"text": "Yo creo que es sencillo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:20.62",
+			"end_time": "00:05:24.23",
+			"text": "Entonces, votamos uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:24.26",
+			"end_time": "00:05:24.50",
+			"text": "Sencillo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:25.62",
+			"end_time": "00:05:26.57",
+			"text": " Estamos dados \u00bfListo?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:26.62",
+			"end_time": "00:05:26.66",
+			"text": "S\u00ed"
+		}
+	]
+}

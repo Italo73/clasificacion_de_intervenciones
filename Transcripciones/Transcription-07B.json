@@ -1,0 +1,244 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:03.50",
+			"end_time": "00:00:15.80",
+			"text": " Historia de usuario B. Yo como administrador de salas necesito gestionar la informaci\u00f3n de la asignaci\u00f3n de salas y laboratorios a las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:15.82",
+			"end_time": "00:00:19.03",
+			"text": "Ah\u00ed va a quedar si alguno lo quiere tomar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:00.50",
+			"end_time": "00:01:03.71",
+			"text": " Ya, cuando est\u00e9n listos, avisan y levantamos la mano."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:03.74",
+			"end_time": "00:01:03.89",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:04.59",
+			"end_time": "00:01:05.07",
+			"text": "\u00bfEst\u00e1n listos?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:06.06",
+			"end_time": "00:01:06.14",
+			"text": "No."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:06.54",
+			"end_time": "00:01:18.76",
+			"text": "Qu\u00e9 bueno, porque yo tampoco."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:18.78",
+			"end_time": "00:01:20.20",
+			"text": "Listo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:20.60",
+			"end_time": "00:01:20.78",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:21.67",
+			"end_time": "00:01:24.82",
+			"text": "Acu\u00e9rdense que hay que levantar la mano hacia la c\u00e1mara, no hacia el cielo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:25.10",
+			"end_time": "00:01:26.31",
+			"text": "Uno, dos y tres."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:41.00",
+			"end_time": "00:01:52.43",
+			"text": " Bueno, yo creo que est\u00e1 en medio, en realidad, aunque no va tanto mucho por la experiencia de usuario, sino que ya trabaja m\u00e1s con los datos y totalmente con el backend."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:53.51",
+			"end_time": "00:01:57.07",
+			"text": "Entonces, para el tiempo que tenemos, siento que es muy poco."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:57.59",
+			"end_time": "00:02:07.12",
+			"text": " para ver todo lo relacionado con las salas, que eso, aunque se da el horario, no creo que este segundo tiempo puede cambiar y ver la capacidad tambi\u00e9n de cada sala."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:08.93",
+			"end_time": "00:02:20.88",
+			"text": "Voy por lo mismo, tambi\u00e9n medio, porque por lo general no solamente vamos a tener que tener asignados nuestra carrera, son m\u00e1s carreras."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:20.90",
+			"end_time": "00:02:27.34",
+			"text": "No estamos hablando que tenemos, por ejemplo, una capacidad de 300 alumnos solamente de la carrera inform\u00e1tica, por decirte algo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:27.96",
+			"end_time": "00:02:40.87",
+			"text": " sino que tambi\u00e9n tenemos que pensar que hay salas que se comparten con otras carreras, y si ellos no tienen a tiempo su horario y las salas que van a necesitar, se me va a complicar a m\u00ed que soy la parte del backend."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:41.08",
+			"end_time": "00:02:41.97",
+			"text": "\u00bfY ustedes por qu\u00e9 cuatro?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:42.75",
+			"end_time": "00:02:57.68",
+			"text": "Yo puse cuatro porque es complicado, porque siento que con la cantidad de aristas que tiene el problema, y son tantos datos y tantas aristas que hay que considerar dentro de esos datos,"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:58.94",
+			"end_time": "00:03:22.71",
+			"text": " el equipo solamente deber\u00eda desarrollar esa actividad en esas dos semanas y ninguna extra para poder dedicarle un tiempo completo a ver c\u00f3mo abordan las diferentes aristas que pueden salir en el problema y c\u00f3mo hacen un buen manejo de todos los datos y todas las variables que hay."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:22.74",
+			"end_time": "00:03:26.40",
+			"text": "Yo eleg\u00ed complicado tambi\u00e9n porque"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:27.00",
+			"end_time": "00:03:32.22",
+			"text": " Creo que vamos a tener el tiempo justo para desarrollar la historia de usuario."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:32.25",
+			"end_time": "00:03:36.88",
+			"text": "En mi caso, yo hemos hablado en algunos ramos sobre este problema."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:37.31",
+			"end_time": "00:03:40.61",
+			"text": "Y los profesores est\u00e1n de acuerdo que es bien complicado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:40.62",
+			"end_time": "00:03:43.96",
+			"text": "Y muchas cosas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:43.99",
+			"end_time": "00:03:50.50",
+			"text": "Muchas salas, muchas... Cuesta coordinar que todo est\u00e9 bien."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:51.69",
+			"end_time": "00:03:54.37",
+			"text": "Mientras m\u00e1s variable se complica cada vez m\u00e1s el problema."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:54.58",
+			"end_time": "00:03:57.75",
+			"text": " S\u00ed, adem\u00e1s que son muchas salas y varios estudiantes la ocupan."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:57.75",
+			"end_time": "00:03:58.83",
+			"text": "Cinco pisos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:58.87",
+			"end_time": "00:03:59.05",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:59.11",
+			"end_time": "00:04:05.25",
+			"text": "Inclusive ahora hay choques de salas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:05.28",
+			"end_time": "00:04:05.84",
+			"text": "S\u00ed, de hecho."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:06.99",
+			"end_time": "00:04:11.56",
+			"text": "Ya, un minuto para que piense en, repiense en su..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:11.79",
+			"end_time": "00:04:13.86",
+			"text": "Yo creo que menos tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:13.87",
+			"end_time": "00:04:14.50",
+			"text": "\u00bf30 segundos?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:14.59",
+			"end_time": "00:04:14.96",
+			"text": "30 segundos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:15.13",
+			"end_time": "00:04:15.87",
+			"text": "Ya, desde ahora."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:22.47",
+			"end_time": "00:04:38.44",
+			"text": " 3, 2, 1 Agu\u00e9rdense, en la cuenta de 3 Levanten sus deditos 1, 2, 3"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:53.61",
+			"end_time": "00:04:55.91",
+			"text": " Ya, estamos en acuerdo."
+		},
+		{
+			"speaker": "SPEAKER_01 ",
+			"start_time": "00:04:56.68",
+			"end_time": "00:04:57.63",
+			"text": "Ya, profesor, estamos listos."
+		}
+	]
+}

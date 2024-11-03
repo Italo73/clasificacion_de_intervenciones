@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+
+# Node.js dependencies
+node_modules/
+
+# Archivos de caché de Python
+__pycache__/
+
+# Base de datos SQLite (si deseas mantenerla privada)
+db.sqlite3
+
+# Archivos de migraciones de Django (opcional)
+**/migrations/
+
+# Otros archivos temporales
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3

@@ -1,0 +1,682 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:00.25",
+			"end_time": "00:00:04.12",
+			"text": " para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:29.44",
+			"end_time": "00:00:29.55",
+			"text": " Ya."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:29.57",
+			"end_time": "00:00:46.78",
+			"text": "\u00bfQu\u00e9 te parece, Marcelo?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:46.81",
+			"end_time": "00:00:47.77",
+			"text": "\u00bfLa decimos al tiro?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:04.92",
+			"end_time": "00:01:23.45",
+			"text": "Yo pienso que, o sea, si en base a lo que ya tenemos montado, por as\u00ed decirlo, solamente bastar\u00eda ver la estructura de los datos que tenemos y quiz\u00e1s pensando en eso, ver si es que las asignaturas que est\u00e1n inscritas est\u00e1n asociadas por d\u00edas y por horas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:24.42",
+			"end_time": "00:01:31.43",
+			"text": " Teniendo eso, ya podr\u00edamos sacar un calendario semanal y de alguna u otra forma estructural en el frontend, por as\u00ed decirlo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:31.45",
+			"end_time": "00:01:34.57",
+			"text": "Entonces, seg\u00fan me parece, podr\u00eda ser un 2."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:37.70",
+			"end_time": "00:01:41.15",
+			"text": "Igual depende, yo creo que al principio siempre a veces hay cambios de sala."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:41.73",
+			"end_time": "00:01:42.59",
+			"text": "Entonces va a variar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:43.75",
+			"end_time": "00:01:46.34",
+			"text": "Eso, habr\u00eda que ver ah\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:47.06",
+			"end_time": "00:01:47.90",
+			"text": "En caso de cualquier cambio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:48.39",
+			"end_time": "00:01:50.51",
+			"text": "Quiz\u00e1s como juntamos los choqueos horarios."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:53.34",
+			"end_time": "00:01:53.48",
+			"text": "Pero..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:54.90",
+			"end_time": "00:01:57.20",
+			"text": " El problema es que el horario no ha abierto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:57.25",
+			"end_time": "00:02:04.17",
+			"text": "Porque al final est\u00e1is viendo el tema de cu\u00e1les son las salas o clases laboratorias para la asignatura, pero no pueden haber dos cursos en una misma sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:04.20",
+			"end_time": "00:02:05.43",
+			"text": "Ah, claro."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:05.67",
+			"end_time": "00:02:06.62",
+			"text": "A no ser que el profe se vaya."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:07.56",
+			"end_time": "00:02:08.68",
+			"text": "Y tenemos que ir al otro lado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:09.53",
+			"end_time": "00:02:14.84",
+			"text": "Pero no creo que... A ver, puede pasar, pero no deber\u00eda haber problema."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:16.37",
+			"end_time": "00:02:18.93",
+			"text": "Bueno, yo creo que en dos semanas es imposible."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:19.00",
+			"end_time": "00:02:19.43",
+			"text": "\u00bfEn dos semanas?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:20.02",
+			"end_time": "00:02:23.31",
+			"text": "Porque el sistema que tenemos es solamente de ingresar en asignatura."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:23.93",
+			"end_time": "00:02:32.43",
+			"text": " Piensen que tenemos que entender primero lo que est\u00e1 hecho, despu\u00e9s tenemos que entender los datos que hay, relacionarlos, crear modos diferentes, actualizar el frontend, actualizar el backend."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:32.93",
+			"end_time": "00:02:34.15",
+			"text": "En dos semanas es imposible."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:35.06",
+			"end_time": "00:02:48.15",
+			"text": "A lo mejor podemos hacer algo muy parecido que ver las salas que hay, que era como el caso anterior, pero hacer un flujo y despu\u00e9s darle a cada usuario su horario, si piensan en repetir mucho, pero igual van a ser diferentes, yo creo que no va a ser tan viable."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:48.21",
+			"end_time": "00:02:48.90",
+			"text": "Al menos dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:49.31",
+			"end_time": "00:02:50.84",
+			"text": "Yo creo que el tiempo es el que limita aqu\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:52.12",
+			"end_time": "00:02:52.80",
+			"text": "Es demasiado poco."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:53.86",
+			"end_time": "00:02:55.50",
+			"text": " Y tenemos que tenerlo hasta hecho."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:56.71",
+			"end_time": "00:03:03.90",
+			"text": "Y eso, entonces, bueno, a menos que lo hayamos hecho nosotros, no vamos a poder llegar a lo que se requiere."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:06.72",
+			"end_time": "00:03:13.25",
+			"text": "Yo, en verdad, encuentro m\u00e1s complicado implementar algo que utilizar algo hecho."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:13.62",
+			"end_time": "00:03:21.43",
+			"text": "Porque el hecho de implementar algo requiere un mont\u00f3n de cosas, de pruebas, de testing, todas esas cosas para asegurarse de que el m\u00f3dulo funciona, funciona bien y no va a tener fallos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:22.22",
+			"end_time": "00:03:26.99",
+			"text": " El hecho de manejar con informaci\u00f3n que ya est\u00e1 almacenada, solamente ser\u00eda la manipulaci\u00f3n de informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:28.18",
+			"end_time": "00:03:30.61",
+			"text": "Pero es que no sabemos c\u00f3mo est\u00e1 almacenada."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:30.81",
+			"end_time": "00:03:36.68",
+			"text": "Ac\u00e1 por ejemplo dice que la informaci\u00f3n de qu\u00e9 asignaturas tiene qu\u00e9 estudiante administrando el sistema de inscripci\u00f3n de asignaturas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:36.71",
+			"end_time": "00:03:40.84",
+			"text": "Entonces ya tendr\u00edamos el filtro como de cada estudiante, por as\u00ed decirlo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:40.86",
+			"end_time": "00:03:47.34",
+			"text": "S\u00ed, pero te faltar\u00eda el de la asignatura, te faltar\u00eda el de la sala, te faltar\u00eda el de la laboratoria, porque no sabemos si son tablas separadas o juntas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:47.78",
+			"end_time": "00:03:53.09",
+			"text": " Tenemos que ver si hay relaciones entre ellos, tenemos que ver si se repiten datos, porque al final no va a ser laboratorio."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:54.09",
+			"end_time": "00:03:54.53",
+			"text": "No sabemos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:55.55",
+			"end_time": "00:03:58.34",
+			"text": "Nosotros estamos pidiendo eso, pero no sabemos c\u00f3mo se maneja ac\u00e1."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:59.16",
+			"end_time": "00:04:01.06",
+			"text": "A lo mejor tiene otras cualidades que lo hacen diferente."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:02.15",
+			"end_time": "00:04:13.00",
+			"text": "Y no sabemos si a lo mejor, claro, nosotros decimos ya que nos pasen los datos, pero si se fijan, ellos tienen un m\u00f3dulo aparte, separado, para tomar los datos de la universidad, que es el contenedor de CV y descripci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:13.44",
+			"end_time": "00:04:15.40",
+			"text": " no lo maneja directamente el backend de Noelle."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:15.68",
+			"end_time": "00:04:17.88",
+			"text": "Eso quiere decir que ellos tienen una restricci\u00f3n de los datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:17.91",
+			"end_time": "00:04:19.64",
+			"text": "O sea, que no nos van a pasar los datos directamente."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:20.26",
+			"end_time": "00:04:24.80",
+			"text": "Por lo tanto, ellos van a tener que tener un backend especializado para que nos traigan los datos y lo cual no sabemos c\u00f3mo funciona."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:25.24",
+			"end_time": "00:04:26.54",
+			"text": "Y si es la data que nos sirve."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:26.63",
+			"end_time": "00:04:29.24",
+			"text": "Pero a\u00fan as\u00ed no lo encuentro complejo, \u00bfverdad?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:29.86",
+			"end_time": "00:04:42.43",
+			"text": "No encuentro que sea tanto... El hecho de manejar datos no es complicado hacer transferencias de datos, migraciones y cosas de ese estilo, pero manejar datos que ya te entregan, filtrarlo y cosas de ese estilo, no... No, no, pero me refiero a que"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:43.39",
+			"end_time": "00:04:45.44",
+			"text": " Si fuera una base de datos directa, bacan."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:45.88",
+			"end_time": "00:04:47.81",
+			"text": "Pero si ellos manejan un backing que no tiene esos datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:48.35",
+			"end_time": "00:04:50.26",
+			"text": "T\u00fa dec\u00edas el script of service, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:50.55",
+			"end_time": "00:04:56.74",
+			"text": "S\u00ed, porque... Preg\u00fantense, \u00bfpor qu\u00e9 en vez de tener el script of service no tenemos solamente el backing de nada?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:57.48",
+			"end_time": "00:04:59.72",
+			"text": "Que se comunica con el contenedor de descripci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:00.95",
+			"end_time": "00:05:04.45",
+			"text": "\u00bfPor qu\u00e9 hay un servidor que tiene que conectarse con la informaci\u00f3n de la u?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:06.13",
+			"end_time": "00:05:08.38",
+			"text": "Porque esos datos no los puede acceder cualquiera."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:11.63",
+			"end_time": "00:05:38.81",
+			"text": " la gobernanza de datos la maneja la universidad pero el backing que tiene directamente con la conexi\u00f3n de la aplicaci\u00f3n m\u00f3vil no puede tener esa gobernanza de datos porque ya est\u00e1 cerrada en el protocolo que tiene entonces nos puede pasar a lo mejor que o no tengan un backing para eso o que si lo tengan de respuesta que no nos sirve porque no sabemos sigo diciendo que tienen dentro y no nos van a pasar los datos o la base de datos directamente"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:39.17",
+			"end_time": "00:05:41.26",
+			"text": " A menos que repitamos la base de datos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:41.44",
+			"end_time": "00:05:44.30",
+			"text": "Pero en ese caso no te servir\u00eda si es que no te basas los datos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:45.68",
+			"end_time": "00:05:47.13",
+			"text": "Porque lo m\u00e1s probable es que te pasen el modelo de datos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:47.16",
+			"end_time": "00:05:48.18",
+			"text": "Y lo m\u00e1s probable es que te pasen los datos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:48.19",
+			"end_time": "00:05:50.20",
+			"text": "Ah\u00ed podr\u00edamos ver realmente..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:50.32",
+			"end_time": "00:05:55.68",
+			"text": "Porque no pod\u00e9is implementar una historia de usuario y una funcionalidad sin datos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:55.69",
+			"end_time": "00:05:56.62",
+			"text": "Necesit\u00e1is datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:56.87",
+			"end_time": "00:05:59.62",
+			"text": "A eso voy, pero \u00bfc\u00f3mo sabemos c\u00f3mo funciona?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:00.12",
+			"end_time": "00:06:00.87",
+			"text": "Con el modelo de datos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:00.88",
+			"end_time": "00:06:04.31",
+			"text": "O sea, por lo que dicen aqu\u00ed, yo entiendo que uno se comunica con el dato."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:04.55",
+			"end_time": "00:06:06.31",
+			"text": "En la base de datos, pero no en el backend."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:07.05",
+			"end_time": "00:06:10.76",
+			"text": " \u00bfNo sab\u00e9is si ellos tienen un servidor aparte o no?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:10.79",
+			"end_time": "00:06:14.38",
+			"text": "Pero a\u00fan as\u00ed, si tuviesen ese servidor aparte, \u00bfse estar\u00eda comunicando con uno de estos?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:14.64",
+			"end_time": "00:06:18.43",
+			"text": "Si tuvieran ese servidor aparte, y nosotros deber\u00edamos recibir la informaci\u00f3n, entonces..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:18.64",
+			"end_time": "00:06:25.43",
+			"text": "Si tuvieran aparte y nos funcionar\u00eda, nos dar\u00edan la respuesta que nos sirve, claro, ah\u00ed ser\u00eda como f\u00e1cil porque ser\u00eda como un sistema de microservicios."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:25.45",
+			"end_time": "00:06:27.98",
+			"text": "No habr\u00eda mucho problema m\u00e1s que hacer el merge de los datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:28.54",
+			"end_time": "00:06:33.82",
+			"text": "Ahora, el problema es que ah\u00ed tendr\u00edamos que nosotros crear una base de datos aparte, porque no vamos a tener acceso a su base de datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:34.41",
+			"end_time": "00:06:37.62",
+			"text": " que tengan el registro del \u00e1rea de los estudiantes, si es que ellos no lo tienen."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:38.51",
+			"end_time": "00:06:40.07",
+			"text": "Porque si me lo est\u00e1n diciendo ellos, es porque no lo tienen."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:40.83",
+			"end_time": "00:06:46.16",
+			"text": "Entonces, si no podemos tener acceso directamente a la base de datos, vamos a tener que nosotros crear una base de datos aparte."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:46.95",
+			"end_time": "00:06:50.00",
+			"text": "Y eso ya va a expandir todo el mundo de los servicios que tenemos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:51.48",
+			"end_time": "00:06:55.05",
+			"text": "Entonces, yo creo que hay dos problemas ac\u00e1, seg\u00fan me parece."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:55.31",
+			"end_time": "00:07:01.44",
+			"text": "Que a lo mejor no vamos a tener acceso tan directamente a lo que tiene la universidad, como los servicios, los datos y el tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:01.99",
+			"end_time": "00:07:03.64",
+			"text": "Creo que dos semanas es demasiado poco para lo que piden."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:05.93",
+			"end_time": "00:07:08.56",
+			"text": " sabiendo que solamente es para inscribir los datos lo que est\u00e1 hecho."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:08.92",
+			"end_time": "00:07:12.94",
+			"text": "O sea, para inscribir la asignatura lo que est\u00e1 hecho."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:13.00",
+			"end_time": "00:07:15.18",
+			"text": "Aqu\u00ed lo encuentro que no va a ser tan complicado, en verdad."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:16.62",
+			"end_time": "00:07:17.93",
+			"text": "No deber\u00eda ser tan complejo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:20.00",
+			"end_time": "00:07:22.75",
+			"text": "\u00bfT\u00fa, Marcelo?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:22.76",
+			"end_time": "00:07:32.77",
+			"text": "S\u00ed, sabes que pensando un poco en lo que dice el Marco, que dice que hay un sistema de inscripci\u00f3n de asignaturas, porque si de alguna otra forma accede a los datos, pero el servicio de Node"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:33.29",
+			"end_time": "00:07:37.93",
+			"text": " a trav\u00e9s de ese contenedor de los servicios de inscripciones, accede a los datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:38.76",
+			"end_time": "00:07:48.60",
+			"text": "Entonces, quiz\u00e1s tambi\u00e9n haya, como dice el Marco, haya un problema en la gobernanza de los datos, por as\u00ed decirlo, que est\u00e1 afectando de alguna otra forma que la comunicaci\u00f3n sea fluida."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:49.12",
+			"end_time": "00:07:59.93",
+			"text": "Ahora, si a nosotros nos pasan esa informaci\u00f3n, nos dan acceso a ese servidor donde est\u00e1n los datos almacenados y todo el tema, quiz\u00e1s tambi\u00e9n haya un problema de eficiencia en cuanto al uso de los datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:00.73",
+			"end_time": "00:08:14.95",
+			"text": " porque los datos est\u00e1n almacenados como inscripci\u00f3n de asignatura por estudiante, pero de alguna u otra forma nosotros deber\u00edamos ser capaces de pescar un estudiante que se ingrese al sistema y extraer los datos de ese \u00fanico estudiante."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:15.95",
+			"end_time": "00:08:25.43",
+			"text": "Y quiz\u00e1s la informaci\u00f3n sea entregada como un chorizo gigante y no una informaci\u00f3n filtrada, por as\u00ed decirlo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:25.95",
+			"end_time": "00:08:27.94",
+			"text": "Y quiz\u00e1s por ah\u00ed hay alg\u00fan problema."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:29.20",
+			"end_time": "00:08:37.61",
+			"text": " Y en el caso de que no nos posaran el acceso a este contenedor que tiene los servicios de inscripciones, ah\u00ed s\u00ed ser\u00eda el gran problema."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:37.66",
+			"end_time": "00:08:41.38",
+			"text": "El flojo que veo aqu\u00ed realmente y el problema que puede ser es que uno de estos servicios no est\u00e9 funcionando."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:42.30",
+			"end_time": "00:08:43.99",
+			"text": "Porque estos servicios est\u00e1n interconectados."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:44.02",
+			"end_time": "00:08:48.50",
+			"text": "La aplicaci\u00f3n requiere del contenedor de servicios de asignaturas, se requiere el otro, se requiere el otro."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:48.87",
+			"end_time": "00:08:53.22",
+			"text": "El problema que veo es que o se caiga uno o no te entregan informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:53.62",
+			"end_time": "00:08:57.86",
+			"text": "Pero si quieren ese requerimiento, alguna modificaci\u00f3n se debe hacer para que te entreguen esa informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:58.63",
+			"end_time": "00:08:58.91",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:02.02",
+			"end_time": "00:09:13.92",
+			"text": " Fuera de eso, si pens\u00e1is ya hablando de modelos y esas cosas, debe estar todo relacionado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:14.86",
+			"end_time": "00:09:18.37",
+			"text": "Igual pensando en la... No, esto va a ser s\u00faper ineficiente."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:19.10",
+			"end_time": "00:09:20.86",
+			"text": "\u00bfCu\u00e1ntos alumnos son solamente en la carrera?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:21.41",
+			"end_time": "00:09:21.82",
+			"text": "Digamos que son 300."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:22.72",
+			"end_time": "00:09:23.62",
+			"text": "Cada uno tiene una asignatura."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:24.70",
+			"end_time": "00:09:26.27",
+			"text": "Piensen que si 300 personas..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:26.80",
+			"end_time": "00:09:28.27",
+			"text": "Cada uno tiene unas 7 asignaturas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:28.29",
+			"end_time": "00:09:29.29",
+			"text": "300 personas por 7..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:31.37",
+			"end_time": "00:09:39.97",
+			"text": " por cada laboratorio a la vez y con este esquema que m\u00e1s probable va a ser un servicio aparte que no va a tener que ver la latencia va a ser horrible."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:42.37",
+			"end_time": "00:09:44.97",
+			"text": "Enfoc\u00e1ndolo en la puntuaci\u00f3n as\u00ed como \u00bfcu\u00e1nto le dan ustedes?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:44.99",
+			"end_time": "00:09:49.79",
+			"text": "porque al final deber\u00edan ser procesos aparte no deber\u00edan ser todos unificados y ya tenemos un caso que pasa que es el portal que no se inscribe o sea si pasa ah\u00ed y cuando el alumno quiere ver su horario que casi siempre lo quieren hacer lo hacen por la app va a pasar"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:50.69",
+			"end_time": "00:10:00.79",
+			"text": "Y ya tenemos un caso que pasa que es el portal que no se inscribe o sea si pasa ah\u00ed y cuando el alumno quiere ver su horario que casi siempre lo quieren hacer lo hacen por la app va a pasar"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:10:01.75",
+			"end_time": "00:10:09.39",
+			"text": " Y solamente contando la carrera de inform\u00e1tica, porque est\u00e1n todas las otras carreras..."
+		}
+	]
+}

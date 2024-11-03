@@ -1,0 +1,340 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:05.92",
+			"end_time": "00:00:21.01",
+			"text": " Yo como administrador de salas necesito gestionar la informaci\u00f3n de la asignatura de salas y laboratorios a las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:21.07",
+			"end_time": "00:00:29.82",
+			"text": "Yo como administrador de salas necesito gestionar la informaci\u00f3n de la asignaci\u00f3n de salas y laboratorios a las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:30.64",
+			"end_time": "00:00:30.73",
+			"text": "Piensen."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:42.92",
+			"end_time": "00:01:48.76",
+			"text": " \u00bfEst\u00e1n todos claros con lo que van a votar?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:49.57",
+			"end_time": "00:01:50.26",
+			"text": "Con la manito."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:51.40",
+			"end_time": "00:01:51.68",
+			"text": "\u00bfS\u00ed?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:52.20",
+			"end_time": "00:01:52.50",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:52.68",
+			"end_time": "00:01:54.26",
+			"text": "Uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:55.45",
+			"end_time": "00:01:55.71",
+			"text": "\u00a1Ay, gritos!"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:55.76",
+			"end_time": "00:01:57.68",
+			"text": "\u00bfCon qu\u00e9 no terminamos?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:57.87",
+			"end_time": "00:01:59.65",
+			"text": "Todos votamos cuatro."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:01.54",
+			"end_time": "00:02:03.29",
+			"text": "Es que el debate es si todos salimos iguales."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:03.93",
+			"end_time": "00:02:04.81",
+			"text": "Todos somos iguales."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:18.52",
+			"end_time": "00:02:20.03",
+			"text": "ya, \u00bfpor qu\u00e9?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:20.09",
+			"end_time": "00:02:39.18",
+			"text": "primero el ICP tiene que ser de toda la o sea, el servicio tiene que contener toda la asignatura, no solamente una carrera entonces tiene que traer hartos datos hay que cruzar muchas tablas y despu\u00e9s ver"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:40.46",
+			"end_time": "00:02:49.59",
+			"text": " tambi\u00e9n ten\u00e9is que ver por facultad, o sea, as\u00ed lo pens\u00e9 yo, por facultad hay tantas asignaturas en tal hora de tal d\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:50.50",
+			"end_time": "00:02:57.65",
+			"text": "Entonces ah\u00ed reci\u00e9n pod\u00e9is ver qu\u00e9 sala vais como poniendo para este, para lo otro."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:59.25",
+			"end_time": "00:03:04.49",
+			"text": "Y aparte que los profes tambi\u00e9n necesitan a veces que la sala sea un laboratorio s\u00ed o s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:06.03",
+			"end_time": "00:03:06.78",
+			"text": "No, que no sea sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:07.18",
+			"end_time": "00:03:09.65",
+			"text": "Eso."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:09.66",
+			"end_time": "00:03:09.96",
+			"text": "Perfecto."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:11.81",
+			"end_time": "00:03:14.87",
+			"text": " Vot\u00e9 por votar."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:14.93",
+			"end_time": "00:03:20.71",
+			"text": "Vot\u00e9 por votar."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:20.93",
+			"end_time": "00:03:25.24",
+			"text": "No."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:25.28",
+			"end_time": "00:03:25.52",
+			"text": "\u00bfPor qu\u00e9?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:25.56",
+			"end_time": "00:03:27.49",
+			"text": "No s\u00e9 qu\u00e9 es eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:27.56",
+			"end_time": "00:03:28.21",
+			"text": "O el que sepa diga."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:28.25",
+			"end_time": "00:03:29.25",
+			"text": "El que sepa diga"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:29.43",
+			"end_time": "00:03:30.09",
+			"text": "Para que..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:30.12",
+			"end_time": "00:03:31.16",
+			"text": "Para pensar ah\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:31.77",
+			"end_time": "00:03:39.59",
+			"text": "El tema es que al menos lo que ha sido complicado porque ten\u00edas que relacionar con todas las salas que est\u00e1n dentro de la universidad, no solo una facultad y son varias."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:40.05",
+			"end_time": "00:03:40.44",
+			"text": "Entonces..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:41.87",
+			"end_time": "00:03:47.63",
+			"text": " Tanto dato, adem\u00e1s de los profesores que dictan distintas asignaturas, los va a relacionar de manera complicada."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:49.21",
+			"end_time": "00:04:01.21",
+			"text": "Despu\u00e9s ten\u00e9is que crear pistas para que el administrador o profesor pueda ver y administrar las salas que tiene."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:02.47",
+			"end_time": "00:04:04.46",
+			"text": "Entonces son hartas tareas en muy poco tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:04.96",
+			"end_time": "00:04:07.87",
+			"text": "Claro, ser\u00e1 complicado pero no imposible."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:08.93",
+			"end_time": "00:04:14.87",
+			"text": " S\u00ed, de por s\u00ed ya nos cuesta crear solamente que se disponibilice la visualizaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:15.08",
+			"end_time": "00:04:15.86",
+			"text": "Imag\u00ednate la edici\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:18.86",
+			"end_time": "00:04:19.12",
+			"text": "No."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:21.43",
+			"end_time": "00:04:24.42",
+			"text": "Son demasiados datos para tan poco tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:24.43",
+			"end_time": "00:04:31.43",
+			"text": "Entre comillas, casi imposible, pero se podr\u00eda a nivel complicado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:31.94",
+			"end_time": "00:04:37.94",
+			"text": "Como que hay algo y ya podiste, pero... O sea, no es imposible lograrlo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:38.35",
+			"end_time": "00:04:43.12",
+			"text": " No es imposible, por eso es complicado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:43.18",
+			"end_time": "00:04:47.64",
+			"text": "Es complicado, pero tampoco es algo que no podemos hacer."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:47.94",
+			"end_time": "00:04:48.81",
+			"text": "\u00bfPero en dos semanas?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:49.81",
+			"end_time": "00:04:50.02",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:51.85",
+			"end_time": "00:04:55.81",
+			"text": "Algo se puede sacar yo creo, pero no por eso digo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:55.82",
+			"end_time": "00:04:58.42",
+			"text": "Se puede llegar un prototipo, pero m\u00e1s all\u00e1..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:58.82",
+			"end_time": "00:05:00.72",
+			"text": "Un prototipo que se pueda..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:04.56",
+			"end_time": "00:05:05.92",
+			"text": " De hecho, est\u00e1 bien b\u00e1sico."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:05.93",
+			"end_time": "00:05:09.38",
+			"text": "Si no hay ning\u00fan inconveniente ah\u00ed, como que..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:09.63",
+			"end_time": "00:05:10.98",
+			"text": "Se puede lograr en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:11.31",
+			"end_time": "00:05:12.36",
+			"text": "Algo bien as\u00ed, bien b\u00e1sico."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:15.57",
+			"end_time": "00:05:15.92",
+			"text": "Eso."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:15.95",
+			"end_time": "00:05:16.16",
+			"text": "Eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:19.25",
+			"end_time": "00:05:19.57",
+			"text": "Terminado."
+		}
+	]
+}

@@ -1,0 +1,568 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:14.79",
+			"end_time": "00:01:21.46",
+			"text": " Lo que no tengo claro es que podr\u00eda revisar a trav\u00e9s de consulta a la base de datos o tiene alguna interfaz."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:21.95",
+			"end_time": "00:01:22.82",
+			"text": "No, pues tiene la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:22.84",
+			"end_time": "00:01:23.79",
+			"text": "Tiene la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:23.81",
+			"end_time": "00:01:23.84",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:23.87",
+			"end_time": "00:01:25.18",
+			"text": "Por ah\u00ed se tiene que ir."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:32.20",
+			"end_time": "00:01:33.51",
+			"text": " Yo dir\u00eda que en medio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:34.87",
+			"end_time": "00:01:42.43",
+			"text": "Quiz\u00e1s porque tiene que estar como gestionando todos los profes, todas las salas, todas las carreras, todas las asignaturas dentro de su edificio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:42.45",
+			"end_time": "00:01:42.85",
+			"text": "Por ejemplo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:42.87",
+			"end_time": "00:01:45.23",
+			"text": "\u00bfY no habr\u00eda algo como para filtrar?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:45.26",
+			"end_time": "00:01:45.98",
+			"text": "Yo siento que..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:46.16",
+			"end_time": "00:01:46.78",
+			"text": "Este problema est\u00e1 vac\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:47.51",
+			"end_time": "00:01:47.65",
+			"text": "\u00bfC\u00f3mo?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:48.09",
+			"end_time": "00:01:49.71",
+			"text": "Que tiene que ser cuando \u00e9l tiene que gestionar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:50.20",
+			"end_time": "00:01:51.54",
+			"text": "Claro, no cuando haya clases."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:51.85",
+			"end_time": "00:01:54.75",
+			"text": "Entonces tiene que mostrarle como en qu\u00e9 bloque estar\u00eda vac\u00eda la sala."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:55.75",
+			"end_time": "00:02:01.18",
+			"text": "Yo no ser\u00eda... Considero que no ser\u00eda dif\u00edcil porque ya tendr\u00eda ah\u00ed la asignatura con horario."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:02.35",
+			"end_time": "00:02:08.08",
+			"text": " Por lo que le mostrar\u00eda a \u00e9l solamente el horario y \u00e9l tendr\u00eda que ver cu\u00e1ndo est\u00e1 libre."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:08.75",
+			"end_time": "00:02:12.09",
+			"text": "O nosotros decirle, el lunes est\u00e1 todo esto y este bloque est\u00e1 libre."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:12.12",
+			"end_time": "00:02:20.11",
+			"text": "\u00bfPor qu\u00e9 \u00e9l tendr\u00eda que ir as\u00ed como sala por sala, asignatura por asignatura, viendo?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:20.12",
+			"end_time": "00:02:20.21",
+			"text": "No."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:20.22",
+			"end_time": "00:02:21.93",
+			"text": "Te entregar\u00eda como el calendario."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:22.21",
+			"end_time": "00:02:23.55",
+			"text": "S\u00ed, como un horario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:23.72",
+			"end_time": "00:02:25.03",
+			"text": "El horario de la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:25.11",
+			"end_time": "00:02:27.12",
+			"text": "No, pues es distinto ah\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:27.18",
+			"end_time": "00:02:29.52",
+			"text": "Porque alguien te est\u00e1 atentando por salas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:32.37",
+			"end_time": "00:02:36.09",
+			"text": " Un profe puede tener un horario en cada sala."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:37.18",
+			"end_time": "00:02:39.21",
+			"text": "Solo un horario y tiene que poner una sala."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:39.62",
+			"end_time": "00:02:41.65",
+			"text": "Aqu\u00ed pueden haber varias salas que est\u00e9n al mismo tiempo vac\u00edas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:41.97",
+			"end_time": "00:02:45.53",
+			"text": "No puedes poner un horario y tienes que poner n salas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:45.58",
+			"end_time": "00:02:51.80",
+			"text": "\u00bfY si tendr\u00eda que ser por sala entonces?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:51.84",
+			"end_time": "00:02:59.53",
+			"text": "Pones un horario y cuando no haya ninguna pones una raya y despu\u00e9s por abajo pones qu\u00e9 sala ten\u00e9s libre, una casilla."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:02.75",
+			"end_time": "00:03:03.98",
+			"text": " o como lo veis t\u00fa."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:06.75",
+			"end_time": "00:03:26.18",
+			"text": "Es que seg\u00fan yo no s\u00e9 pues si le pon\u00ed dos profes tienen no s\u00e9 pues conste que tenemos una asignatura a las ocho y media y despu\u00e9s a las diez por ejemplo en la misma sala eso es lo que estar\u00eda ocupado todo el rato \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:26.91",
+			"end_time": "00:03:32.43",
+			"text": "tambi\u00e9n si tenemos a las ocho y media en una sala conste t\u00fa y cambiamos a otra sala quiz\u00e1s"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:32.90",
+			"end_time": "00:03:35.50",
+			"text": " puede venir otro profe y ocupar la misma sala que ocupamos en la 8 y media."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:36.43",
+			"end_time": "00:03:44.91",
+			"text": "Todo eso ser\u00eda como ir avis\u00e1ndole todo el rato con la asignatura que hay en la sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:44.97",
+			"end_time": "00:04:00.18",
+			"text": "Yo creo que mejor hacer con un apartado, con alguna tabla dentro de la base de datos, que sea especialmente para los t\u00e9cnicos, porque siempre van a tener que gestionar los computadores que hay en la sala, ir a hacer revisiones, mantenciones, o incluso limpiar las salas,"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:00.90",
+			"end_time": "00:04:04.27",
+			"text": " Entonces deber\u00edamos gestionar como..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:05.50",
+			"end_time": "00:04:07.97",
+			"text": "\u00bfA qu\u00e9 hora no hay nada?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:08.08",
+			"end_time": "00:04:08.74",
+			"text": "S\u00ed, siempre."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:09.09",
+			"end_time": "00:04:12.62",
+			"text": "\u00bfEso ser\u00eda a partir de la asignatura?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:12.68",
+			"end_time": "00:04:16.79",
+			"text": "A partir de la asignatura."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:18.26",
+			"end_time": "00:04:21.11",
+			"text": "Por ejemplo, con el profe te toca ir a una sala a un horario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:21.82",
+			"end_time": "00:04:24.91",
+			"text": "Pero en un horario pueden haber varias salas desocupadas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:25.91",
+			"end_time": "00:04:28.50",
+			"text": "Como para hacerlo m\u00e1s ordenado y que  se"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:29.10",
+			"end_time": "00:04:30.42",
+			"text": " Que le quede m\u00e1s sencillo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:30.57",
+			"end_time": "00:04:30.77",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:33.75",
+			"end_time": "00:04:45.12",
+			"text": "\u00bfPor ah\u00ed podr\u00eda agregar otra historia?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:46.94",
+			"end_time": "00:04:47.12",
+			"text": "\u00bfO no?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:47.14",
+			"end_time": "00:04:49.05",
+			"text": "Eso en el medio podr\u00eda, pero de menor complejidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:50.91",
+			"end_time": "00:04:54.82",
+			"text": "S\u00ed, en dos semanas s\u00ed se puede lograr, pero ah\u00ed podr\u00eda agregar algo medianamente complejidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:55.35",
+			"end_time": "00:04:56.38",
+			"text": "O menor complejidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:57.86",
+			"end_time": "00:04:59.93",
+			"text": "Pienso yo"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:02.00",
+			"end_time": "00:05:05.10",
+			"text": "Porque ser\u00eda ir haciendo como filtros por horario m\u00e1s que nada."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:06.06",
+			"end_time": "00:05:08.70",
+			"text": "Asumiendo que tenemos horario y tenemos como que salga."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:09.31",
+			"end_time": "00:05:10.37",
+			"text": "Habr\u00eda que hacer filtros por horario."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:10.43",
+			"end_time": "00:05:17.70",
+			"text": "Ah, ya entonces ser\u00eda tan complicado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:17.88",
+			"end_time": "00:05:18.31",
+			"text": "Yo digo, que no."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:18.32",
+			"end_time": "00:05:25.33",
+			"text": "Porque claro, llev\u00e1ndolo que al final igual tendr\u00edamos que saber qu\u00e9 horarios tienen todas las salas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:25.50",
+			"end_time": "00:05:26.43",
+			"text": "Y a partir de eso"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:26.85",
+			"end_time": "00:05:28.79",
+			"text": " Habr\u00eda que hacer un filtro."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:28.81",
+			"end_time": "00:05:29.20",
+			"text": "S\u00ed, claro."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:29.62",
+			"end_time": "00:05:31.85",
+			"text": "A partir de esos horarios de las salas podemos..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:31.92",
+			"end_time": "00:05:33.65",
+			"text": "Filtro por d\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:34.37",
+			"end_time": "00:05:35.12",
+			"text": "O sea, por horario."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:35.56",
+			"end_time": "00:05:36.62",
+			"text": "S\u00ed, por horario del d\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:37.25",
+			"end_time": "00:05:39.25",
+			"text": "Por horario del d\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:39.37",
+			"end_time": "00:05:39.56",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:39.57",
+			"end_time": "00:05:41.50",
+			"text": "Pero claro, a partir de ese filtro se puede hacer."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:42.24",
+			"end_time": "00:05:49.74",
+			"text": "O lo que dijo Aar\u00f3n, que es mu\u00e9strame todas las salas que est\u00e1n desocupadas y pum, le aparecen en ese horario todas las que est\u00e1n desocupadas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:50.10",
+			"end_time": "00:05:51.50",
+			"text": "O las que est\u00e9n ocupadas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:51.51",
+			"end_time": "00:05:53.12",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:53.16",
+			"end_time": "00:05:54.01",
+			"text": "Exactamente lo mismo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:54.06",
+			"end_time": "00:05:54.87",
+			"text": "Perfecto, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:56.61",
+			"end_time": "00:05:59.16",
+			"text": " puede ser medio o sencillo igual"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:01.41",
+			"end_time": "00:06:08.86",
+			"text": "El equipo puede desarrollar la historia de usuario en la iteraci\u00f3n solo una historia de menor complejidad."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:09.01",
+			"end_time": "00:06:10.96",
+			"text": "Yo creo que es la 2."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:11.11",
+			"end_time": "00:06:25.86",
+			"text": "Yo creo que es sencillo tambi\u00e9n. Es que justo tenemos la historia muy parecida a la anterior"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:26.32",
+			"end_time": "00:06:29.32",
+			"text": " como somos tan confidenciados con la anterioridad."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:29.38",
+			"end_time": "00:06:29.64",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:30.31",
+			"end_time": "00:06:37.24",
+			"text": "Pero, por eso mismo, por ejemplo, una de menor complejidad se podr\u00eda agregar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:37.50",
+			"end_time": "00:06:38.77",
+			"text": "Yo creo que estas dos, por ejemplo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:38.80",
+			"end_time": "00:06:40.75",
+			"text": "Pero es sencillo, ten\u00e9s que agregar una similar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:40.80",
+			"end_time": "00:06:41.81",
+			"text": "Y aparte, justo van de las manos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:42.33",
+			"end_time": "00:06:44.80",
+			"text": "O sea, van de las manos como en los filtros y los queris."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:44.83",
+			"end_time": "00:06:47.22",
+			"text": "\u00bfQu\u00e9 deber\u00edan hacer?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:47.75",
+			"end_time": "00:06:49.12",
+			"text": "Con la del profesor ser\u00eda... Las dos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:49.13",
+			"end_time": "00:06:50.66",
+			"text": "Pr\u00e1cticamente, es cambiar el filtro."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:50.68",
+			"end_time": "00:06:53.35",
+			"text": "As\u00ed que, por eso, vamos a echar como una expresi\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:53.85",
+			"end_time": "00:06:54.05",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:00.41",
+			"end_time": "00:07:01.05",
+			"text": " \u00bfQu\u00e9 dices t\u00fa?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:01.70",
+			"end_time": "00:07:03.18",
+			"text": "S\u00ed, yo creo que es la 2"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:04.99",
+			"end_time": "00:07:05.17",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:06.19",
+			"end_time": "00:07:09.26",
+			"text": "Como equipo creemos que es la 2."
+		}
+	]
+}

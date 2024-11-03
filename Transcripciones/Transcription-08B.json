@@ -1,0 +1,340 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:02.54",
+			"end_time": "00:00:29.50",
+			"text": " yo como estudiante necesito ver mi horario semanal para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura yo creo que esto ya cambi\u00f3 el cielo y la tierra para m\u00ed es muy sencillo b\u00e1sicamente la universidad ya tiene incorporado lo que es el horario en un sistema"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:30.89",
+			"end_time": "00:00:38.57",
+			"text": " Por lo tanto, lo \u00fanico que tendr\u00edamos que hacer es visualizar ese horario dependiendo solamente del usuario, \u00bfs\u00ed?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:38.60",
+			"end_time": "00:00:40.71",
+			"text": "Tendr\u00edamos que solo solicitar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:40.84",
+			"end_time": "00:00:48.67",
+			"text": "Yo, tipo, pasa, te voy a poner a hacer como complicado, como hacer las zonas entre las salas, el horario y hacer cosas, pero se puede, pues ya se ha hecho."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:48.68",
+			"end_time": "00:00:49.27",
+			"text": "Se puede, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:49.49",
+			"end_time": "00:00:52.10",
+			"text": "Lo m\u00e1s pago imparte por el poquito, pero se puede."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:52.14",
+			"end_time": "00:00:53.60",
+			"text": "Como en dos semanas creo que se puede."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:53.64",
+			"end_time": "00:00:54.78",
+			"text": "En dos semanas s\u00ed se puede hacer."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:55.71",
+			"end_time": "00:00:57.53",
+			"text": "S\u00ed, porque aparte igual podemos solicitar desde..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:59.28",
+			"end_time": "00:01:00.38",
+			"text": " Description Service."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:00.42",
+			"end_time": "00:01:01.09",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:01.77",
+			"end_time": "00:01:04.34",
+			"text": "O sea, la informaci\u00f3n est\u00e1 y habr\u00eda que implementarla."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:04.37",
+			"end_time": "00:01:06.46",
+			"text": "Solo habr\u00eda que implementarla lo que nos solicitan."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:06.51",
+			"end_time": "00:01:07.81",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:07.87",
+			"end_time": "00:01:10.81",
+			"text": "Adem\u00e1s, puede ser una reuni\u00f3n extra, pero no es cualquier eso."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:11.54",
+			"end_time": "00:01:13.45",
+			"text": "Est\u00e1 easy."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:13.48",
+			"end_time": "00:01:13.67",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:13.82",
+			"end_time": "00:01:14.53",
+			"text": "Muy sencillo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:14.81",
+			"end_time": "00:01:16.15",
+			"text": "Para m\u00ed, por lo menos, muy sencillo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:17.54",
+			"end_time": "00:01:31.84",
+			"text": " Desde mi rol de experiencia de usuario es hacer un horario que sea... Pero hacer algo que sea entendible."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:32.93",
+			"end_time": "00:01:34.82",
+			"text": "Lo que es programaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:36.06",
+			"end_time": "00:01:38.23",
+			"text": "\u00bfLe pas\u00e1is un frijol a los estudiantes?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:38.26",
+			"end_time": "00:01:39.89",
+			"text": "\u00bfQuedan felices?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:39.90",
+			"end_time": "00:01:40.79",
+			"text": "\u00bfC\u00f3mo est\u00e1s?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:40.87",
+			"end_time": "00:01:43.06",
+			"text": "\u00bfEst\u00e1s bueno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:43.09",
+			"end_time": "00:01:44.67",
+			"text": "S\u00ed, en total es hacer un sistema..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:48.51",
+			"end_time": "00:01:52.26",
+			"text": " S\u00ed, pero est\u00e1 sencillo para lo que es backend, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:52.96",
+			"end_time": "00:01:55.51",
+			"text": "S\u00ed, para m\u00ed es s\u00faper f\u00e1cil."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:55.56",
+			"end_time": "00:02:00.34",
+			"text": "Es b\u00e1sicamente una tabla que se vea bien y que combine bien los colores."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:00.96",
+			"end_time": "00:02:01.45",
+			"text": "Y nada m\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:01.46",
+			"end_time": "00:02:03.98",
+			"text": "\u00bfY por esto pagan 2 millones?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:11.18",
+			"end_time": "00:02:11.75",
+			"text": " \u00bfEstamos listos?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:12.34",
+			"end_time": "00:02:15.65",
+			"text": "No s\u00e9, si ustedes opinan distinto, si tienen alguna objeci\u00f3n o algo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:15.88",
+			"end_time": "00:02:20.71",
+			"text": "O sea, m\u00e1s que nada, los niveles de dificultad entre cada uno son variantes."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:20.75",
+			"end_time": "00:02:24.09",
+			"text": "Pero no pasa el medio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:24.12",
+			"end_time": "00:02:27.40",
+			"text": "Igual por eso les digo, a ti como persistencia..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:27.92",
+			"end_time": "00:02:34.90",
+			"text": "O sea, hacer las relaciones entre las talas y esas cosas, a no ser que ya est\u00e9s en la pila y listo para sacar los dados, igual ser\u00eda complicado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:34.93",
+			"end_time": "00:02:35.63",
+			"text": "Pero adem\u00e1s de eso..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:36.21",
+			"end_time": "00:02:37.98",
+			"text": " En este caso ser\u00eda la programaci\u00f3n, el dise\u00f1o y..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:38.21",
+			"end_time": "00:02:42.08",
+			"text": "Pero se podr\u00eda hacer en... Pero lo encuentras sencillo, medio..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:42.21",
+			"end_time": "00:02:43.38",
+			"text": "Entre sencillo y medio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:46.15",
+			"end_time": "00:02:46.40",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:46.55",
+			"end_time": "00:02:48.03",
+			"text": "Es que ya ah\u00ed podr\u00edamos ir subiendo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:49.53",
+			"end_time": "00:02:51.87",
+			"text": "Del lado del backend yo la ver\u00eda m\u00e1s como sencillo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:52.49",
+			"end_time": "00:02:58.83",
+			"text": "En el caso de la programaci\u00f3n y vincular todos esos datos a la base de datos y todas esas cosas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:58.87",
+			"end_time": "00:03:00.38",
+			"text": "Vamos en sencillo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:00.78",
+			"end_time": "00:03:01.77",
+			"text": "Para m\u00ed es muy sencillo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:02.53",
+			"end_time": "00:03:04.96",
+			"text": "Y para ti como front... Fabi\u00e1n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:05.90",
+			"end_time": "00:03:06.68",
+			"text": " Es sencillo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:07.08",
+			"end_time": "00:03:11.09",
+			"text": "O sea, igual me estoy guiando por lo que dice aqu\u00ed, que al menos una historia similar podr\u00eda llevarse a la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:11.88",
+			"end_time": "00:03:12.59",
+			"text": "S\u00ed, pues venga."
+		},
+		{
+			"speaker": "SPEAKER_00 ",
+			"start_time": "00:03:12.93",
+			"end_time": "00:03:24.91",
+			"text": "Entonces, dej\u00e1moslo en sencillo, porque soy el \u00fanico que est\u00e1, para m\u00ed, m\u00e1s f\u00e1cil que el lado de ustedes."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:25.19",
+			"end_time": "00:03:26.12",
+			"text": "\u00bfS\u00ed?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:26.13",
+			"end_time": "00:03:27.12",
+			"text": "Dej\u00e1moslo en sencillo, entonces."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:27.13",
+			"end_time": "00:03:27.46",
+			"text": "Listo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:27.52",
+			"end_time": "00:03:27.86",
+			"text": "Estamos listos."
+		}
+	]
+}

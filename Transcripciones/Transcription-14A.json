@@ -1,0 +1,844 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:06.36",
+			"end_time": "00:00:13.77",
+			"text": "Dice, yo como estudiante necesito ver mi horario semanal para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:16.21",
+			"end_time": "00:00:18.35",
+			"text": "Rep\u00edtelo de nuevo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:18.39",
+			"end_time": "00:00:25.53",
+			"text": "Yo como estudiante necesito ver mi horario semanal para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:26.76",
+			"end_time": "00:00:29.67",
+			"text": "Tenemos que estimar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:35.74",
+			"end_time": "00:00:37.92",
+			"text": " \u00bfCu\u00e1nto tiempo necesar\u00edamos para realizar esta tarea?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:38.07",
+			"end_time": "00:00:38.97",
+			"text": "Tenemos dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:39.02",
+			"end_time": "00:00:43.64",
+			"text": "Hay que distribuir todas las cosas, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:43.70",
+			"end_time": "00:00:47.03",
+			"text": "Esto ser\u00eda un monito, pim, va a ser datos, pim."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:47.96",
+			"end_time": "00:00:52.06",
+			"text": "El monito entra a la web, que ser\u00eda App Tui, claro."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:57.89",
+			"end_time": "00:01:04.18",
+			"text": " en la TUI tiene que haber un m\u00f3dulo donde diga horario o asignatura o salas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:04.51",
+			"end_time": "00:01:07.93",
+			"text": "No, porque asignatura de aparte, horario es lo que quiere."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:08.71",
+			"end_time": "00:01:09.00",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:09.14",
+			"end_time": "00:01:10.76",
+			"text": "S\u00ed, porque en horario te aparece todo ordenado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:10.81",
+			"end_time": "00:01:12.26",
+			"text": "Aparece todo ordenado la asignatura."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:12.35",
+			"end_time": "00:01:19.20",
+			"text": "Y cuando aprieten uno de esos de los casilleros que salga la sala o que uno pasa encima, sale sala tanto."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:19.40",
+			"end_time": "00:01:20.59",
+			"text": "Pero \u00bfc\u00f3mo la quer\u00e9s?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:20.60",
+			"end_time": "00:01:22.23",
+			"text": "\u00bfDiario o que te aparezca la semana?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:22.64",
+			"end_time": "00:01:24.20",
+			"text": " Por ejemplo, no s\u00e9 si hay..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:24.64",
+			"end_time": "00:01:26.90",
+			"text": "El horario como cabr\u00f3n chico cuando aparece el lunes, martes, mi\u00e9rcoles..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:27.14",
+			"end_time": "00:01:28.10",
+			"text": "Ya, como horario completo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:28.12",
+			"end_time": "00:01:30.17",
+			"text": "El lunes, s\u00e1bado, que ser\u00eda..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:30.32",
+			"end_time": "00:01:31.67",
+			"text": "Sale el lunes, martes, hasta el viernes."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:31.68",
+			"end_time": "00:01:33.76",
+			"text": "Y ah\u00ed te sale as\u00ed como lo..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:34.68",
+			"end_time": "00:01:35.76",
+			"text": "El lunes, primera hora, y as\u00ed clic."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:35.79",
+			"end_time": "00:01:36.68",
+			"text": "Y ah\u00ed te aparece la sala."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:36.70",
+			"end_time": "00:01:40.65",
+			"text": "Ya, \u00bfcu\u00e1nto me van a hacer eso?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:41.56",
+			"end_time": "00:01:41.95",
+			"text": "Backend"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:41.96",
+			"end_time": "00:01:44.70",
+			"text": "A ver."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:44.73",
+			"end_time": "00:01:47.81",
+			"text": "A ver."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:48.17",
+			"end_time": "00:01:49.59",
+			"text": "No, primero va el dise\u00f1o."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:51.54",
+			"end_time": "00:02:06.67",
+			"text": " S\u00ed, primero ten\u00e9is que dise\u00f1ar Despu\u00e9s ten\u00e9is que ver El tema de los datos Y ah\u00ed pas\u00e1is el vacuum Y ah\u00ed reci\u00e9n veis Igual pienso por mientras O sea, no iba a estar viendo Qu\u00e9 vas a hacer por mientras."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:07.94",
+			"end_time": "00:02:18.07",
+			"text": "Es que ah\u00ed ya tenemos Como ser\u00eda el interpajo Que ser\u00eda, el usuario se mete a la aplicaci\u00f3n Ve su horario Busca la asignatura que quiere revisar Por ejemplo..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:18.54",
+			"end_time": "00:02:19.87",
+			"text": "Entonces el front ya est\u00e1 listo"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:20.22",
+			"end_time": "00:02:21.44",
+			"text": " Se podr\u00eda decir."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:21.49",
+			"end_time": "00:02:23.05",
+			"text": "Deber\u00eda estar listo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:23.27",
+			"end_time": "00:02:27.68",
+			"text": "Claro, deber\u00eda ir como a ver el color y cosas as\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:27.74",
+			"end_time": "00:02:31.80",
+			"text": "S\u00ed, porque la asignatura deber\u00eda tener su propio color o un distintivo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:31.81",
+			"end_time": "00:02:35.06",
+			"text": "El distintivo de la sala, c\u00f3mo se lo vaya a mostrar y eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:35.28",
+			"end_time": "00:02:37.31",
+			"text": "Eso nom\u00e1s deber\u00eda ir en front."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:37.36",
+			"end_time": "00:02:39.37",
+			"text": "Entonces el dise\u00f1o de front est\u00e1 listo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:41.59",
+			"end_time": "00:02:46.31",
+			"text": "S\u00ed, quiz\u00e1s agregarle alguna vista porque pod\u00e9is ver el horario pero no pod\u00e9is ver qu\u00e9 sala es."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:47.00",
+			"end_time": "00:02:48.96",
+			"text": " Entonces tenes que agregar eso."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:49.00",
+			"end_time": "00:02:55.74",
+			"text": "Como que aparece el horario y tu apretas y te aparece si se te despliega la informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:58.50",
+			"end_time": "00:03:02.16",
+			"text": "La sala, la hora y el profe."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:02.21",
+			"end_time": "00:03:05.38",
+			"text": "No, es que va a ver la sala m\u00e1s que nada."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:06.03",
+			"end_time": "00:03:07.09",
+			"text": "La sala o laboratorio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:09.27",
+			"end_time": "00:03:13.40",
+			"text": "\u00bfY qu\u00e9 pasa para el caso de... tambi\u00e9n deber\u00edamos poner as\u00ed como el..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:14.62",
+			"end_time": "00:03:15.71",
+			"text": " \u00bfD\u00f3nde se encuentra la sala?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:15.74",
+			"end_time": "00:03:17.15",
+			"text": "O sea, me refiero a qu\u00e9 facultad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:17.97",
+			"end_time": "00:03:25.09",
+			"text": "Porque hay que ver en el caso de los laboratorios cuando vamos a f\u00edsica."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:25.37",
+			"end_time": "00:03:26.62",
+			"text": "Ciencia."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:26.66",
+			"end_time": "00:03:27.15",
+			"text": "De ciencia."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:27.59",
+			"end_time": "00:03:30.88",
+			"text": "Si quer\u00eda enfocarlo m\u00e1s grande, no solamente en esta facultad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:31.44",
+			"end_time": "00:03:36.41",
+			"text": "Por eso tendr\u00eda que decir... No, no solo la sede..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:37.11",
+			"end_time": "00:03:41.46",
+			"text": " Est\u00e1 ah\u00ed en sede Valpara\u00edso, Casa Central, Facultad Tanto Tanto."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:41.49",
+			"end_time": "00:03:47.72",
+			"text": "Es que, claro, pueden haber dos salas 103, pero una debe ser de la Facultad de Ingenier\u00eda y otra de la de Oce\u00e1n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:48.00",
+			"end_time": "00:03:49.99",
+			"text": "Oce\u00e1nica s\u00ed se puede."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:50.05",
+			"end_time": "00:03:50.91",
+			"text": "O Facultad solo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:51.05",
+			"end_time": "00:03:54.81",
+			"text": "Claro, por eso poner as\u00ed como la Facultad Tanto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:55.22",
+			"end_time": "00:03:57.22",
+			"text": "Tendr\u00eda que tener Facultad y la sala."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:57.25",
+			"end_time": "00:04:03.90",
+			"text": "Casa Central, Facultad, sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:03.93",
+			"end_time": "00:04:05.06",
+			"text": "Para el caso de Ingenier\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:05.78",
+			"end_time": "00:04:06.00",
+			"text": "Es que..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:09.77",
+			"end_time": "00:04:23.12",
+			"text": " volviendo a la pregunta el tiempo, estimar el tiempo y el tipo de resultado que es la hoja de al lado eso tenemos que responder la hoja de al lado"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:44.43",
+			"end_time": "00:04:45.75",
+			"text": " \u00bfY el backend cu\u00e1nto demora, t\u00edo?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:52.06",
+			"end_time": "00:04:53.18",
+			"text": "\u00bfLo hac\u00eda en dos semanas, s\u00ed o no?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:54.66",
+			"end_time": "00:04:56.10",
+			"text": "No, en menos de dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:56.19",
+			"end_time": "00:04:57.89",
+			"text": "\u00bfEn menos de dos semanas?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:57.95",
+			"end_time": "00:04:59.37",
+			"text": "Pues tiene que ser en una semana."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:59.69",
+			"end_time": "00:05:01.32",
+			"text": "S\u00ed, porque despu\u00e9s tiene que empezar a correr por..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:01.77",
+			"end_time": "00:05:04.60",
+			"text": " Claro, pero igual puede estar trabajando en paralelo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:04.66",
+			"end_time": "00:05:09.87",
+			"text": "Claro, tendr\u00eda que ser en menos de dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:10.20",
+			"end_time": "00:05:12.73",
+			"text": "Complicado, la verdad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:12.75",
+			"end_time": "00:05:13.70",
+			"text": "Complicado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:17.62",
+			"end_time": "00:05:21.61",
+			"text": "Bueno, a ver, si ya ten\u00e9s la inscripci\u00f3n, ya ten\u00e9s la consulta de asignaturas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:22.00",
+			"end_time": "00:05:22.76",
+			"text": "Ten\u00e9s que cruzar."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:23.70",
+			"end_time": "00:05:26.76",
+			"text": "Pero me falta el de facultades, porque ese es otro servicio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:27.93",
+			"end_time": "00:05:31.25",
+			"text": "Pero si escrib\u00eds asignaturas, ten\u00e9s el c\u00f3digo de la facultad, igual, pues..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:32.29",
+			"end_time": "00:05:40.35",
+			"text": " el mero hecho de que la facultad de que nosotros siendo de esta carrera nos manden all\u00e1 a ciencia ya te queda un vac\u00edo legal por decirlo as\u00ed"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:40.69",
+			"end_time": "00:05:48.35",
+			"text": "En ese caso si ya viene la inscripci\u00f3n o la consulta asignatura con el c\u00f3digo de la facultad ya..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:48.59",
+			"end_time": "00:05:50.35",
+			"text": "El c\u00f3digo de la carrera"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:51.09",
+			"end_time": "00:05:58.35",
+			"text": "El c\u00f3digo de la carrera es que el sistema estamos tratando de conseguir d\u00f3nde es el c\u00f3digo porque vamos a ver, ya t\u00fa ten\u00edas una asignatura pero en qu\u00e9 sala es"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:59.68",
+			"end_time": "00:06:02.16",
+			"text": " Entonces tendr\u00eda que ser que inscriban..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:02.88",
+			"end_time": "00:06:06.56",
+			"text": "Tienen que tener algo relacionado con el lugar donde se dictara la clase."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:08.56",
+			"end_time": "00:06:12.18",
+			"text": "Bueno, caso hipot\u00e9tico donde esas cosas ya est\u00e1n listas antes de tomar ramo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:16.60",
+			"end_time": "00:06:18.42",
+			"text": "Claro, esa es la cosa del..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:18.70",
+			"end_time": "00:06:20.42",
+			"text": "\u00bfSe lo puedes consultar al profesor?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:20.43",
+			"end_time": "00:06:22.16",
+			"text": "\u00bfY meterlo a la fuerza?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:23.25",
+			"end_time": "00:06:23.87",
+			"text": "No, \u00bfpor qu\u00e9 no?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:25.43",
+			"end_time": "00:06:30.91",
+			"text": " Es que, por ejemplo, en los laboratorios de f\u00edsica ten\u00e9s clases te\u00f3ricas ac\u00e1 y despu\u00e9s ten\u00e9s clases all\u00e1."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:30.94",
+			"end_time": "00:06:31.17",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:31.41",
+			"end_time": "00:06:35.98",
+			"text": "Clases que tampoco est\u00e1n contabilizadas en el horario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:36.00",
+			"end_time": "00:06:38.54",
+			"text": "Porque cuando t\u00fa tomas ah\u00ed una f\u00edsica te cuentan los dos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:38.89",
+			"end_time": "00:06:43.30",
+			"text": "Claro, yo creo que en una primera versi\u00f3n podr\u00eda ser as\u00ed y despu\u00e9s ir viendo c\u00f3mo se queda."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:43.31",
+			"end_time": "00:06:44.33",
+			"text": "Ya, \u00bflo haces en 2 semanas?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:44.36",
+			"end_time": "00:06:44.68",
+			"text": "\u00bfS\u00ed o no?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:46.25",
+			"end_time": "00:06:51.76",
+			"text": "\u00bfUno o dos?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:51.82",
+			"end_time": "00:06:52.44",
+			"text": "Yo digo una..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:53.25",
+			"end_time": "00:06:55.26",
+			"text": " Llego aqu\u00ed a justo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:55.61",
+			"end_time": "00:06:56.82",
+			"text": "Llego justo las dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:56.97",
+			"end_time": "00:06:58.31",
+			"text": "El backend as\u00ed casi justo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:01.91",
+			"end_time": "00:07:02.81",
+			"text": "El front No creo que se demore."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:03.14",
+			"end_time": "00:07:05.00",
+			"text": "No, teniendo ya los otros..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:06.14",
+			"end_time": "00:07:12.00",
+			"text": "Acaba de minimizar tu trabajo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:12.80",
+			"end_time": "00:07:14.43",
+			"text": "El serial."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:14.62",
+			"end_time": "00:07:17.27",
+			"text": "Ya, entonces muy sencillo, sencillo, medio complicado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:17.30",
+			"end_time": "00:07:17.62",
+			"text": "Y en datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:17.66",
+			"end_time": "00:07:19.06",
+			"text": "Ten\u00eds que hacerlo..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:23.37",
+			"end_time": "00:07:24.13",
+			"text": " \u00bfC\u00f3mo se llama esto?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:25.22",
+			"end_time": "00:07:26.25",
+			"text": "El cruce de las tablas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:32.04",
+			"end_time": "00:07:34.66",
+			"text": "Por eso, pero... \u00bfCu\u00e1nto te demora esto?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:35.27",
+			"end_time": "00:07:37.54",
+			"text": "Por eso, son caletas de datos y son distintas tablas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:38.00",
+			"end_time": "00:07:41.46",
+			"text": "Tienes que hacer cruces de tablas entre facultades, el alumno..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:43.00",
+			"end_time": "00:07:46.06",
+			"text": "No, porque el alumno est\u00e1 asociado a una carrera, la carrera a una facultad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:46.44",
+			"end_time": "00:07:49.58",
+			"text": "Claro, y ah\u00ed ten\u00e9s que hacer el cruce de la carrera a una facultad y todo eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:50.52",
+			"end_time": "00:07:52.56",
+			"text": "No vienen con el alumno."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:54.06",
+			"end_time": "00:07:55.94",
+			"text": " O sea, t\u00fa te matricul\u00e1s y te matricul\u00e1s y una carrera."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:56.00",
+			"end_time": "00:07:57.00",
+			"text": "Eso es la matr\u00edcula."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:57.05",
+			"end_time": "00:08:00.32",
+			"text": "Ya, pero a lo que voy es que no va con la facultad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:00.35",
+			"end_time": "00:08:02.43",
+			"text": "O sea, ten\u00e9s que buscar la facultad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:02.49",
+			"end_time": "00:08:04.94",
+			"text": "Ah, entonces yo te meto en la facultad y t\u00fa haces el resto."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:05.47",
+			"end_time": "00:08:07.93",
+			"text": "No, pues si t\u00fa ten\u00e9s que entregarme el servicio de eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:08.49",
+			"end_time": "00:08:08.97",
+			"text": "De los datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:08.99",
+			"end_time": "00:08:13.17",
+			"text": "O sea, t\u00fa ten\u00e9s que preparar todos los datos para yo despu\u00e9s utilizar ese servicio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:14.47",
+			"end_time": "00:08:18.67",
+			"text": "A todo reventar as\u00ed porque todo debe salir mal en una semana."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:19.79",
+			"end_time": "00:08:21.73",
+			"text": "Y yo eso se lo tengo que devolver a \u00e9l."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:22.26",
+			"end_time": "00:08:22.76",
+			"text": " No, esto no se puede."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:22.81",
+			"end_time": "00:08:27.75",
+			"text": "Ah, no, porque trabajo medio tiempo, una semana."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:29.50",
+			"end_time": "00:08:32.94",
+			"text": "Trabajo medio tiempo, aqu\u00ed sale, soy contratado a medio tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:33.22",
+			"end_time": "00:08:35.67",
+			"text": "Ah, verdad, medio tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:35.70",
+			"end_time": "00:08:43.25",
+			"text": "Creo que el backend... Llevamos una semana, yo creo que el packing... Una semana y media."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:43.60",
+			"end_time": "00:08:45.00",
+			"text": "S\u00ed, vamos a reventar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:45.55",
+			"end_time": "00:08:47.65",
+			"text": "Ya, lo categorizamos como complicado..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:49.46",
+			"end_time": "00:08:51.91",
+			"text": " Yo digo complicado, pero usarlo por el hecho de los datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:51.94",
+			"end_time": "00:08:53.10",
+			"text": "O sea, de traer los datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:53.53",
+			"end_time": "00:08:57.90",
+			"text": "Cuando ya llegamos a la parte de arriba y todo eso, no es por minimizar."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:58.25",
+			"end_time": "00:08:58.59",
+			"text": "Pero bueno."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:58.61",
+			"end_time": "00:09:01.14",
+			"text": "\u00bfComplicado?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:01.16",
+			"end_time": "00:09:03.20",
+			"text": "Yo creo que es complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:03.24",
+			"end_time": "00:09:03.60",
+			"text": "Conclusi\u00f3n."
+		}
+	]
+}

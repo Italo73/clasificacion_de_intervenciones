@@ -1,0 +1,664 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:08.08",
+			"end_time": "00:00:15.27",
+			"text": "Yo como estudiante necesito ver mi horario semanal para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:15.38",
+			"end_time": "00:00:18.73",
+			"text": "Necesito ver mi horario semanal."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:19.21",
+			"end_time": "00:00:29.26",
+			"text": "Esto supone que est\u00e1n las... Este contenedor de la consulta, el que da la inscripci\u00f3n..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:29.82",
+			"end_time": "00:00:35.71",
+			"text": " Ya est\u00e1n asignadas las asignaturas que tiene cada estudiante, en inscripci\u00f3n app."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:35.77",
+			"end_time": "00:00:38.22",
+			"text": "Claro, ah\u00ed es donde se hace la inscripci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:38.25",
+			"end_time": "00:00:44.68",
+			"text": "Luego se consulta en inscripci\u00f3n servicio."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:44.72",
+			"end_time": "00:00:46.85",
+			"text": "Y se muestra en app."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:46.92",
+			"end_time": "00:00:48.63",
+			"text": "O sea, ese es el servicio que hace la inscripci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:48.72",
+			"end_time": "00:00:50.45",
+			"text": "La otra es la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:52.11",
+			"end_time": "00:01:03.00",
+			"text": " Todo eso se lleva a un contenedor de servicios donde se pueden consultar los servicios, o sea, se pueden consultar las asignaturas que un alumno tenga inscrita ya despu\u00e9s del proceso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:03.77",
+			"end_time": "00:01:13.00",
+			"text": "Y finalmente, el dispositivo m\u00f3vil, que es, podr\u00edamos decir, el frontend, donde se va a mostrar al alumno que lo consulta, b\u00e1sicamente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:13.09",
+			"end_time": "00:01:19.60",
+			"text": "Entonces, supongo que si viene, por ejemplo, la inscripci\u00f3n de"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:21.18",
+			"end_time": "00:01:26.25",
+			"text": " O sea, la asignatura que tiene cada alumno debe venir con horas, po."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:27.17",
+			"end_time": "00:01:29.25",
+			"text": "Con horario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:29.48",
+			"end_time": "00:01:34.79",
+			"text": "Entonces, supone que lo que hay que hacer en esta historia es como un horario, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:35.32",
+			"end_time": "00:01:42.32",
+			"text": " Suponiendo que si ya tienen cada uno su asignatura y tienen los horarios que debe ser igual de sencillo..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:42.72",
+			"end_time": "00:01:51.92",
+			"text": "Hay que saber, por ejemplo, mira, est\u00e1 en el rol del back, est\u00e1 en el rol del UI, y el Brenda es persistencia de datos, yo soy frontend."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:53.06",
+			"end_time": "00:01:59.53",
+			"text": "B\u00e1sicamente como que el contenedor de inscripci\u00f3n, los contenedores, estar\u00eda como..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:01.15",
+			"end_time": "00:02:03.45",
+			"text": " Ser\u00eda como, no s\u00e9, por la parte de la Brenda, por decirlo as\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:03.46",
+			"end_time": "00:02:13.37",
+			"text": "No, el problema ser\u00eda conversar todo con... Claro, porque la persistencia de datos ser\u00eda con la manipulaci\u00f3n de datos, el almacenamiento de datos y toda esa cuesti\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:13.41",
+			"end_time": "00:02:17.78",
+			"text": "Es que una interfaz de eso es f\u00e1cil igual."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:18.15",
+			"end_time": "00:02:25.09",
+			"text": "Los servicios de inscripci\u00f3n, por lo que ser\u00eda claro, como servicios, estar\u00edan parte tuya."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:25.62",
+			"end_time": "00:02:27.25",
+			"text": " M\u00e1s como lo de afuera tampoco es tan complejo, m\u00e1s es lo de adentro."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:27.38",
+			"end_time": "00:02:32.96",
+			"text": "M\u00e1s que la Brenda y m\u00e1s tambi\u00e9n ya relacionado con el backend."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:32.99",
+			"end_time": "00:02:39.16",
+			"text": "Claro, estar\u00edan esos, los de servicio, los de consulta, estar\u00edan como en parte tuya, porque t\u00fa eres backend, entonces t\u00fa eres el que trae las cosas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:40.00",
+			"end_time": "00:02:43.96",
+			"text": "Yo ser\u00eda claramente dispositivo m\u00f3vil, app, porque soy el que muestro todo al final."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:43.97",
+			"end_time": "00:02:48.08",
+			"text": "\u00bfY eso es la interfaz, no?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:48.19",
+			"end_time": "00:02:50.19",
+			"text": "Exacto, t\u00fa eres como el que dise\u00f1a la interfaz."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:50.30",
+			"end_time": "00:02:53.47",
+			"text": "En realidad es como el apoyo con el..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:53.52",
+			"end_time": "00:02:54.37",
+			"text": "Dividimos los dos..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:55.16",
+			"end_time": "00:03:13.84",
+			"text": " Claro, yo como que muestro las cuestiones y t\u00fa vas dise\u00f1ando c\u00f3mo se hace la interfaz, c\u00f3mo ser\u00eda m\u00e1s amigable para el usuario, qu\u00e9 ser\u00eda lo mejor, de tipo de, no s\u00e9, pues cu\u00e1les ser\u00edan las cosas m\u00e1s intuitivas para que sea s\u00faper f\u00e1cil la verdad de que alguien tenga algo nuevo, lo llegue y lo consulte."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:14.28",
+			"end_time": "00:03:16.84",
+			"text": "Supone que esta historia habr\u00eda que hacerla en dos semanas, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:17.12",
+			"end_time": "00:03:18.11",
+			"text": "S\u00ed, en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:18.16",
+			"end_time": "00:03:21.03",
+			"text": "Entonces yo creo que al menos la interfaz..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:21.84",
+			"end_time": "00:03:25.09",
+			"text": " Ser\u00eda en pocos d\u00edas, ya habiendo hecho todo lo otro."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:26.43",
+			"end_time": "00:03:27.59",
+			"text": "La interfaz, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:27.87",
+			"end_time": "00:03:29.61",
+			"text": "En un d\u00eda o dos, casi."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:29.72",
+			"end_time": "00:03:33.11",
+			"text": "La interfaz ser\u00eda como, yo creo, lo que m\u00e1s podr\u00eda tomar tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:33.59",
+			"end_time": "00:03:33.77",
+			"text": "Creo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:35.05",
+			"end_time": "00:03:38.28",
+			"text": "Porque backend har\u00eda el servicio de las consultas, eso podr\u00eda ser."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:38.30",
+			"end_time": "00:03:39.87",
+			"text": "El frontend es lo que menos tomar\u00eda tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:40.31",
+			"end_time": "00:03:42.00",
+			"text": "El frontend es lo que menos tomar\u00eda tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:42.03",
+			"end_time": "00:03:45.75",
+			"text": "Lo que menos tomar\u00eda tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:45.78",
+			"end_time": "00:03:45.91",
+			"text": "Ah, dale."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:45.93",
+			"end_time": "00:03:47.41",
+			"text": "S\u00ed, s\u00ed, est\u00e1 bien."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:47.43",
+			"end_time": "00:03:48.93",
+			"text": "Ya, me creo que el frontend es lo que menos tomar\u00eda tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:50.40",
+			"end_time": "00:03:54.71",
+			"text": " Yo creo que la relaci\u00f3n de los datos debe ser lo m\u00e1s dif\u00edcil porque estamos hablando de cu\u00e1ntos alumnos tendr\u00e1 la universidad, m\u00ednimo mil."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:54.78",
+			"end_time": "00:03:57.40",
+			"text": "Estamos hablando de por lo menos mil estudiantes."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:57.62",
+			"end_time": "00:04:00.56",
+			"text": "Es harto trabajo con los datos para poder llevar la informaci\u00f3n"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:21.23",
+			"end_time": "00:04:22.79",
+			"text": " \u00bfDos semanas?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:22.82",
+			"end_time": "00:04:28.62",
+			"text": "\u00bfDos semanas se lo alcanzamos a lograr?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:28.67",
+			"end_time": "00:04:30.26",
+			"text": "Yo creo que s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:30.42",
+			"end_time": "00:04:32.27",
+			"text": "Yo creo que incluso se podr\u00eda lograr en una."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:32.57",
+			"end_time": "00:04:39.98",
+			"text": "Si lo hacemos, si lo llegamos, o sea, si lo hacemos obviamente, si lo hacemos super full y obviamente..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:40.27",
+			"end_time": "00:04:44.18",
+			"text": "Es que nosotros, este equipo supone que est\u00e1 enfocado solamente en esa historia en estas dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:44.39",
+			"end_time": "00:04:46.37",
+			"text": "Somos contratados medio tiempo, es el tema tambi\u00e9n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:47.47",
+			"end_time": "00:04:58.35",
+			"text": " a medio tiempo, hay que tenerlo claro, entonces en dos semanas si fuera a medio tiempo, dos semanas ser\u00eda como algo como va a dejar un margen as\u00ed como para poder hacer el testeo y que todo quede..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:58.77",
+			"end_time": "00:05:15.35",
+			"text": "Por ejemplo la interfaz la interfaz podr\u00eda ir haci\u00e9ndola como ir plane\u00e1ndola digamos entre medio mientras se va haciendo el resto no es dependiente mientras se puede ir dise\u00f1ando la extra en realidad es un horario solamente tiene que ser como c\u00f3modo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:16.18",
+			"end_time": "00:05:23.60",
+			"text": "No, claro, un tiempo hacemos simplemente una evaluaci\u00f3n de c\u00f3mo ser\u00eda lo m\u00e1s intuitivo para un peque\u00f1o an\u00e1lisis."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:23.81",
+			"end_time": "00:05:27.27",
+			"text": "Adem\u00e1s que los horarios son todos como iguales pr\u00e1cticamente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:27.57",
+			"end_time": "00:05:30.25",
+			"text": "Antes tendr\u00eda que ser un poco m\u00e1s adaptado a la U."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:32.36",
+			"end_time": "00:05:36.64",
+			"text": "Pero no va a cambiar m\u00e1s horas que otras universidades, por ejemplo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:39.62",
+			"end_time": "00:05:44.87",
+			"text": "Ahora, el tema es despu\u00e9s de haber, por ejemplo, ponido el tiempo que"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:45.68",
+			"end_time": "00:05:55.16",
+			"text": " en las dos semanas quiz\u00e1s, no s\u00e9, hacemos la pega o quiz\u00e1s la sacamos un poquito menos de dos semanas, \u00bfpodr\u00edamos ser capaces de meter otra historia de usuario para desarrollar en ese mismo tiempo?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:55.93",
+			"end_time": "00:05:56.22",
+			"text": "No creo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:56.77",
+			"end_time": "00:05:57.25",
+			"text": "No, eso..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:57.55",
+			"end_time": "00:05:59.95",
+			"text": "No, eso... Podemos meter una que sea de menor complejidad, \u00bfcachai?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:00.00",
+			"end_time": "00:06:01.67",
+			"text": "Por eso es que est\u00e1n los tipos de resultados."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:02.49",
+			"end_time": "00:06:06.32",
+			"text": "Podr\u00edamos meter una de menor complejidad o podr\u00edamos decir simplemente, no se puede."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:07.47",
+			"end_time": "00:06:09.06",
+			"text": "\u00bfSer\u00eda de nivel medio, dec\u00eds t\u00fa?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:11.68",
+			"end_time": "00:06:13.12",
+			"text": "O sea, lo que estimemos nosotros."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:17.49",
+			"end_time": "00:06:23.91",
+			"text": " Una cosa es que tambi\u00e9n, que abarca mucho, poco aprieta, as\u00ed que... Me tiene que tener muy bien claro eso."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:24.00",
+			"end_time": "00:06:32.04",
+			"text": "Yo digo que como irse a la segura... Es... Yo creo que est\u00e1 entre medio y complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:32.48",
+			"end_time": "00:06:38.68",
+			"text": "S\u00ed, yo no lo pondr\u00eda as\u00ed porque no creo que una historia similar se podr\u00eda agregar entonces."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:38.72",
+			"end_time": "00:06:39.81",
+			"text": "Yo me la juego por medio."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:39.89",
+			"end_time": "00:06:41.16",
+			"text": "Es que s\u00ed, porque digamos..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:41.91",
+			"end_time": "00:06:46.67",
+			"text": " En realidad, si se soluciona lo de los datos r\u00e1pido, adem\u00e1s es mucho m\u00e1s \u00e1gil."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:47.18",
+			"end_time": "00:06:49.23",
+			"text": "Claro, es mucho m\u00e1s \u00e1gil porque viene dado desde ah\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:49.25",
+			"end_time": "00:06:56.74",
+			"text": "Entonces, digamos, hasta, digamos, si en los primeros cuatro d\u00edas quiz\u00e1s, est\u00e1 listo lo..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:57.25",
+			"end_time": "00:07:03.74",
+			"text": "Claro, si podemos sacarlo todo como en una semana, o sea, si podemos lograr por lo menos m\u00e1s de la mitad del desarrollo en una semana, quiz\u00e1s podr\u00edamos ver otra..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:04.00",
+			"end_time": "00:07:08.74",
+			"text": "Encuentro que como el cerdo a medio tiempo se corta igual como el trabajo, por ejemplo..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:09.92",
+			"end_time": "00:07:15.13",
+			"text": " \u00bfVolver a conectarte despu\u00e9s al d\u00eda siguiente es distinto de bajar 8 horas por ejemplo de corrido?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:15.18",
+			"end_time": "00:07:16.43",
+			"text": "\u00bfCu\u00e1ntas horas son medio tiempo?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:17.01",
+			"end_time": "00:07:20.56",
+			"text": "Medio tiempo... 45, re\u00faselo a 20."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:22.08",
+			"end_time": "00:07:24.88",
+			"text": "Ser\u00eda como medio tiempo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:24.91",
+			"end_time": "00:07:25.81",
+			"text": "20 horas son usualmente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:25.82",
+			"end_time": "00:07:30.88",
+			"text": "Son como 4, 5 horas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:30.91",
+			"end_time": "00:07:36.57",
+			"text": "Tienes que volver a concentrarte en el problema, volver a comentarlo al menos unos minutos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:37.01",
+			"end_time": "00:07:38.12",
+			"text": "Entonces t\u00fa dec\u00eds complicado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:40.92",
+			"end_time": "00:07:59.12",
+			"text": " si podemos hacer una similar si podemos hacer una similar que viene dado de por ejemplo algo muy relacionado a lo que sea tambi\u00e9n el horario y cosas as\u00ed que tambi\u00e9n sirva por ejemplo podemos sostenernos de nuestros mismos"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:00.19",
+			"end_time": "00:08:15.00",
+			"text": " m\u00e1s que ni los datos entonces ser\u00eda como inyectar una nueva historia en base a los mismos capas de datos entonces ser\u00eda como trabajar un no frontend por decir as\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:15.10",
+			"end_time": "00:08:28.11",
+			"text": "Igual como Scrum todos los d\u00edas tendr\u00edamos una reuni\u00f3n de 15 minutos todos los d\u00edas en la ma\u00f1ana entonces ah\u00ed nos pondr\u00edamos al d\u00eda y hablar\u00edamos de todos los problemas que tenemos entonces esa es la gracia de Scrum igual que"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:28.58",
+			"end_time": "00:08:29.93",
+			"text": " nos vamos como ayudando entre todos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:31.44",
+			"end_time": "00:08:32.55",
+			"text": "Yo me lo juego por medio."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:33.15",
+			"end_time": "00:08:38.10",
+			"text": "Yo medio igual."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:38.12",
+			"end_time": "00:08:40.75",
+			"text": "Como que tratando de solucionar esto lo antes posible."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:40.77",
+			"end_time": "00:08:48.23",
+			"text": "Y yo, por ejemplo, en la interfaz puedo ir trabajando sin depender de ustedes mientras."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:48.25",
+			"end_time": "00:08:50.28",
+			"text": "S\u00ed, con una maqueta."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:50.54",
+			"end_time": "00:08:52.71",
+			"text": "Y ya despu\u00e9s simplemente echar todos los datos y acomodarlos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:52.83",
+			"end_time": "00:08:53.97",
+			"text": "Es poner los datos solamente."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:55.64",
+			"end_time": "00:09:02.00",
+			"text": " No, si dice que la historia es de menor complejidad, igual puede que... puede ser con mucho m\u00e1s costo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:03.08",
+			"end_time": "00:09:04.70",
+			"text": "Yo creo que a nivel medio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:05.03",
+			"end_time": "00:09:07.77",
+			"text": "Medio yo tambi\u00e9n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:08.46",
+			"end_time": "00:09:11.37",
+			"text": "Y que al ser Scrum, como la reuni\u00f3n diaria..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:13.00",
+			"end_time": "00:09:15.97",
+			"text": "Recapitalamos todo, nos ponemos al d\u00eda y..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:16.10",
+			"end_time": "00:09:17.47",
+			"text": "Son 15 minutos de reuni\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:17.49",
+			"end_time": "00:09:21.23",
+			"text": "Definimos bien lo que tenemos que hacer en el d\u00eda y para adelante."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:22.07",
+			"end_time": "00:09:23.46",
+			"text": "Yo creo que medio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:25.39",
+			"end_time": "00:09:25.44",
+			"text": " \u00bfS\u00ed?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:25.46",
+			"end_time": "00:09:25.50",
+			"text": "S\u00ed."
+		}
+	]
+}

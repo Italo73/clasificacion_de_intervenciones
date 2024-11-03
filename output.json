@@ -1,0 +1,1907 @@
+[
+  {
+    "text": "Empezamos con la historia de usuario: Yo como Profesor necesito acceder a los recursos de enseñanza en línea para preparar mis clases de manera eficiente. ¿Qué opinas, Juan? [Pregunta]"
+  },
+  {
+    "text": "Sí, es importante. Creo que el acceso debe ser rápido y sin complicaciones. [Respuesta]"
+  },
+  {
+    "text": "Claro, eso es fundamental. ¿Qué piensas sobre la organización de los recursos? [Pregunta]"
+  },
+  {
+    "text": "Deberían estar bien categorizados y actualizados regularmente. No sirve de nada tener recursos desactualizados. [Sugerencia]"
+  },
+  {
+    "text": "Exactamente. ¿Qué tipo de recursos crees que son más necesarios? [Pregunta]"
+  },
+  {
+    "text": "Creo que deberíamos enfocarnos en tener una buena base de datos de artículos académicos, videos educativos y herramientas interactivas. [Sugerencia]"
+  },
+  {
+    "text": "¿Y cómo propones que se actualicen esos recursos? [Pregunta]"
+  },
+  {
+    "text": "Podríamos tener un equipo dedicado a revisar y actualizar los contenidos cada semestre. [Sugerencia]"
+  },
+  {
+    "text": "Eso suena bien. ¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere algo de trabajo. [Respuesta]"
+  },
+  {
+    "text": "Perfecto, entonces lo dejamos en 3. ¿Algo más que añadir? [Pregunta]"
+  },
+  {
+    "text": "Tal vez deberíamos considerar la integración con otras plataformas educativas. [Sugerencia]"
+  },
+  {
+    "text": "Buena idea. Podríamos añadir eso como una tarea adicional. [Retroalimentación]"
+  },
+  {
+    "text": "Sí, eso ayudaría mucho. No tengo nada más que añadir. [Comentario]"
+  },
+  {
+    "text": "De acuerdo, seguimos entonces. [Comentario]\n\nHistoria de usuario 2:"
+  },
+  {
+    "text": "Ahora, la siguiente historia de usuario: Yo como Estudiante necesito recibir notificaciones sobre cambios en el horario de clases para estar siempre informado. ¿Qué opinan, Carlos y Ana? [Pregunta]"
+  },
+  {
+    "text": "Esto me parece bastante sencillo. Solo necesitamos un sistema de alertas. [Respuesta]"
+  },
+  {
+    "text": "Sí, y podemos usar el sistema de notificaciones que ya tenemos implementado. [Sugerencia]"
+  },
+  {
+    "text": "Entonces, ¿qué tipo de notificaciones serían más efectivas? [Pregunta]"
+  },
+  {
+    "text": "Creo que las notificaciones push en el móvil y los correos electrónicos serían suficientes. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo, pero también podríamos añadir notificaciones dentro de la plataforma de la universidad. [Sugerencia]"
+  },
+  {
+    "text": "¿Y cómo manejaríamos los cambios de última hora? [Pregunta]"
+  },
+  {
+    "text": "Deberíamos tener un sistema que permita a los profesores actualizar los horarios y que estas actualizaciones se reflejen automáticamente en las notificaciones. [Sugerencia]"
+  },
+  {
+    "text": "Sí, eso es fundamental para mantener a todos informados. [Retroalimentación]"
+  },
+  {
+    "text": "Entonces, ¿qué nivel de complejidad le damos? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 2. Es algo que ya tenemos en parte hecho. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 2 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 2. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 3:"
+  },
+  {
+    "text": "La última historia de usuario: Yo como Administrador de TI necesito monitorear el uso de los servidores para asegurarme de que todo funciona correctamente. ¿Qué opinan, Pedro, Sofía y Andrés? [Pregunta]"
+  },
+  {
+    "text": "Esta es una necesidad crítica. Necesitamos asegurarnos de que los servidores estén siempre operativos. [Respuesta]"
+  },
+  {
+    "text": "Sí, y deberíamos tener alertas automáticas para cualquier problema que surja. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. También podríamos implementar una herramienta de análisis para anticipar problemas antes de que ocurran. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué tipo de herramientas creen que serían más efectivas? [Pregunta]"
+  },
+  {
+    "text": "Herramientas de monitoreo en tiempo real y análisis predictivo serían ideales. [Sugerencia]"
+  },
+  {
+    "text": "También podríamos considerar soluciones de terceros que ya están probadas en el mercado. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Sí, un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 4:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Coordinador de Cursos necesito poder asignar aulas y horarios de manera eficiente para evitar conflictos. ¿Qué opinas, Roberto? [Pregunta]"
+  },
+  {
+    "text": "Es crucial. La asignación de aulas y horarios debe ser lo más fluida posible para evitar problemas. [Respuesta]"
+  },
+  {
+    "text": "¿Cómo crees que deberíamos manejar los conflictos de horarios? [Pregunta]"
+  },
+  {
+    "text": "Podríamos implementar un sistema automatizado que detecte y sugiera soluciones para los conflictos de horarios. [Sugerencia]"
+  },
+  {
+    "text": "Eso suena bien. ¿Y qué pasa con las aulas? ¿Cómo aseguramos que no haya solapamientos? [Pregunta]"
+  },
+  {
+    "text": "Podríamos tener un calendario centralizado donde se registren todas las reservas de aulas. Así, cualquier reserva nueva se verifica contra este calendario. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Perfecto, entonces lo dejamos en 3. ¿Algo más que añadir? [Pregunta]"
+  },
+  {
+    "text": "Tal vez deberíamos considerar la posibilidad de permitir reservas de aulas para actividades extracurriculares. [Sugerencia]"
+  },
+  {
+    "text": "Buena idea. Podríamos añadir eso como una tarea adicional. [Retroalimentación]"
+  },
+  {
+    "text": "Sí, eso ayudaría mucho. No tengo nada más que añadir. [Comentario]"
+  },
+  {
+    "text": "De acuerdo, seguimos entonces. [Comentario]\n\nHistoria de usuario 5:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Bibliotecario necesito digitalizar los registros de libros para facilitar el acceso y la gestión del inventario. ¿Qué opinan, Marta y Javier? [Pregunta]"
+  },
+  {
+    "text": "Me parece una excelente idea. La digitalización facilitaría mucho la gestión de los libros. [Respuesta]"
+  },
+  {
+    "text": "Sí, y también permitiría a los estudiantes buscar y reservar libros en línea. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que llevemos a cabo la digitalización? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con los libros más solicitados y luego proceder con el resto del inventario. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos asegurarnos de tener un sistema de búsqueda eficiente para que los usuarios puedan encontrar fácilmente lo que buscan. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen escáner de alta resolución y software de gestión de bibliotecas. [Sugerencia]"
+  },
+  {
+    "text": "También podríamos considerar la integración con el sistema de gestión académica para unificar los registros. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 6:"
+  },
+  {
+    "text": "Ahora, la siguiente historia de usuario: Yo como Estudiante Internacional necesito una guía completa sobre los servicios y recursos disponibles en la universidad para adaptarme mejor. ¿Qué opinan, Carlos y Sofía? [Pregunta]"
+  },
+  {
+    "text": "Es fundamental. Una guía completa ayudaría mucho a los estudiantes internacionales a adaptarse. [Respuesta]"
+  },
+  {
+    "text": "Sí, y debería incluir información sobre alojamiento, transporte, y actividades extracurriculares. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que estructuremos esta guía? [Pregunta]"
+  },
+  {
+    "text": "Podríamos dividirla en secciones como vida académica, vida social, y servicios administrativos. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener testimonios de otros estudiantes internacionales para dar una perspectiva más personal. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué formato crees que sería el más adecuado? [Pregunta]"
+  },
+  {
+    "text": "Una versión en línea y una versión impresa. La versión en línea podría incluir videos y enlaces útiles. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, podríamos tener una app móvil con toda esta información. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3. Es manejable pero requiere coordinación y recopilación de mucha información. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "No tengo más comentarios. [Comentario]"
+  },
+  {
+    "text": "Todo entendido. [Comentario]"
+  },
+  {
+    "text": "Excelente, procedamos. [Comentario]\n\nHistoria de usuario 7:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Profesor necesito una plataforma para realizar evaluaciones en línea y obtener resultados inmediatos. ¿Qué opinan, Marta y Luis? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Una plataforma de evaluaciones en línea facilitaría mucho nuestro trabajo. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los estudiantes recibir feedback inmediato. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear diferentes tipos de evaluaciones, como cuestionarios y exámenes, y corregirlos automáticamente. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener opciones para preguntas abiertas y la posibilidad de incluir multimedia. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen software de gestión de evaluaciones y una interfaz amigable. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos asegurarnos de que la plataforma sea segura y confiable. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 8:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Administrador de Finanzas necesito un sistema para gestionar los presupuestos y gastos de los departamentos de manera eficiente. ¿Qué opinan, Alberto y Teresa? [Pregunta]"
+  },
+  {
+    "text": "Es crucial. Un sistema de gestión financiera mejoraría mucho la eficiencia y transparencia. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los departamentos planificar mejor sus gastos. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear y gestionar presupuestos, registrar gastos y generar reportes. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener alertas para gastos excesivos y la posibilidad de comparar presupuestos con gastos reales. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen software de gestión financiera y una interfaz amigable. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos asegurarnos de que el sistema sea fácil de usar para todos los departamentos. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 9:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Director de Comunicación necesito una plataforma para gestionar y difundir noticias y eventos de la universidad. ¿Qué opinan, Laura y Miguel? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una plataforma de comunicación mejoraría mucho la visibilidad de las actividades de la universidad. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los estudiantes y al personal estar mejor informados. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear y publicar noticias, eventos y anuncios, y enviar notificaciones a los usuarios. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un calendario de eventos y la posibilidad de recibir feedback de los usuarios. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen software de gestión de contenidos y una interfaz amigable. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos integrar la plataforma con las redes sociales de la universidad. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Eso es todo por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo en orden. [Comentario]"
+  },
+  {
+    "text": "Muy bien, avanzamos. [Comentario]\n\nHistoria de usuario 10:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Admisiones necesito un sistema para gestionar las solicitudes de ingreso y mantener a los postulantes informados sobre el estado de su aplicación. ¿Qué opinan, Javier y Ana? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Un sistema de gestión de admisiones mejoraría mucho la eficiencia del proceso. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los postulantes estar mejor informados y menos ansiosos. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir a los postulantes enviar documentos, seguir el estado de su aplicación, y recibir notificaciones. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de mensajería para que los postulantes puedan hacer preguntas y recibir respuestas rápidamente. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen software de gestión de admisiones y una interfaz amigable. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos asegurarnos de que el sistema sea seguro y proteja la información personal de los postulantes. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 11:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Profesor necesito una herramienta para gestionar y calificar los trabajos de mis estudiantes de manera eficiente. ¿Qué opinan, Fernando y Alicia? [Pregunta]"
+  },
+  {
+    "text": "Es fundamental. Una herramienta de gestión y calificación de trabajos facilitaría mucho nuestro trabajo. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría dar feedback más rápido a los estudiantes. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir subir trabajos, calificar en línea, y dar retroalimentación detallada. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de detección de plagio integrado. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos cursos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener sesiones de formación para los profesores sobre cómo usar la herramienta. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más que agregar. [Comentario]"
+  },
+  {
+    "text": "Todo claro por mi parte. [Comentario]"
+  },
+  {
+    "text": "Perfecto, sigamos adelante. [Comentario]\n\nHistoria de usuario 12:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Coordinador de Actividades Extracurriculares necesito un sistema para organizar y promover las actividades disponibles para los estudiantes. ¿Qué opinan, Marta y Luis? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Un sistema de organización y promoción mejoraría la participación en las actividades extracurriculares. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los estudiantes encontrar actividades que les interesen más fácilmente. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear eventos, registrar participantes y enviar notificaciones. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un calendario de actividades y la posibilidad de recibir feedback de los estudiantes. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un software de gestión de eventos y una interfaz fácil de usar. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos tener la posibilidad de integrar con las redes sociales de la universidad. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "No tengo más que decir. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, continuemos. [Comentario]\n\n\nHistoria de usuario 13:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Estudiante necesito un sistema para reservar espacios de estudio en la biblioteca para asegurarme de tener un lugar donde estudiar. ¿Qué opinan, Javier y Laura? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Un sistema de reservas facilitaría mucho la organización del espacio en la biblioteca. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los estudiantes planificar mejor su tiempo de estudio. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir ver la disponibilidad de espacios, hacer reservas y recibir confirmaciones. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la opción de cancelar o modificar reservas fácilmente. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas áreas de la biblioteca y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener una aplicación móvil para que los estudiantes puedan hacer reservas desde cualquier lugar. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 14:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Coordinador de Proyectos necesito una herramienta para gestionar los proyectos de investigación y asegurarme de que se cumplan los plazos. ¿Qué opinan, Ana y Carlos? [Pregunta]"
+  },
+  {
+    "text": "Es fundamental. Una herramienta de gestión de proyectos mejoraría mucho la eficiencia en la investigación. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los investigadores coordinarse mejor y cumplir con los plazos. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear proyectos, asignar tareas, y hacer seguimiento del progreso. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener alertas para plazos próximos y la posibilidad de generar reportes de avance. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen software de gestión de proyectos y una interfaz amigable. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos asegurarnos de que la herramienta sea flexible para adaptarse a diferentes tipos de proyectos. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 15:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Recursos Humanos necesito un sistema para gestionar las solicitudes de vacaciones y permisos del personal de manera eficiente. ¿Qué opinan, Marta y Luis? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Un sistema de gestión de solicitudes mejoraría mucho la eficiencia en Recursos Humanos. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría al personal hacer sus solicitudes de manera más sencilla y rápida. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir enviar solicitudes, aprobarlas o rechazarlas, y llevar un registro de las mismas. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener alertas para solicitudes pendientes y la posibilidad de ver el historial de permisos. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos departamentos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener una aplicación móvil para que el personal pueda hacer solicitudes desde cualquier lugar. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Eso es todo por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo en orden. [Comentario]"
+  },
+  {
+    "text": "Muy bien, avanzamos. [Comentario]\n\n\nHistoria de usuario 16:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Biblioteca necesito un sistema para gestionar los préstamos y devoluciones de libros de manera eficiente. ¿Qué opinan, Alberto y Sara? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Un sistema de gestión de préstamos mejoraría mucho la eficiencia en la biblioteca. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los usuarios saber la disponibilidad de los libros en tiempo real. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar préstamos y devoluciones, enviar recordatorios de devolución, y generar reportes de uso. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener una opción para reservar libros y ver el historial de préstamos de cada usuario. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas secciones de la biblioteca y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener una aplicación móvil para que los usuarios puedan gestionar sus préstamos desde cualquier lugar. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 17:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Coordinador de Deportes necesito una plataforma para gestionar las inscripciones y horarios de las actividades deportivas. ¿Qué opinan, Laura y Fernando? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una plataforma de gestión de actividades deportivas mejoraría mucho la organización. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los estudiantes inscribirse más fácilmente en las actividades que les interesan. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear actividades, gestionar inscripciones, y enviar notificaciones sobre cambios en los horarios. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un calendario de actividades y la posibilidad de recibir feedback de los participantes. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen software de gestión de actividades y una interfaz amigable. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos tener la posibilidad de integrar con las redes sociales de la universidad. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 18:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Estudiante necesito un sistema para recibir tutorías en línea y resolver mis dudas académicas. ¿Qué opinan, Javier y Ana? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Un sistema de tutorías en línea facilitaría mucho el aprendizaje. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los estudiantes recibir ayuda de manera más flexible y rápida. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir agendar tutorías, tener sesiones en línea, y recibir retroalimentación. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de mensajería para resolver dudas rápidas y la posibilidad de grabar las sesiones. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas materias y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener una aplicación móvil para que los estudiantes puedan acceder a las tutorías desde cualquier lugar. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 19:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Coordinadora de Bienestar Universitario necesito una plataforma para gestionar los servicios de salud y bienestar disponibles para los estudiantes. ¿Qué opinan, Luis y Marta? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Una plataforma de gestión de servicios de bienestar mejoraría mucho la atención a los estudiantes. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los estudiantes acceder a los servicios de manera más rápida y sencilla. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir agendar citas, recibir notificaciones de recordatorio, y acceder a recursos de bienestar. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la opción de consultas en línea y la posibilidad de recibir feedback de los usuarios. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué herramientas necesitaríamos para esto? [Pregunta]"
+  },
+  {
+    "text": "Un buen software de gestión de citas y una interfaz amigable. [Sugerencia]"
+  },
+  {
+    "text": "Estoy de acuerdo. Además, deberíamos asegurarnos de que la plataforma sea segura y proteja la información personal de los usuarios. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 20:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Seguridad necesito un sistema para gestionar el acceso a las instalaciones de la universidad y garantizar la seguridad de todos. ¿Qué opinan, Elena y Pedro? [Pregunta]"
+  },
+  {
+    "text": "Es fundamental. Un sistema de gestión de acceso mejoraría mucho la seguridad en la universidad. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría controlar mejor quién entra y sale de las instalaciones. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar entradas y salidas, enviar alertas de seguridad, y generar reportes de acceso. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener cámaras de seguridad integradas y la posibilidad de restringir el acceso a ciertas áreas. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos edificios y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener una aplicación móvil para que el personal de seguridad pueda gestionar el acceso desde cualquier lugar. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que requiere bastante trabajo y coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 refleja bien la complejidad. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 21:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Administradora de Recursos Humanos necesito una plataforma para gestionar las solicitudes de permisos y vacaciones del personal. ¿Qué opinan, Andrés y Paula? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una plataforma de gestión de permisos y vacaciones mejoraría mucho la eficiencia administrativa. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría al personal gestionar sus solicitudes de manera más sencilla. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir enviar solicitudes, aprobarlas o rechazarlas, y llevar un registro de todas las solicitudes. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener notificaciones automáticas y la posibilidad de ver el saldo de vacaciones disponible. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos departamentos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener una aplicación móvil para que el personal pueda gestionar sus solicitudes desde cualquier lugar. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 22:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Responsable de Tecnología necesito una herramienta para monitorear el rendimiento de los servidores y detectar fallos en tiempo real. ¿Qué opinan, Marta y Javier? [Pregunta]"
+  },
+  {
+    "text": "Es esencial. Una herramienta de monitoreo en tiempo real nos ayudaría a prevenir problemas antes de que afecten a los usuarios. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría solucionar los problemas de manera más rápida y eficiente. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir visualizar el rendimiento de los servidores, enviar alertas en caso de fallos y generar reportes de rendimiento. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de análisis predictivo para anticipar posibles problemas. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos servidores críticos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer capacitación al equipo sobre cómo usar la herramienta de monitoreo. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica integración con sistemas existentes y capacitación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 23:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Coordinadora de Proyectos necesito una herramienta para gestionar las tareas y el progreso de los proyectos de manera colaborativa. ¿Qué opinan, Diego y Laura? [Pregunta]"
+  },
+  {
+    "text": "Es muy importante. Una herramienta de gestión de proyectos mejoraría la organización y seguimiento de las tareas. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los miembros del equipo colaborar de manera más efectiva. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir asignar tareas, establecer plazos, y visualizar el progreso del proyecto. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de comunicación integrado y la posibilidad de adjuntar documentos. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos proyectos clave y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer talleres de formación sobre cómo usar la herramienta de gestión de proyectos. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación y formación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 24:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Responsable de Marketing necesito una herramienta para analizar el rendimiento de nuestras campañas publicitarias en redes sociales. ¿Qué opinan, Ana y Luis? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una herramienta de análisis de campañas nos permitiría optimizar nuestras estrategias de marketing. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría tomar decisiones basadas en datos concretos. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir medir el alcance, la interacción y la conversión de las campañas. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la capacidad de comparar el rendimiento entre diferentes campañas y plataformas. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas campañas recientes y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos tener reportes automáticos y detallados para facilitar el análisis. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica integración con múltiples plataformas y análisis de datos. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 25:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Atención al Cliente necesito una plataforma para gestionar y resolver las consultas y quejas de los clientes de manera eficiente. ¿Qué opinan, Francisco y María? [Pregunta]"
+  },
+  {
+    "text": "Es muy importante. Una plataforma de gestión de consultas mejoraría mucho la satisfacción del cliente. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría resolver los problemas de los clientes de manera más rápida y organizada. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar consultas, asignarlas a los agentes adecuados y hacer seguimiento de las resoluciones. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener una base de conocimientos para que los agentes puedan consultar soluciones a problemas comunes. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos departamentos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación continua a los agentes sobre cómo usar la plataforma de atención al cliente. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación y formación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 26:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Directora de Finanzas necesito una plataforma para automatizar la contabilidad y generar reportes financieros precisos. ¿Qué opinan, Manuel y Teresa? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Una plataforma de automatización contable mejoraría la precisión y eficiencia de nuestras operaciones financieras. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría tener reportes financieros actualizados en tiempo real para tomar decisiones más informadas. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar transacciones automáticamente, conciliar cuentas y generar reportes financieros detallados. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la capacidad de integrar con otros sistemas financieros y cumplir con las normativas fiscales. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas áreas contables y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación al equipo de finanzas sobre cómo usar la plataforma de automatización contable. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica integración con múltiples sistemas y cumplimiento normativo. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 27:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Directora de Ventas necesito una herramienta para hacer seguimiento a los leads y gestionar el pipeline de ventas. ¿Qué opinan, Alejandro y Patricia? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Una herramienta de gestión de leads mejoraría la eficiencia del equipo de ventas. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría tener una visión clara del progreso de cada oportunidad de venta. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar y clasificar leads, establecer recordatorios y generar reportes de ventas. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de puntuación de leads y la capacidad de integrar con el correo electrónico. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas regiones y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación al equipo de ventas sobre cómo utilizar la herramienta de manera efectiva. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere integración con otros sistemas. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 28:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Responsable de Logística necesito un sistema para optimizar la planificación y seguimiento de las rutas de entrega. ¿Qué opinan, Claudia y Sergio? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Un sistema de optimización de rutas mejoraría la eficiencia de las entregas. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría reducir los costos y tiempos de entrega. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir planificar rutas, hacer seguimiento en tiempo real y generar reportes de desempeño. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la capacidad de ajustar las rutas en función del tráfico y las condiciones climáticas. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas zonas y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer capacitación a los conductores sobre cómo usar el sistema de rutas. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica integración con GPS y otros sistemas. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 29:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Calidad necesito una herramienta para gestionar las auditorías internas y asegurar el cumplimiento de normas. ¿Qué opinan, Marcos y Teresa? [Pregunta]"
+  },
+  {
+    "text": "Es muy importante. Una herramienta de gestión de auditorías mejoraría la calidad y el cumplimiento. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría identificar y solucionar problemas de manera más rápida. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir planificar auditorías, registrar hallazgos y generar reportes de cumplimiento. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de seguimiento de acciones correctivas y preventivas. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas áreas clave y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación a los auditores sobre cómo usar la herramienta de auditorías. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación y formación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 30:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Jefe de Producción necesito un sistema para monitorear y optimizar el rendimiento de las líneas de producción en tiempo real. ¿Qué opinan, Lorena y Juan? [Pregunta]"
+  },
+  {
+    "text": "Es esencial. Un sistema de monitoreo en tiempo real nos ayudaría a mejorar la eficiencia y reducir desperdicios. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría identificar rápidamente cualquier problema en la producción. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir visualizar el rendimiento de las líneas, enviar alertas en caso de fallos y generar reportes de producción. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de análisis de datos para optimizar los procesos de producción. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas líneas de producción y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer capacitación al personal sobre cómo usar el sistema de monitoreo. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica integración con los sistemas existentes y análisis de datos. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 31:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Innovación necesito una plataforma para gestionar las ideas y proyectos de innovación dentro de la empresa. ¿Qué opinan, Tomás y Marta? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una plataforma de gestión de innovación fomentaría la creatividad y nuevas ideas. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría seguir el progreso de los proyectos de innovación de manera más organizada. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar ideas, asignar recursos y hacer seguimiento del progreso de los proyectos. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de votación y comentarios para evaluar las ideas. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos departamentos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer talleres de formación sobre cómo usar la plataforma de innovación. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere coordinación y formación. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 32:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Gerente de Relaciones Públicas necesito una herramienta para gestionar y monitorear la reputación de la empresa en redes sociales. ¿Qué opinan, Fernando y Alicia? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Una herramienta de monitoreo de reputación nos ayudaría a reaccionar rápidamente ante cualquier crisis. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría analizar los comentarios y opiniones de los usuarios para mejorar nuestra estrategia de comunicación. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir rastrear menciones de la empresa, analizar el sentimiento de los comentarios y generar alertas en caso de comentarios negativos. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la capacidad de programar publicaciones y generar reportes de actividad en redes sociales. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas cuentas de redes sociales y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación al equipo de relaciones públicas sobre cómo usar la herramienta de monitoreo. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica integración con múltiples plataformas y análisis de datos. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 33:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Jefe de Seguridad Informática necesito un sistema para detectar y responder a amenazas cibernéticas en tiempo real. ¿Qué opinan, Laura y Miguel? [Pregunta]"
+  },
+  {
+    "text": "Es esencial. Un sistema de detección de amenazas en tiempo real nos ayudaría a proteger mejor nuestros datos. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría mitigar los riesgos antes de que se conviertan en problemas mayores. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir identificar amenazas, enviar alertas inmediatas y automatizar respuestas a incidentes. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de análisis forense para investigar incidentes pasados. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos sistemas críticos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación continua al equipo de seguridad sobre cómo usar el sistema de detección. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 5, ya que implica alta tecnología e integración compleja. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 5 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 5. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 34:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Compras necesito una plataforma para gestionar las órdenes de compra y el inventario de manera eficiente. ¿Qué opinan, Pablo y Verónica? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una plataforma de gestión de compras mejoraría la precisión y eficiencia de nuestras operaciones. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría tener un control más riguroso del inventario y las órdenes de compra. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear y aprobar órdenes de compra, hacer seguimiento de entregas y gestionar el inventario en tiempo real. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la capacidad de generar reportes de compras y análisis de proveedores. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas categorías de productos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación al equipo de compras sobre cómo usar la plataforma de manera efectiva. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere integración con otros sistemas. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 35:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Director de Recursos Humanos necesito una herramienta para evaluar el desempeño de los empleados y gestionar las revisiones anuales. ¿Qué opinan, Silvia y Andrés? [Pregunta]"
+  },
+  {
+    "text": "Es muy importante. Una herramienta de evaluación de desempeño nos ayudaría a identificar áreas de mejora y reconocer logros. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría hacer un seguimiento continuo del progreso de los empleados. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir realizar evaluaciones periódicas, establecer objetivos y generar reportes de desempeño. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de retroalimentación continua y la capacidad de personalizar las evaluaciones según los roles. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos departamentos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación a los gerentes sobre cómo usar la herramienta de evaluación de desempeño. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica integración con otros sistemas de recursos humanos. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 36:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Formación necesito una plataforma para gestionar los programas de capacitación y el progreso de los empleados. ¿Qué opinan, Javier y Ana? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una plataforma de gestión de formación mejoraría la organización y seguimiento de los programas de capacitación. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría a los empleados acceder a los cursos y materiales de formación de manera más sencilla. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear y gestionar cursos, seguir el progreso de los empleados y generar certificados de finalización. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de evaluación de los cursos y la capacidad de integrar con otras herramientas de formación. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos programas de formación y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación a los empleados sobre cómo usar la plataforma de manera efectiva. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere integración con otros sistemas de recursos humanos. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 37:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Marketing necesito una herramienta para analizar la efectividad de nuestras campañas publicitarias y optimizar el gasto en publicidad. ¿Qué opinan, Luis y Natalia? [Pregunta]"
+  },
+  {
+    "text": "Es muy necesario. Una herramienta de análisis de campañas nos ayudaría a maximizar el retorno de inversión. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría identificar qué estrategias están funcionando mejor y ajustar en consecuencia. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir rastrear el rendimiento de las campañas, analizar datos de audiencia y generar reportes detallados. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la capacidad de realizar pruebas A/B y optimizar automáticamente el gasto en publicidad. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunas campañas y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación al equipo de marketing sobre cómo usar la herramienta de análisis. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica análisis de datos y optimización continua. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 38:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Jefe de Proyectos necesito una herramienta para gestionar los cronogramas y recursos de los proyectos de manera eficiente. ¿Qué opinan, Sofía y Diego? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una herramienta de gestión de proyectos mejoraría la planificación y ejecución de nuestros proyectos. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría tener una visión clara del progreso y los recursos utilizados. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la herramienta? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir crear cronogramas, asignar tareas y recursos, y hacer seguimiento del progreso en tiempo real. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener la capacidad de generar reportes de estado y gestionar riesgos del proyecto. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos proyectos clave y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación al equipo de proyectos sobre cómo usar la herramienta de gestión. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere integración con otros sistemas de gestión. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 39:"
+  },
+  {
+    "text": "Vamos con la siguiente historia de usuario: Yo como Responsable de Atención al Cliente necesito un sistema para gestionar y resolver las consultas y quejas de los clientes de manera eficiente. ¿Qué opinan, Andrés y María? [Pregunta]"
+  },
+  {
+    "text": "Es muy importante. Un sistema de gestión de consultas mejoraría la satisfacción del cliente. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría resolver las quejas de manera más rápida y organizada. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener el sistema? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar y categorizar consultas, asignarlas a los agentes adecuados y hacer seguimiento del estado. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de retroalimentación para evaluar la satisfacción del cliente y generar reportes de rendimiento. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos departamentos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación al equipo de atención al cliente sobre cómo usar el sistema de gestión. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 3, es manejable pero requiere integración con otros sistemas de atención al cliente. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 3 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 3. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]\n\nHistoria de usuario 40:"
+  },
+  {
+    "text": "La siguiente historia de usuario: Yo como Responsable de Innovación Tecnológica necesito una plataforma para gestionar el ciclo de vida de los productos desde la idea hasta el lanzamiento. ¿Qué opinan, Ana y Jorge? [Pregunta]"
+  },
+  {
+    "text": "Es muy útil. Una plataforma de gestión del ciclo de vida de productos mejoraría la coordinación y eficiencia del desarrollo de productos. [Respuesta]"
+  },
+  {
+    "text": "Sí, y permitiría tener una visión clara de todas las etapas del ciclo de vida del producto. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué funcionalidades creen que debería tener la plataforma? [Pregunta]"
+  },
+  {
+    "text": "Debería permitir registrar ideas, gestionar el desarrollo, hacer seguimiento de pruebas y planificar el lanzamiento. [Sugerencia]"
+  },
+  {
+    "text": "También sería útil tener un sistema de colaboración para que los equipos puedan trabajar juntos de manera más eficiente. [Sugerencia]"
+  },
+  {
+    "text": "¿Cómo propones que implementemos esto? [Pregunta]"
+  },
+  {
+    "text": "Podríamos empezar con un piloto en algunos productos y luego expandirlo. [Sugerencia]"
+  },
+  {
+    "text": "Y deberíamos ofrecer formación a los equipos de desarrollo sobre cómo usar la plataforma de gestión. [Sugerencia]"
+  },
+  {
+    "text": "¿Qué nivel de complejidad le damos a esta historia? [Pregunta]"
+  },
+  {
+    "text": "Yo diría que un 4, ya que implica coordinación entre múltiples equipos y etapas. [Respuesta]"
+  },
+  {
+    "text": "Estoy de acuerdo. Un 4 es adecuado. [Retroalimentación]"
+  },
+  {
+    "text": "Bien, lo dejamos en 4. ¿Alguna otra cosa? [Pregunta]"
+  },
+  {
+    "text": "Nada más por mi parte. [Comentario]"
+  },
+  {
+    "text": "Todo claro. [Comentario]"
+  },
+  {
+    "text": "Perfecto, seguimos entonces. [Comentario]"
+  }
+]

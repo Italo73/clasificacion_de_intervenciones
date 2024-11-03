@@ -1,0 +1,442 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:02.69",
+			"end_time": "00:00:13.88",
+			"text": " Yo como funcionario de mantenimiento necesito poder revisar la informaci\u00f3n, los horarios de laboratorio y asignaturas para poder gestionar la instalaci\u00f3n de los equipos y software adecuados."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:59.11",
+			"end_time": "00:00:59.84",
+			"text": " Perm\u00edteme."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:59.88",
+			"end_time": "00:01:02.00",
+			"text": "Yo necesito leerlo de nuevo"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:32.54",
+			"end_time": "00:01:32.96",
+			"text": "Ya, ya entend\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:01.18",
+			"end_time": "00:02:01.51",
+			"text": " \u00bfCachaste?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:01.53",
+			"end_time": "00:02:01.60",
+			"text": "Esp\u00e9rtate."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:01.62",
+			"end_time": "00:02:02.90",
+			"text": "\u00bfY le sacaste una nota a ella?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:02.93",
+			"end_time": "00:02:02.96",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:02.98",
+			"end_time": "00:02:03.98",
+			"text": "Le doy a la parte de atr\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:28.21",
+			"end_time": "00:02:38.93",
+			"text": " A la cuenta de tres, levanta la mano y... \u00bfO sea tengo que mostrar con los dedos qui\u00e9n es?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:58.43",
+			"end_time": "00:03:00.40",
+			"text": " Uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:03.37",
+			"end_time": "00:03:04.33",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:04.34",
+			"end_time": "00:03:07.18",
+			"text": "\u00bfPor qu\u00e9 a ti se te har\u00eda dif\u00edcil?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:07.62",
+			"end_time": "00:03:08.63",
+			"text": "Desde tu rol, porque dec\u00edas..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:09.01",
+			"end_time": "00:03:25.63",
+			"text": " O sea, desde mi rol es como m\u00e1s por hacer la query, porque no hay que editarlo, sino que es solo mostrar, b\u00e1sicamente tenemos que estar bien compactos, como hab\u00edamos dicho en el programa anterior."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:27.08",
+			"end_time": "00:03:31.12",
+			"text": " para solo que se muestre los datos de cada laboratorio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:33.25",
+			"end_time": "00:03:36.68",
+			"text": "B\u00e1sicamente los horarios de los laboratorios que est\u00e1n en uso, podr\u00eda decirse."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:37.18",
+			"end_time": "00:03:43.72",
+			"text": "Porque no se puede hacer la mantenci\u00f3n de las instalaciones cuando est\u00e1n en clase."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:43.99",
+			"end_time": "00:03:55.33",
+			"text": "Entonces tiene que estar movi\u00e9ndose como en los momentos donde se va a mostrar como horarios donde no est\u00e9n en uso directamente las horas de los laboratorios y las asignaturas, si no me equivoco."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:55.34",
+			"end_time": "00:03:55.38",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:56.65",
+			"end_time": "00:04:04.80",
+			"text": " Entonces, creo que igual hacer una query para que elimine algunas cosas, igual se nos puede complicar si no est\u00e1 bien formada la base."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:04.84",
+			"end_time": "00:04:04.90",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:04.91",
+			"end_time": "00:04:22.92",
+			"text": "Yo lo encontr\u00e9 sencillo porque encontr\u00e9 que era muy parecido como la... Bueno, mi rol lo que tendr\u00eda que hacer es muy parecido a lo que"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:24.18",
+			"end_time": "00:04:41.27",
+			"text": " ten\u00eda que hacer en la otra historia de usuario es que si ser\u00eda como casi repetir la forma de c\u00f3digo que simplemente hacer que el servicio extraiga lo de base a otro nom\u00e1s y lo ponga en Solomon del front. En mi caso tambi\u00e9n ser\u00eda como parecido a lo que dice Francisco porque b\u00e1sicamente tendr\u00eda como que reutilizar c\u00f3digo de la anterior historia y no ser\u00eda como muy complicado teniendo listo el backend"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:41.58",
+			"end_time": "00:04:53.27",
+			"text": " En mi caso tambi\u00e9n ser\u00eda como parecido a lo que dice Francisco porque b\u00e1sicamente tendr\u00eda como que reutilizar c\u00f3digo de la anterior historia y no ser\u00eda como muy complicado teniendo listo el backend"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:54.04",
+			"end_time": "00:05:08.00",
+			"text": " y coordinando el horario y la asignatura podr\u00eda yo obviamente trabajando a la par con los encargados de eso hacer una interfaz amigable y que se pueda comprender no ser\u00eda complicado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:10.24",
+			"end_time": "00:05:20.95",
+			"text": "Bueno desde mi punto de vista la experiencia de usuario es que siento que es una tarea f\u00e1cil el tema de la experiencia de usuario"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:24.55",
+			"end_time": "00:05:28.02",
+			"text": " Igual siento que tengo que trabajar harto contigo en ese tema."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:29.20",
+			"end_time": "00:05:33.25",
+			"text": "Pero no encuentro que sea una tarea muy dif\u00edcil."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:33.81",
+			"end_time": "00:05:38.01",
+			"text": "Igual pensando en la otra historia de usuario, igual se puede reutilizar mucho."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:38.04",
+			"end_time": "00:05:43.39",
+			"text": "Yo soy el \u00fanico que cambia esa de los registros, o sea, yo soy el \u00fanico que cambia."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:43.68",
+			"end_time": "00:05:46.12",
+			"text": "Soy el que debe hacerlo, haciendo lo contrario."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:46.60",
+			"end_time": "00:05:51.87",
+			"text": "Mostrar lo que no se est\u00e1 usando."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:51.91",
+			"end_time": "00:05:53.12",
+			"text": "Ese es mi punto de descarte con..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:53.97",
+			"end_time": "00:06:02.85",
+			"text": " Va a ser... No puedo usar la query anterior, porque es que muestra todo el horario, sino que tengo que ir descartando los horarios que ya est\u00e1n en uso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:02.91",
+			"end_time": "00:06:03.88",
+			"text": "Filtrar, b\u00e1sicamente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:03.91",
+			"end_time": "00:06:22.60",
+			"text": "\u00bfT\u00fa como que caer\u00eda m\u00e1s en las responsabilidades del backend en todo caso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:22.68",
+			"end_time": "00:06:23.13",
+			"text": "S\u00ed, po."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:28.35",
+			"end_time": "00:06:39.00",
+			"text": "Sigo pensando que desde mi punto de vista puede ser sencillo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:50.73",
+			"end_time": "00:06:53.29",
+			"text": " Yo creo que lo que m\u00e1s se complicar\u00eda ser\u00eda el backend."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:53.47",
+			"end_time": "00:06:57.18",
+			"text": "Pero bueno, eso que a tu criterio s\u00ed se te har\u00eda dif\u00edcil un backend."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:59.79",
+			"end_time": "00:07:00.99",
+			"text": "S\u00ed, pero si los dos tenemos que trabajar aparte."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:01.73",
+			"end_time": "00:07:01.97",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:01.99",
+			"end_time": "00:07:02.99",
+			"text": "Tienes que recibir los dos tambi\u00e9n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:03.67",
+			"end_time": "00:07:03.82",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:04.17",
+			"end_time": "00:07:06.32",
+			"text": "Podemos mandarlo al front ."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:06.85",
+			"end_time": "00:07:08.75",
+			"text": "Es que todos tenemos que trabajar juntos en todo caso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:09.00",
+			"end_time": "00:07:09.06",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:09.19",
+			"end_time": "00:07:11.30",
+			"text": "O sea, yo no tengo nada que hacer contigo al inicio."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:11.68",
+			"end_time": "00:07:12.25",
+			"text": "Ah, bueno, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:12.86",
+			"end_time": "00:07:15.50",
+			"text": "Como ustedes dos, despu\u00e9s ustedes dos y nosotros dos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:15.51",
+			"end_time": "00:07:16.10",
+			"text": "Efectivamente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:16.13",
+			"end_time": "00:07:19.66",
+			"text": "Tambi\u00e9n tiramos como as\u00ed y... Claro, como una l\u00ednea."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:21.00",
+			"end_time": "00:07:24.50",
+			"text": " pero nosotros se mantendr\u00edamos"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:53.32",
+			"end_time": "00:08:01.62",
+			"text": " Bueno, igual si a ti se te complica, o sea, un poco m\u00e1s, de 2 a 3, a m\u00ed de cierta forma igual me afectar\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:02.02",
+			"end_time": "00:08:06.00",
+			"text": "As\u00ed que tambi\u00e9n ir\u00eda como a medio, aqu\u00ed hiciera."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:06.02",
+			"end_time": "00:08:08.12",
+			"text": "Claro, bueno, empieza a subir a todo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:08.54",
+			"end_time": "00:08:10.13",
+			"text": "Quedar\u00eda como el 2 y medio all\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:10.60",
+			"end_time": "00:08:12.36",
+			"text": "Debe ser un pegado a 2, literalmente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:16.12",
+			"end_time": "00:08:19.33",
+			"text": "Y as\u00ed igual podr\u00eda, como conclusi\u00f3n, quedar en medio, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:21.86",
+			"end_time": "00:08:24.79",
+			"text": " Claro, es que el Fabian en el que como queda la base."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:25.38",
+			"end_time": "00:08:30.23",
+			"text": "Y si da y parte est\u00e1 en Per\u00fa, eso va a complicar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:31.23",
+			"end_time": "00:08:33.52",
+			"text": "\u00bfTres entonces?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:37.54",
+			"end_time": "00:08:39.68",
+			"text": "Si no complico ser\u00eda eso, s\u00ed, ser\u00eda como..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:40.54",
+			"end_time": "00:08:41.28",
+			"text": "P\u00e1salo bien, p\u00e1salo bien."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:50.80",
+			"end_time": "00:08:56.99",
+			"text": " No me mantengo sencillo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:21.77",
+			"end_time": "00:09:37.59",
+			"text": " Si hago un... Pensando... Podr\u00eda unir las tablas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:39.35",
+			"end_time": "00:09:41.33",
+			"text": "Pens\u00e1ndolo como backend."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:41.35",
+			"end_time": "00:09:44.09",
+			"text": "Pens\u00e1ndolo como la base de datos en general."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:44.11",
+			"end_time": "00:09:46.42",
+			"text": "Pens\u00e1ndolo como la presencia de datos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:47.78",
+			"end_time": "00:09:48.50",
+			"text": "Creo que si junto..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:50.80",
+			"end_time": "00:09:57.74",
+			"text": " o no juntar, sino como relaciono bien los datos, igual podr\u00eda quedar m\u00e1s sencillo de lo que creo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:57.75",
+			"end_time": "00:09:58.77",
+			"text": "\u00bfCu\u00e1l ser\u00eda tu n\u00famero entonces?"
+		}
+	]
+}

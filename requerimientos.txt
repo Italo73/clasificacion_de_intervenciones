@@ -1,0 +1,7 @@
+transformers
+transformers[torch]
+pandas
+evaluate
+scikit-learn
+notebook
+plotly

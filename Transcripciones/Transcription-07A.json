@@ -1,0 +1,298 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:02.62",
+			"end_time": "00:00:09.35",
+			"text": " Yo como estudiante necesito ver mi horario semanal para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:13.17",
+			"end_time": "00:00:24.51",
+			"text": "Piensen primero cada uno, vuelvan a leer esto, esto y en un momento, un rato m\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:00:58.78",
+			"end_time": "00:01:13.18",
+			"text": " \u00bfListo?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:14.15",
+			"end_time": "00:01:17.45",
+			"text": "Recuerden que tienen que tener pensado la designaci\u00f3n del rol."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:18.06",
+			"end_time": "00:01:18.17",
+			"text": "\u00bfBien?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:21.37",
+			"end_time": "00:01:28.18",
+			"text": " Por lo menos desde mi punto de vista, el horario semanal no cambia, as\u00ed que en temas de datos son siempre los mismos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:29.25",
+			"end_time": "00:01:34.04",
+			"text": "As\u00ed que deber\u00eda ser algo sencillo mostrar siempre la misma informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:35.57",
+			"end_time": "00:01:36.87",
+			"text": "Recopilar por lo menos los mismos datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:36.90",
+			"end_time": "00:01:37.42",
+			"text": "\u00bfFrontend, qu\u00e9 dices?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:37.43",
+			"end_time": "00:01:48.51",
+			"text": "\u00bfSer\u00eda como mostrar los datos de tu?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:50.09",
+			"end_time": "00:01:53.76",
+			"text": " O sea, que se vean el horario, \u00bfcu\u00e1nto se llama?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:53.85",
+			"end_time": "00:01:55.40",
+			"text": "Junto con la sala o laboratorio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:55.50",
+			"end_time": "00:01:57.67",
+			"text": "Es sencillo"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:59.12",
+			"end_time": "00:02:03.67",
+			"text": "Yo tambi\u00e9n pienso que es sencillo porque pr\u00e1cticamente solamente tienes que traer los datos y que se vean."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:04.26",
+			"end_time": "00:02:08.77",
+			"text": "Y para que se vean de una manera ordenada, supongo que podr\u00eda estar como en una tabla."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:08.78",
+			"end_time": "00:02:10.15",
+			"text": "Para que se vea bien."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:10.21",
+			"end_time": "00:02:11.77",
+			"text": "\u00bfT\u00fa eres?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:13.16",
+			"end_time": "00:02:13.59",
+			"text": "Back-end."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:14.65",
+			"end_time": "00:02:16.83",
+			"text": "Es como lo m\u00e1s importante."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:16.84",
+			"end_time": "00:02:17.33",
+			"text": "\u00bfQu\u00e9 piensas?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:17.97",
+			"end_time": "00:02:20.84",
+			"text": " \u00bfPero usted el resto piensa que dos semanas es suficiente?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:22.81",
+			"end_time": "00:02:27.06",
+			"text": "Porque tenemos dos semanas para realizar esto y que quede en funci\u00f3n dentro de la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:29.31",
+			"end_time": "00:02:31.40",
+			"text": "Desde mi punto de vista, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:31.44",
+			"end_time": "00:02:31.84",
+			"text": "Sencillo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:32.59",
+			"end_time": "00:02:37.81",
+			"text": "Porque recuerden que tendr\u00edamos que dividirnos las dos semanas entre los cuatro."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:38.02",
+			"end_time": "00:02:40.47",
+			"text": "Las dos semanas cada uno."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:40.87",
+			"end_time": "00:02:41.19",
+			"text": "\u00bfS\u00ed?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:41.25",
+			"end_time": "00:02:41.34",
+			"text": "\u00bfS\u00ed?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:41.43",
+			"end_time": "00:02:42.43",
+			"text": "S\u00ed, de acuerdo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:42.46",
+			"end_time": "00:02:44.46",
+			"text": "Los datos no hay que tocarlos mucho."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:45.25",
+			"end_time": "00:02:52.50",
+			"text": " No, porque lograr en realidad est\u00e1 todo y solamente extraerlo tendr\u00edamos que dar como una interfaz que sea intuitiva para el estudiante, lo cual no deber\u00eda ser dif\u00edcil."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:52.59",
+			"end_time": "00:02:57.62",
+			"text": "A m\u00ed es casi lo mismo de nom\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:57.65",
+			"end_time": "00:02:58.78",
+			"text": "\u00bfPor qu\u00e9 no muy sencillo?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:58.80",
+			"end_time": "00:03:00.28",
+			"text": "\u00bfY eso no es sencillo?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:00.50",
+			"end_time": "00:03:01.90",
+			"text": "\u00bfPero qu\u00e9 opinaba backend?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:02.93",
+			"end_time": "00:03:05.47",
+			"text": "Backend opina que s\u00ed, sencillo, muy sencillo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:07.63",
+			"end_time": "00:03:10.28",
+			"text": "Es que no s\u00e9 si ser\u00eda muy sencillo porque igual..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:10.84",
+			"end_time": "00:03:14.68",
+			"text": " a veces ocurren los problemas para traer los datos hacia para mostrarlo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:14.71",
+			"end_time": "00:03:18.13",
+			"text": "Por eso no digo que es muy sencillo, ser\u00eda sencillo por el tiempo que hay."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:18.18",
+			"end_time": "00:03:31.39",
+			"text": "De hecho yo creo que casi todo el tiempo se ir\u00eda m\u00e1s dedicado al tema de experiencia de usuario que el tema de mostrar cu\u00e1les datos, el c\u00f3mo m\u00e1s que el..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:31.98",
+			"end_time": "00:03:34.09",
+			"text": "Ser\u00eda m\u00e1s como adaptarlo al dispositivo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:35.74",
+			"end_time": "00:03:36.41",
+			"text": "\u00bfPor all\u00e1, Frontend?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:37.24",
+			"end_time": "00:03:37.80",
+			"text": "Yo creo que igual..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:39.13",
+			"end_time": "00:03:44.08",
+			"text": " \u00bfPueden ser igual problemas como conectar todos los servicios, todo eso, en la misma aplicaci\u00f3n?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:44.78",
+			"end_time": "00:03:45.81",
+			"text": "\u00bfNos mantenemos sencillo?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:45.86",
+			"end_time": "00:03:46.58",
+			"text": "S\u00ed, en sencillo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:46.81",
+			"end_time": "00:03:46.93",
+			"text": "Ok."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:47.03",
+			"end_time": "00:03:49.36",
+			"text": "\u00bfEstamos de acuerdo todos entonces?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:49.40",
+			"end_time": "00:03:49.53",
+			"text": "S\u00ed."
+		}
+	]
+}

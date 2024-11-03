@@ -1,0 +1,718 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:02.16",
+			"end_time": "00:00:04.16",
+			"text": " \u00bfQui\u00e9n la lee?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:04.37",
+			"end_time": "00:00:05.25",
+			"text": "T\u00fa."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:05.29",
+			"end_time": "00:00:13.53",
+			"text": "La historia de usuario A. Yo como estudiante necesito ver mi horario semanal para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:16.10",
+			"end_time": "00:00:24.71",
+			"text": "Entonces lo que tenemos que hacer es especificar cu\u00e1l es la complejidad de esto y se lo podemos poner en un sprint de dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:26.30",
+			"end_time": "00:00:27.32",
+			"text": "Lo voy a leer de nuevo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:27.48",
+			"end_time": "00:00:29.57",
+			"text": "Yo como estudiante necesito ver mi horario semanal"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:30.26",
+			"end_time": "00:00:33.71",
+			"text": " Para conocer en qu\u00e9 horario y sala o laboratorio se dicta cada asignatura."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:33.77",
+			"end_time": "00:00:43.47",
+			"text": "Entonces, el contenedor de servicios de asignaturas tiene que tener la informaci\u00f3n de la sala de clase."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:44.11",
+			"end_time": "00:00:46.85",
+			"text": "Yo creo que lo primero que deber\u00edamos hacer es modularizar y asignar tiempo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:47.11",
+			"end_time": "00:00:55.10",
+			"text": "Porque yo, por ejemplo, yo en Frontend tengo que hacer el calendario, tengo que hacer las vistas del calendario y tengo que hacer tambi\u00e9n por..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:56.34",
+			"end_time": "00:01:02.15",
+			"text": " estudiante las vistas de cada uno de sus horarios dependiendo de la informaci\u00f3n que hay en el paquete."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:02.34",
+			"end_time": "00:01:08.01",
+			"text": "Yo creo que ver si es agradable para el p\u00fablico y que sea funcional como la mayor\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:08.03",
+			"end_time": "00:01:12.48",
+			"text": "Claro, o sea no solamente tiene que ser funcional sino que adem\u00e1s tiene que ser amigable."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:13.17",
+			"end_time": "00:01:20.65",
+			"text": "Yo b\u00e1sicamente tengo que registrar que el horario semanal se vaya actualizando constantemente y que este tenga persistencia a lo largo del tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:22.43",
+			"end_time": "00:01:28.12",
+			"text": " va a ser una base de datos bien grande porque el horario semanal de todos los estudiantes de la universidad es incre\u00edblemente grande."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:28.29",
+			"end_time": "00:01:37.06",
+			"text": "Claro, primero ten\u00e9s que definir las tablas para la base de datos, las relaciones, pero eso probablemente ya est\u00e1 hecho en este sistema, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:37.29",
+			"end_time": "00:01:38.23",
+			"text": "No, porque est\u00e1 en desarrollo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:38.37",
+			"end_time": "00:01:38.54",
+			"text": "Exacto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:38.56",
+			"end_time": "00:01:46.78",
+			"text": "Pero igual el tema de la sala es... Tienen un Excel y cada carrera..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:46.80",
+			"end_time": "00:01:48.60",
+			"text": "La sala se asigna antes."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:49.20",
+			"end_time": "00:01:51.00",
+			"text": "S\u00ed, pero se hace manual por carrera."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:51.43",
+			"end_time": "00:01:53.26",
+			"text": " Hay que ingresar toda esa informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:53.68",
+			"end_time": "00:02:05.51",
+			"text": "Pero no pensemos en eso, sino que pensando en que tienen que definir m\u00e1s como todas las tablas, tienen que hacer las consultas de la base de datos para que yo las pueda acceder con el Max y poder tirarla a un front."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:05.85",
+			"end_time": "00:02:08.63",
+			"text": "\u00bfCu\u00e1nto les tomar\u00eda hacer eso?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:08.93",
+			"end_time": "00:02:10.93",
+			"text": "Pasar todo a base de datos ser\u00eda..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:12.94",
+			"end_time": "00:02:25.87",
+			"text": " No pasar todo a base de datos, sino que crear la base de datos, considerando que cuando se inici\u00f3 el proceso, porque en esta historia de usuario no estamos pensando en qui\u00e9n va a ingresar los datos, los datos est\u00e1n, sino que en dise\u00f1ar las funcionalidades y que puedan ver el calendario."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:25.90",
+			"end_time": "00:02:28.13",
+			"text": "Claro, pero igual hay que dise\u00f1ar la base de datos si no est\u00e1 dise\u00f1ado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:28.15",
+			"end_time": "00:02:30.46",
+			"text": "S\u00ed, hay que dise\u00f1ar las tablas espec\u00edficas para eso."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:30.47",
+			"end_time": "00:02:36.21",
+			"text": "Entonces, primeramente necesit\u00e1is el usuario, primeramente todos sus datos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:36.44",
+			"end_time": "00:02:36.56",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:37.37",
+			"end_time": "00:02:39.21",
+			"text": " todos los ramos, todos los ramos que se tengan."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:39.24",
+			"end_time": "00:02:44.62",
+			"text": "Y ese ramo tiene hacinado una sala, eso ya tiene relacionado al tir\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:44.84",
+			"end_time": "00:02:45.81",
+			"text": "Con un profesor sobre todo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:45.84",
+			"end_time": "00:02:49.28",
+			"text": "Pero se le va a agregar un campo que es la sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:49.31",
+			"end_time": "00:02:51.40",
+			"text": "Se le va a agregar el campo que se haya asignado..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:51.5",
+			"end_time": "00:02:54.3",
+			"text": "Pero tambi\u00e9n te necesita que s\u00e9 qu\u00e9 profesor va a ser."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:55.75",
+			"end_time": "00:02:59.96",
+			"text": "Claro. Y tambi\u00e9n la consulta tiene que ser por cada uno de..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:00.87",
+			"end_time": "00:03:06.56",
+			"text": " cu\u00e1les son las asignaturas que tiene cada usuario, la tabla de usuario tiene que estar relacionada con la asignatura, la asignatura tiene que estar relacionada con el profesor."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:06.59",
+			"end_time": "00:03:13.37",
+			"text": "El profesor ya est\u00e1 con la asignatura, o sea, el profesor."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:14.37",
+			"end_time": "00:03:16.30",
+			"text": "Adem\u00e1s, cada asignatura tiene que tener un horario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:16.58",
+			"end_time": "00:03:19.52",
+			"text": "La pregunta es que tenemos que estimar ac\u00e1 si es que eso se puede hacer en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:21.21",
+			"end_time": "00:03:22.18",
+			"text": "En dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:22.97",
+			"end_time": "00:03:24.15",
+			"text": "S\u00ed, su lado, \u00bfcachai?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:24.21",
+			"end_time": "00:03:25.40",
+			"text": "Considerando que nosotros en Front,"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:26.21",
+			"end_time": "00:03:29.75",
+			"text": " Vamos a poder tambi\u00e9n, tenemos que estimar cu\u00e1nto nos tomar\u00eda hacer eso en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:30.15",
+			"end_time": "00:03:31.19",
+			"text": "Si se puede hacer en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:32.24",
+			"end_time": "00:03:36.84",
+			"text": "Entonces miren, voy a leer los tipos de resultados porque podemos tener como la misma base."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:37.41",
+			"end_time": "00:03:39.63",
+			"text": "Muy sencillo, el problema est\u00e1 pr\u00e1cticamente resuelto."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:39.74",
+			"end_time": "00:03:42.43",
+			"text": "El equipo puede desarrollar la historia de usuario en una fracci\u00f3n m\u00ednima de iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:43.03",
+			"end_time": "00:03:46.50",
+			"text": "Sencillo, el equipo puede desarrollar la historia de usuario sin problema en la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:46.87",
+			"end_time": "00:03:48.86",
+			"text": "Al menos una historia singular podr\u00eda agregarse a la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:49.58",
+			"end_time": "00:03:52.37",
+			"text": "Medio, el equipo puede desarrollar la historia de usuario en la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:52.56",
+			"end_time": "00:03:54.94",
+			"text": "Solo una historia de menor complejidad puede agregarse a la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:55.66",
+			"end_time": "00:03:56.06",
+			"text": " Complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:56.31",
+			"end_time": "00:04:01.02",
+			"text": "El equipo puede desarrollar la historia de usuario en la iteraci\u00f3n siempre y cuando no haya ning\u00fan inconveniente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:01.46",
+			"end_time": "00:04:04.03",
+			"text": "No pueden agregarse otras historias a la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:04.53",
+			"end_time": "00:04:05.34",
+			"text": "Imposible."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:05.36",
+			"end_time": "00:04:11.50",
+			"text": "El equipo no puede desarrollar la historia dentro de la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:12.37",
+			"end_time": "00:04:21.35",
+			"text": "A m\u00ed desarrollar un calendario en front con esas consultas me tomar\u00eda f\u00e1cil una semana hacerlo bien."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:21.47",
+			"end_time": "00:04:22.70",
+			"text": "O media semana, una semana."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:22.91",
+			"end_time": "00:04:25.01",
+			"text": "Y t\u00fa te conect\u00e1s directamente con la Araceli, as\u00ed que"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:25.31",
+			"end_time": "00:04:26.87",
+			"text": " Claro, pero adem\u00e1s tengo que trabajar con el Max."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:27.16",
+			"end_time": "00:04:30.06",
+			"text": "Porque mientras yo voy desarrollando, \u00e9l va a tener que ir haciendo que se vea bien."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:30.13",
+			"end_time": "00:04:33.48",
+			"text": "Y teste\u00e1ndolo si... Claro, si falla algo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:33.50",
+			"end_time": "00:04:33.48",
+			"text": "Claro, si falla algo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:33.50",
+			"end_time": "00:04:38.07",
+			"text": "Si yo creo que, considerando que yo estimo muy mal, si yo creo que en una semana yo podr\u00eda hacerlo... Tienes que dejarlo en cura."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:38.52",
+			"end_time": "00:04:39.07",
+			"text": "Tienes que dejarle holgura."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:40.25",
+			"end_time": "00:04:45.26",
+			"text": "S\u00ed, entonces probablemente yo creo que se podr\u00eda hacer en las dos semanas esta parte, front."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:45.56",
+			"end_time": "00:04:46.56",
+			"text": "Sin ning\u00fan conveniente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:46.76",
+			"end_time": "00:04:50.70",
+			"text": "Pero podr\u00eda solamente ponerse una historia de usuario sencilla m\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:52.26",
+			"end_time": "00:04:52.56",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:52.58",
+			"end_time": "00:04:53.61",
+			"text": "Hacer como una historia..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:54.38",
+			"end_time": "00:05:02.93",
+			"text": " dividida o no, como que hay usuarios que son una mezcla de todas y eso es mucho m\u00e1s pedo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:02.98",
+			"end_time": "00:05:07.37",
+			"text": "Pero es una nom\u00e1s, entonces yo creo que... \u00bfSe definen varias funcionalidades?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:07.86",
+			"end_time": "00:05:16.07",
+			"text": "Yo creo en modelar la base de datos, hablando de abstraerse, hacer las tablas, modelo relacional y a pasarlo a"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:17.30",
+			"end_time": "00:05:19.00",
+			"text": " A integrarlo al backend."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:19.01",
+			"end_time": "00:05:28.86",
+			"text": "Porque adem\u00e1s si van a tener que integrar, claro, al backend junto con las consultas espec\u00edficas, probablemente vayan a necesitar varios tipos de consultas, tipo el usuario, por este usuario, cu\u00e1les son sus ramos, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:29.00",
+			"end_time": "00:05:29.42",
+			"text": "Exacto."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:29.93",
+			"end_time": "00:05:31.95",
+			"text": "Por este profesor, cu\u00e1les son sus ramos, ese tipo de cosas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:32.42",
+			"end_time": "00:05:40.68",
+			"text": "Yo creo que unos cuatro d\u00edas saldr\u00eda eso, porque es m\u00e1s largo, dir\u00eda yo, desarrollarlo y conectarlo con el backend."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:41.43",
+			"end_time": "00:05:43.14",
+			"text": "Pero es m\u00e1s corto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:43.44",
+			"end_time": "00:05:45.06",
+			"text": "Entonces, \u00bfen qu\u00e9 semana es cumplido?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:45.67",
+			"end_time": "00:05:46.25",
+			"text": "En una semana."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:47.50",
+			"end_time": "00:05:48.58",
+			"text": " En dos semanas es complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:48.61",
+			"end_time": "00:05:50.81",
+			"text": "\u00bfT\u00fa dec\u00eds que les complicar\u00eda hacer todo eso en dos semanas?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:51.06",
+			"end_time": "00:05:53.36",
+			"text": "O sea, todo po, mas lo tuyo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:53.92",
+			"end_time": "00:05:55.63",
+			"text": "S\u00ed, yo creo que todo junto es complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:55.68",
+			"end_time": "00:05:56.36",
+			"text": "Todo junto."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:56.95",
+			"end_time": "00:06:02.45",
+			"text": "Probablemente se podr\u00eda meter otra historia de usuario en la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:02.48",
+			"end_time": "00:06:10.50",
+			"text": "S\u00ed, si est\u00e1 relacionada con este probablemente ser\u00eda m\u00e1s f\u00e1cil de desarrollar, pero una cuesti\u00f3n que fuese ajena o de otro m\u00f3dulo ser\u00eda complejo de desarrollar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:11.81",
+			"end_time": "00:06:12.57",
+			"text": "Y probablemente..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:13.70",
+			"end_time": "00:06:17.43",
+			"text": " no podr\u00edamos desarrollarlo a la vez con otra de alta complejidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:18.12",
+			"end_time": "00:06:21.06",
+			"text": "Eso considerando tambi\u00e9n como las habilidades que tenemos todav\u00eda al desarrollo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:22.18",
+			"end_time": "00:06:25.81",
+			"text": "Y tambi\u00e9n tenemos que ver por si se alarga el proyecto."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:26.27",
+			"end_time": "00:06:33.06",
+			"text": "Puede que haya, no s\u00e9, cualquier problema b\u00e1sico puede pasar y eso ya te le tienes que sumar dos d\u00edas por lo menos de que algo sucedi\u00f3."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:35.36",
+			"end_time": "00:06:40.69",
+			"text": "Adem\u00e1s, miren, en la arquitectura tenemos el front, despu\u00e9s est\u00e1 el backend de Node.js."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:41.12",
+			"end_time": "00:06:41.69",
+			"text": "\u00bfLa consultas?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:42.20",
+			"end_time": "00:06:50.27",
+			"text": " Atr\u00e1s del contenedor de inscripci\u00f3n hay un servicio de inscripci\u00f3n y hay una aplicaci\u00f3n para inscribir asignaturas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:50.57",
+			"end_time": "00:07:02.25",
+			"text": "Me tinka a m\u00ed que nosotros no nos metemos ni en Inscription Service ni en Inscription App, porque son de inscripci\u00f3n y la historia de usuario solamente est\u00e1 pidiendo que mostremos cuando ya est\u00e1 inscrito."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:04.12",
+			"end_time": "00:07:07.68",
+			"text": "S\u00ed, solo necesita ver el horario semanal."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:07.70",
+			"end_time": "00:07:09.97",
+			"text": "La inscripci\u00f3n est\u00e1 hecha, o sea, tenemos que asumir que ya est\u00e1 lista."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:11.18",
+			"end_time": "00:07:13.01",
+			"text": " Eso ser\u00eda conectar con otro m\u00f3dulo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:13.07",
+			"end_time": "00:07:14.50",
+			"text": "Ser\u00eda como hacer las consultas."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:14.51",
+			"end_time": "00:07:15.45",
+			"text": "S\u00ed, hacer las puras consultas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:16.04",
+			"end_time": "00:07:21.83",
+			"text": "Y es, claro, hacer las puras consultas, considerando tambi\u00e9n las tablas y todo eso, pero probablemente ser\u00edan como las puras consultas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:22.80",
+			"end_time": "00:07:26.42",
+			"text": "Yo creo que est\u00e1 entre medio y complicado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:26.57",
+			"end_time": "00:07:27.18",
+			"text": "Yo creo que medio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:27.80",
+			"end_time": "00:07:32.85",
+			"text": "Y tambi\u00e9n tiene que ver con el nivel que tenemos nosotros de velocidad al desarrollar, porque no soy tan r\u00e1pido."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:32.87",
+			"end_time": "00:07:36.39",
+			"text": "Yo tambi\u00e9n  \u00eda y le pongo medio."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:36.49",
+			"end_time": "00:07:37.49",
+			"text": "Dividir\u00eda esa historia."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:39.05",
+			"end_time": "00:07:39.70",
+			"text": "En m\u00e1s sprints."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:41.31",
+			"end_time": "00:07:43.56",
+			"text": " No la dividir\u00eda, o sea, yo creo que se puede hacer en las dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:44.41",
+			"end_time": "00:07:51.81",
+			"text": "Yo creo que medio, en el sentido de que se puede agregar otra historia de usuario para ese sprint de dos semanas de menor complejidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:52.38",
+			"end_time": "00:07:53.39",
+			"text": "Se podr\u00eda agregar la iteraci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:53.42",
+			"end_time": "00:07:56.19",
+			"text": "O sea, podr\u00edamos hacer esta y una m\u00e1s f\u00e1cil."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:58.93",
+			"end_time": "00:07:59.57",
+			"text": "\u00bfMedio entonces?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:59.60",
+			"end_time": "00:08:01.45",
+			"text": "S\u00ed, yo tambi\u00e9n creo que estoy de acuerdo con medio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:01.54",
+			"end_time": "00:08:06.48",
+			"text": "\u00bfEstamos todos de acuerdo?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:06.54",
+			"end_time": "00:08:06.77",
+			"text": "Super."
+		}
+	]
+}
